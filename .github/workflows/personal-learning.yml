@@ -1,0 +1,104 @@
+name: Personal Learning Reflection
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'case-studies/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-*.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: personal-learning
+  cancel-in-progress: false
+
+jobs:
+  reflect:
+    # Avoid infinite loop: skip if this push was already a personal-learning commit
+    if: "!contains(github.event.head_commit.message, '[personal-learning]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+
+      - name: Find case studies that need reflection
+        id: find
+        run: |
+          # Files changed in this push, limited to dated case study articles
+          git diff --name-only HEAD~1 HEAD -- \
+            'case-studies/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-*.md' \
+            2>/dev/null | grep -v 'INDEX.md' > /tmp/changed.txt || true
+
+          # Keep only files that don't already have the personal section
+          > /tmp/needs-reflection.txt
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            grep -q '## 对照我的项目' "$f" && continue
+            echo "$f" >> /tmp/needs-reflection.txt
+          done < /tmp/changed.txt
+
+          COUNT=$(grep -c '.' /tmp/needs-reflection.txt 2>/dev/null || echo 0)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+          echo "Files needing reflection ($COUNT):"
+          cat /tmp/needs-reflection.txt
+
+      - name: Write personal reflection sections
+        if: steps.find.outputs.count != '0'
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          allowed_bots: "github-actions[bot],nlpm-auditor[bot]"
+          claude_args: "--allowedTools Read,Edit,Grep"
+          prompt: |
+            Read /tmp/needs-reflection.txt to get the list of case study files.
+
+            For EACH file listed, read its full content, then APPEND the following two sections
+            at the very end of the file (after all existing content). Do NOT modify any existing content.
+
+            Use this exact format:
+
+            ---
+
+            ## 对照我的项目
+
+            **自查：我有没有犯同样的错？**
+
+            Based on the case study's defect analysis and notable patterns, write 3-5 bullet points answering:
+            - Which of the identified problems could appear in my own NL artifacts (CLAUDE.md, AGENTS.md, SKILL.md files)?
+            - Which good patterns am I already applying? Which am I missing?
+            - What is the one thing I should check in my own project immediately?
+
+            Be specific and honest. Name concrete file types or section names where the risk would appear.
+
+            ## 灵感
+
+            Ideas this repo sparks for improving my own project. List 2-4 concrete, actionable ideas.
+            If nothing new compared to what I already do, write "暂无".
+
+            ---
+
+            Write in Chinese for both sections. The case study itself is in English — that is fine,
+            just add the Chinese sections at the end.
+
+      - name: Commit reflection sections
+        if: steps.find.outputs.count != '0'
+        run: |
+          git config user.name "nlpm-auditor[bot]"
+          git config user.email "nlpm-auditor[bot]@users.noreply.github.com"
+          git add case-studies/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit — reflection sections may already exist"
+            exit 0
+          fi
+          # Count how many files we updated
+          UPDATED=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          git commit -m "[personal-learning] add reflection sections ($UPDATED files)"
+          for ATTEMPT in 1 2 3; do
+            git push && break
+            echo "Push attempt $ATTEMPT failed, retrying..."
+            git pull --no-rebase origin main --no-edit 2>/dev/null || true
+            [ "$ATTEMPT" -eq 3 ] && { echo "ERROR: push failed after 3 attempts"; exit 1; }
+          done
