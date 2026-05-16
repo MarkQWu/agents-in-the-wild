@@ -7765,6 +7765,13 @@
       "strategy": "batched",
       "security": "REVIEW",
       "commit_sha_at_audit": "987dc1173f93737e28bdbba18a38b7a3de4cb019"
+    },
+    "anthropics/claude-code": {
+      "status": "audited",
+      "score": 88,
+      "strategy": "batched",
+      "security": "CLEAR",
+      "commit_sha_at_audit": "8bdbb7296d3fa2217283d3ef94452dd64097393b"
     }
   }
 }
