@@ -2135,4 +2135,7 @@
 {"timestamp":"2026-05-16T20:45:25Z","workflow":"track","event":"status_check","run_id":"25972332992","run_number":2,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
 {"timestamp":"2026-05-16T22:43:20Z","workflow":"daily-report","event":"report_generated","run_id":"25974925723","run_number":1,"data":{"total_repos":210}}
 {"timestamp":"2026-05-17T01:04:52Z","workflow":"discover","event":"search_complete","run_id":"25977559380","run_number":1,"data":{"candidates":90,"new":24,"worthy":1,"oversized":0}}
+{"timestamp":"2026-05-17T02:09:37Z","workflow":"audit","event":"scorer_drift_check","run_id":"25978638813","run_number":5,"data":{"repo":"taishi-i/awesome-japanese-nlp-resources","sidecar":"auditor/audits/taishi-i-awesome-japanese-nlp-resources.findings.jsonl","drifts":0,"exit_code":0}}
+{"timestamp":"2026-05-17T02:09:37Z","workflow":"audit","event":"findings_aggregated","run_id":"25978638813","run_number":5,"data":{"repo":"taishi-i/awesome-japanese-nlp-resources","findings":7,"invalid_lines":0,"self_false_positives":0}}
+{"timestamp":"2026-05-17T02:09:37Z","workflow":"audit","event":"audit_complete","run_id":"25978638813","run_number":5,"data":{"repo":"taishi-i/awesome-japanese-nlp-resources","score":79,"artifacts":5,"strategy":"single"}}
 {"timestamp":"2026-05-17T02:08:22Z","workflow":"track","event":"status_check","run_id":"25978607514","run_number":3,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}

@@ -7772,6 +7772,13 @@
       "strategy": "batched",
       "security": "CLEAR",
       "commit_sha_at_audit": "8bdbb7296d3fa2217283d3ef94452dd64097393b"
+    },
+    "taishi-i/awesome-japanese-nlp-resources": {
+      "status": "audited",
+      "score": 79,
+      "strategy": "single",
+      "security": "CLEAR",
+      "commit_sha_at_audit": "c3029cbaf68245df4db1251706fda9becd3fddf9"
     }
   }
 }
