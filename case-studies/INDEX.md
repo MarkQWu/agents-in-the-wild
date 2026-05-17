@@ -5,5 +5,3 @@
 | 仓库 | Stars | 分析日期 | 案例文件 |
 |---|---|---|---|
 | [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) | 859 | 2026-05-17 | [2026-05-17-0xfurai-claude-code-subagents.md](2026-05-17-0xfurai-claude-code-subagents.md) |
-| [0xmariowu/Autosearch](https://github.com/0xmariowu/Autosearch) | 13 | 2026-05-17 | [2026-05-17-0xmariowu-Autosearch.md](2026-05-17-0xmariowu-Autosearch.md) |
-| [2389-research/review-squad](https://github.com/2389-research/review-squad) | 1 | 2026-05-17 | [2026-05-17-2389-research-review-squad.md](2026-05-17-2389-research-review-squad.md) |
