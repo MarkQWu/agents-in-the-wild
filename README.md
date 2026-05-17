@@ -1,5 +1,10 @@
 # nlpm
 
+> 🇨🇳 **This fork adds a personal Chinese learning layer.** See [**learning/README.md**](learning/README.md) for the system overview. Daily auto-generated learning cases live in [`case-studies/learning/`](case-studies/learning/).
+
+---
+
+
 [![Validated by NLPM](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/xiaolai/nlpm-for-claude/main/nlpm-badge.json)](https://github.com/xiaolai/nlpm-for-claude/blob/main/nlpm-badge.json)
 
 Natural-Language Programming Manager -- discover, score, check, and fix NL artifacts with Claude-native intelligence.
