@@ -11,4 +11,6 @@
 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 976 | xiaolai upstream | 2026-05-17 | [2026-05-17-AgriciDaniel-claude-obsidian.md](2026-05-17-AgriciDaniel-claude-obsidian.md) |
 | [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 562 | xiaolai upstream | 2026-05-17 | [2026-05-17-AgriciDaniel-claude-blog.md](2026-05-17-AgriciDaniel-claude-blog.md) |
 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 2377 | xiaolai upstream | 2026-05-17 | [2026-05-17-AgriciDaniel-claude-ads.md](2026-05-17-AgriciDaniel-claude-ads.md) |
+| [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) | 528 | xiaolai upstream | 2026-05-17 | [2026-05-17-777genius-claude-notifications-go.md](2026-05-17-777genius-claude-notifications-go.md) |
 | [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) | — | 本地 audit | 2026-05-17 | [2026-05-17-taishi-i-awesome-japanese-nlp-resources.md](2026-05-17-taishi-i-awesome-japanese-nlp-resources.md) |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | — | 本地 audit | 2026-05-17 | [2026-05-17-anthropics-claude-code.md](2026-05-17-anthropics-claude-code.md) |
