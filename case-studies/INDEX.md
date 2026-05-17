@@ -4,4 +4,3 @@
 
 | 仓库 | Stars | 分析日期 | 案例文件 |
 |---|---|---|---|
-| [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) | 859 | 2026-05-17 | [2026-05-17-0xfurai-claude-code-subagents.md](2026-05-17-0xfurai-claude-code-subagents.md) |
