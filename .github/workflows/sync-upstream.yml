@@ -1,0 +1,68 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    # Sunday 23:00 UTC = Monday 07:00 Beijing (after xiaolai's weekly discover)
+    - cron: '0 23 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Try GitHub native sync first
+        id: native
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # GitHub's merge-upstream API does a fast-forward when possible.
+          # Returns 409 if we have diverged (need manual merge).
+          RESP=$(gh api -X POST repos/${{ github.repository }}/merge-upstream \
+            -f branch=main 2>&1) || true
+          echo "Response: $RESP"
+          if echo "$RESP" | grep -q "merge_type"; then
+            echo "result=fast-forward" >> "$GITHUB_OUTPUT"
+            echo "✓ Native sync succeeded"
+          else
+            echo "result=diverged" >> "$GITHUB_OUTPUT"
+            echo "✗ Cannot fast-forward — diverged, falling back to merge"
+          fi
+
+      - name: Manual merge if diverged
+        if: steps.native.outputs.result == 'diverged'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/xiaolai/nlpm-for-claude.git
+          git fetch upstream main
+
+          # Merge with "ours" strategy for our additions:
+          # - case-studies/2026-* (our generated Chinese cases)
+          # - learning-digest/ (our digests)
+          # Everything else from upstream wins
+          git merge upstream/main --no-edit --no-ff \
+            -m "sync: merge upstream xiaolai/nlpm-for-claude" || {
+            # If real conflicts, prefer ours for our paths, theirs for everything else
+            git checkout --ours case-studies/ learning-digest/ 2>/dev/null || true
+            git checkout --theirs . 2>/dev/null || true
+            git add -A
+            git commit --no-edit
+          }
+          git push origin main
+
+      - name: Report new audits
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # List audit files added by this sync (last commit)
+          NEW=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'auditor/audits/*.md' 2>/dev/null | grep -v re-audit | grep -v findings | wc -l | tr -d ' ')
+          echo "New audit reports synced: $NEW"
