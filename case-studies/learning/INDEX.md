@@ -8,3 +8,7 @@
 | 仓库 | Stars | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|
 | [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) | 903 | xiaolai upstream | 2026-05-17 | [2026-05-17-0xfurai-claude-code-subagents.md](2026-05-17-0xfurai-claude-code-subagents.md) |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 976 | xiaolai upstream | 2026-05-17 | [2026-05-17-AgriciDaniel-claude-obsidian.md](2026-05-17-AgriciDaniel-claude-obsidian.md) |
+| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 562 | xiaolai upstream | 2026-05-17 | [2026-05-17-AgriciDaniel-claude-blog.md](2026-05-17-AgriciDaniel-claude-blog.md) |
+| [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 2377 | xiaolai upstream | 2026-05-17 | [2026-05-17-AgriciDaniel-claude-ads.md](2026-05-17-AgriciDaniel-claude-ads.md) |
+| [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) | — | 本地 audit | 2026-05-17 | [2026-05-17-taishi-i-awesome-japanese-nlp-resources.md](2026-05-17-taishi-i-awesome-japanese-nlp-resources.md) |
