@@ -2133,7 +2133,11 @@
 {"timestamp":"2026-05-16T22:15:30Z","workflow":"daily-report","event":"report_generated","run_id":"25974361206","run_number":42,"data":{"total_repos":209}}
 {"timestamp":"2026-05-17T00:22:25Z","workflow":"suppressions","event":"scan_complete","run_id":"25976784677","run_number":4,"data":{"candidates":0,"emitted":0,"skipped_self":0,"skipped_dup":0,"skipped_no_overrides":0,"search_ok":true}}
 {"timestamp":"2026-05-17T01:01:54Z","workflow":"track","event":"status_check","run_id":"25977394976","run_number":170,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
-{"timestamp":"2026-05-17T06:34:15Z","workflow":"classify","event":"classifications_emitted","run_id":"25983603245","run_number":1,"data":{"classifications":0,"invalid":0,"no_dissent":true}}
-{"timestamp":"2026-05-17T06:45:17Z","workflow":"track","event":"status_check","run_id":"25983699666","run_number":4,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
-{"timestamp":"2026-05-17T09:34:23Z","workflow":"track","event":"status_check","run_id":"25987077685","run_number":5,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
-{"timestamp":"2026-05-17T10:18:25Z","workflow":"refine-rules","event":"proposals_prepared","run_id":"25988114229","run_number":1,"data":{"proposals":5,"skipped_existing_open":0}}
+{"timestamp":"2026-05-17T04:50:48Z","workflow":"classify","event":"classifications_emitted","run_id":"25981692616","run_number":26,"data":{"classifications":0,"invalid":0,"no_dissent":true}}
+{"timestamp":"2026-05-17T05:28:32Z","workflow":"track","event":"status_check","run_id":"25982263860","run_number":171,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
+{"timestamp":"2026-05-17T08:54:25Z","workflow":"track","event":"status_check","run_id":"25986273721","run_number":172,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
+{"timestamp":"2026-05-17T09:40:14Z","workflow":"refine-rules","event":"proposals_prepared","run_id":"25987343916","run_number":4,"data":{"proposals":5,"skipped_existing_open":0}}
+{"timestamp":"2026-05-17T12:32:55Z","workflow":"track","event":"status_check","run_id":"25990811408","run_number":173,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
+{"timestamp":"2026-05-17T16:31:04Z","workflow":"track","event":"status_check","run_id":"25996277303","run_number":174,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
+{"timestamp":"2026-05-17T20:28:47Z","workflow":"track","event":"status_check","run_id":"26001679997","run_number":175,"data":{"contributed":40,"tracked":30,"case_study_ready":32,"rule_adopted":2}}
+{"timestamp":"2026-05-17T22:17:57Z","workflow":"daily-report","event":"report_generated","run_id":"26004315563","run_number":43,"data":{"total_repos":209}}
