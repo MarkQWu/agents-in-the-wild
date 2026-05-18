@@ -21,4 +21,8 @@
 | [taishi-i/awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) | 960 | 79 | 本地 audit | 2026-05-17 | [📖](2026-05/2026-05-17-taishi-i-awesome-japanese-nlp-resources.md) |
 | [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) | 903 | 74 | xiaolai upstream | 2026-05-17 | [📖](2026-05/2026-05-17-0xfurai-claude-code-subagents.md) |
 | [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) | 528 | 63 | xiaolai upstream | 2026-05-17 | [📖](2026-05/2026-05-17-777genius-claude-notifications-go.md) |
+| [LigphiDonk/Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper) | 506 | 65 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-LigphiDonk-Oh-my--paper.md) |
+| [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | 1000 | 99 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-BayramAnnakov-claude-reflect.md) |
+| [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | 4630 | 94 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-Dammyjay93-interface-design.md) |
+| [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 3604 | 80 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-FlorianBruniaux-claude-code-ultimate-guide.md) |
 
