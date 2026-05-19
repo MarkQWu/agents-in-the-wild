@@ -7789,10 +7789,13 @@
       "stars": 3378,
       "artifacts": 76,
       "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-      "status": "discovered",
-      "score": null,
+      "status": "audited",
+      "score": 80,
       "audit_issue": 5,
-      "prs": []
+      "prs": [],
+      "strategy": "progressive",
+      "security": "CLEAR",
+      "commit_sha_at_audit": "122b780e1a81f04805364acce6eb6f5e45befa6b"
     }
   }
 }

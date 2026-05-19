@@ -2143,3 +2143,6 @@
 {"timestamp":"2026-05-17T22:17:57Z","workflow":"daily-report","event":"report_generated","run_id":"26004315563","run_number":43,"data":{"total_repos":209}}
 {"timestamp":"2026-05-18T10:03:32Z","workflow":"discover","event":"search_complete","run_id":"26026739147","run_number":2,"data":{"candidates":91,"new":24,"worthy":1,"oversized":0}}
 {"timestamp":"2026-05-19T05:23:47Z","workflow":"discover","event":"search_complete","run_id":"26077992291","run_number":3,"data":{"candidates":92,"new":26,"worthy":1,"oversized":9}}
+{"timestamp":"2026-05-19T05:50:31Z","workflow":"audit","event":"scorer_drift_check","run_id":"26078601809","run_number":6,"data":{"repo":"nexu-io/html-anything","sidecar":"auditor/audits/nexu-io-html-anything.findings.jsonl","drifts":18,"exit_code":1}}
+{"timestamp":"2026-05-19T05:50:32Z","workflow":"audit","event":"findings_aggregated","run_id":"26078601809","run_number":6,"data":{"repo":"nexu-io/html-anything","findings":24,"invalid_lines":0,"self_false_positives":0}}
+{"timestamp":"2026-05-19T05:50:32Z","workflow":"audit","event":"audit_complete","run_id":"26078601809","run_number":6,"data":{"repo":"nexu-io/html-anything","score":80,"artifacts":76,"strategy":"progressive"}}
