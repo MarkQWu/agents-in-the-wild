@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 201,
+    "total_discovered": 202,
     "total_contributed": 6,
-    "last_discovery": "2026-05-13T00:00:00Z",
+    "last_discovery": "2026-05-19T05:23:44Z",
     "total_audited": 12
   },
   "repos": {
@@ -7783,6 +7783,16 @@
       "case_study_skip_reason": "thin narrative: score=79, security=CLEAR, merged=0, applied_separately=0, rejected=0, rule_adopted=False",
       "prs": [],
       "rule_adopted": false
+    },
+    "nexu-io/html-anything": {
+      "discovered": "2026-05-19T05:23:44Z",
+      "stars": 3378,
+      "artifacts": 76,
+      "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 5,
+      "prs": []
     }
   }
 }
