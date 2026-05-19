@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：209 audit reports（207 upstream + 2 local）
-**已学**：11 (5%)
-**剩余**：125
+**已学**：15 (7%)
+**剩余**：121
 **<500 星跳过**：73
-**按 4/天预计完成**：2026-06-19（约 32 天）
+**按 4/天预计完成**：2026-06-19（约 31 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-19 (4 篇)
+- [x] JimLiu/baoyu-skills · ⭐16303 · NLPM 90/100 · [案例](2026-05/2026-05-19-JimLiu-baoyu-skills.md)
+- [x] JuliusBrussee/cavekit · ⭐564 · NLPM 97/100 · [案例](2026-05/2026-05-19-JuliusBrussee-cavekit.md)
+- [x] JuliusBrussee/caveman · ⭐22505 · NLPM 92/100 · [案例](2026-05/2026-05-19-JuliusBrussee-caveman.md)
+- [x] K-Dense-AI/scientific-agent-skills · ⭐19356 · NLPM 83/100 · [案例](2026-05/2026-05-19-K-Dense-AI-scientific-agent-skills.md)
 
 ### 2026-05-18 (4 篇)
 - [x] BayramAnnakov/claude-reflect · ⭐1000 · NLPM 99/100 · [案例](2026-05/2026-05-18-BayramAnnakov-claude-reflect.md)
@@ -17,7 +23,7 @@
 - [x] LigphiDonk/Oh-my--paper · ⭐506 · NLPM 65/100 · [案例](2026-05/2026-05-18-LigphiDonk-Oh-my--paper.md)
 
 ### 2026-05-17 (7 篇)
-- [x] 0xfurai/claude-code-subagents · ⭐859 · NLPM 74/100 · [案例](2026-05/2026-05-17-0xfurai-claude-code-subagents.md)
+- [x] 0xfurai/claude-code-subagents · ⭐903 · NLPM 74/100 · [案例](2026-05/2026-05-17-0xfurai-claude-code-subagents.md)
 - [x] 777genius/claude-notifications-go · ⭐528 · NLPM 63/100 · [案例](2026-05/2026-05-17-777genius-claude-notifications-go.md)
 - [x] AgriciDaniel/claude-ads · ⭐2377 · NLPM 99/100 · [案例](2026-05/2026-05-17-AgriciDaniel-claude-ads.md)
 - [x] AgriciDaniel/claude-blog · ⭐562 · NLPM 92/100 · [案例](2026-05/2026-05-17-AgriciDaniel-claude-blog.md)
@@ -29,10 +35,6 @@
 
 ## 📋 待处理（按 audit 时间升序）
 
-- [ ] JimLiu/baoyu-skills · ⭐16303 · upstream · audit 2026-05-17
-- [ ] JuliusBrussee/cavekit · ⭐564 · upstream · audit 2026-05-17
-- [ ] JuliusBrussee/caveman · ⭐22505 · upstream · audit 2026-05-17
-- [ ] K-Dense-AI/scientific-agent-skills · ⭐19356 · upstream · audit 2026-05-17
 - [ ] KhazP/vibe-coding-prompt-template · ⭐2278 · upstream · audit 2026-05-17
 - [ ] Manavarya09/design-extract · ⭐2482 · upstream · audit 2026-05-17
 - [ ] MemPalace/mempalace · ⭐51982 · upstream · audit 2026-05-17

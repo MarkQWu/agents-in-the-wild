@@ -25,4 +25,8 @@
 | [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | 1000 | 99 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-BayramAnnakov-claude-reflect.md) |
 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | 4630 | 94 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-Dammyjay93-interface-design.md) |
 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 3604 | 80 | xiaolai upstream | 2026-05-18 | [📖](2026-05/2026-05-18-FlorianBruniaux-claude-code-ultimate-guide.md) |
+| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 16303 | 90 | xiaolai upstream | 2026-05-19 | [📖](2026-05/2026-05-19-JimLiu-baoyu-skills.md) |
+| [JuliusBrussee/cavekit](https://github.com/JuliusBrussee/cavekit) | 564 | 97 | xiaolai upstream | 2026-05-19 | [📖](2026-05/2026-05-19-JuliusBrussee-cavekit.md) |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 22505 | 92 | xiaolai upstream | 2026-05-19 | [📖](2026-05/2026-05-19-JuliusBrussee-caveman.md) |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 19356 | 83 | xiaolai upstream | 2026-05-19 | [📖](2026-05/2026-05-19-K-Dense-AI-scientific-agent-skills.md) |
 
