@@ -16,4 +16,9 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| nexu-io/html-anything | ⭐3378 | 80/100 | 本地 audit | 2026-05-20 | [2026-05/2026-05-20-nexu-io-html-anything.md](2026-05/2026-05-20-nexu-io-html-anything.md) |
+| AgriciDaniel/claude-blog | ⭐562 | 92/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-blog.md](2026-05/2026-05-20-AgriciDaniel-claude-blog.md) |
+| AgriciDaniel/claude-ads | ⭐2377 | 99/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-ads.md](2026-05/2026-05-20-AgriciDaniel-claude-ads.md) |
+| 777genius/claude-notifications-go | ⭐528 | 63/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-777genius-claude-notifications-go.md](2026-05/2026-05-20-777genius-claude-notifications-go.md) |
+| 0xfurai/claude-code-subagents | ⭐859 | 74/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-0xfurai-claude-code-subagents.md](2026-05/2026-05-20-0xfurai-claude-code-subagents.md) |
 
