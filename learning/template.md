@@ -150,7 +150,7 @@ grep -rn -E '\b(appropriate|comprehensive|robust|efficient)\b' ~/.claude/skills/
 ---
 
 
-## 八、对照我的 GitHub 仓库
+## 七、对照我的 GitHub 仓库
 
 > 数据源：`learning/my-repos.json`（由 `.github/workflows/refresh-my-repos.yml` 每周一 01:00 UTC 自动刷新，含 60 天内有 push 且有 NL 工件的公开仓库）
 
@@ -197,7 +197,7 @@ grep -rn -E '\b(appropriate|comprehensive|robust|efficient)\b' ~/.claude/skills/
 
 ---
 
-## 九、术语表
+## 八、术语表
 
 这一节是给「不熟悉技术名词的读者」准备的。正文中第一次出现专有名词时用 `[xxx](#xxx)` 锚点链接到这里。
 
