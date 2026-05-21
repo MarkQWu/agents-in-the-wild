@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：5（可学习总量 137 中已完成 3.6%）
-**剩余**：132
+**已学**：9（可学习总量 137 中已完成 6.6%）
+**剩余**：128
 **<500 星跳过**：73（其中含 N/A stars 2 个：taishi-i/awesome-japanese-nlp-resources、anthropics/claude-code）
-**按 4/天预计完成**：2026-06-22（约 33 天）
+**按 4/天预计完成**：2026-06-22（约 32 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-21 (4 篇)
+- [x] Dammyjay93/interface-design · ⭐4630 · NLPM 94/100 · [案例](2026-05/2026-05-21-Dammyjay93-interface-design.md)
+- [x] FlorianBruniaux/claude-code-ultimate-guide · ⭐3604 · NLPM 80/100 · [案例](2026-05/2026-05-21-FlorianBruniaux-claude-code-ultimate-guide.md)
+- [x] BayramAnnakov/claude-reflect · ⭐1000 · NLPM 99/100 · [案例](2026-05/2026-05-21-BayramAnnakov-claude-reflect.md)
+- [x] AgriciDaniel/claude-obsidian · ⭐976 · NLPM 91/100 · [案例](2026-05/2026-05-21-AgriciDaniel-claude-obsidian.md)
 
 ### 2026-05-20 (5 篇)
 - [x] nexu-io/html-anything · ⭐3378 · NLPM 80/100 · [案例](2026-05/2026-05-20-nexu-io-html-anything.md)
@@ -19,17 +25,13 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 132 个）
+## 📋 待处理（按 audit 时间升序，共 128 个）
 
-> 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
+> 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 50 个
 
-- [ ] AgriciDaniel/claude-obsidian · ⭐976 · upstream · audit 2026-04-20
-- [ ] BayramAnnakov/claude-reflect · ⭐1000 · upstream · audit 2026-04-06
-- [ ] Dammyjay93/interface-design · ⭐4630 · upstream · audit 2026-04-27
-- [ ] FlorianBruniaux/claude-code-ultimate-guide · ⭐3604 · upstream
 - [ ] JimLiu/baoyu-skills · ⭐16303 · upstream · audit 2026-04-29
-- [ ] JuliusBrussee/cavekit · ⭐564 · upstream · audit 2026-04-06
 - [ ] JuliusBrussee/caveman · ⭐22505 · upstream · audit 2026-04-17
+- [ ] JuliusBrussee/cavekit · ⭐564 · upstream · audit 2026-04-06
 - [ ] K-Dense-AI/scientific-agent-skills · ⭐19356 · upstream · audit 2026-04-25
 - [ ] KhazP/vibe-coding-prompt-template · ⭐2278 · upstream · audit 2026-04-29
 - [ ] LigphiDonk/Oh-my--paper · ⭐506 · upstream
@@ -63,8 +65,22 @@
 - [ ] caliber-ai-org/ai-setup · ⭐698 · upstream · audit 2026-04-25
 - [ ] centminmod/my-claude-code-setup · ⭐2210 · upstream
 - [ ] code-yeongyu/oh-my-openagent · ⭐51912 · upstream · audit 2026-05-07
+- [ ] codeaholicguy/ai-devkit · ⭐1128 · upstream · audit 2026-04-23
+- [ ] czlonkowski/n8n-mcp · ⭐18662 · upstream
+- [ ] davila7/claude-code-templates · ⭐24685 · upstream
+- [ ] disler/claude-code-hooks-mastery · ⭐3566 · upstream
+- [ ] evo-hq/evo · ⭐645 · upstream
+- [ ] expo/skills · ⭐1784 · upstream
+- [ ] eyaltoledano/claude-task-master · ⭐26807 · upstream
+- [ ] fcakyon/claude-codex-settings · ⭐590 · upstream
+- [ ] feiskyer/claude-code-settings · ⭐1434 · upstream
+- [ ] first-fluke/oh-my-agent · ⭐663 · upstream
+- [ ] forrestchang/andrej-karpathy-skills · ⭐125813 · upstream
+- [ ] github/awesome-copilot · ⭐31146 · upstream
+- [ ] glitternetwork/pinme · ⭐657 · upstream
+- [ ] gmickel/flow-next · ⭐568 · upstream
 
-...（剩余 92 个，将随每日生成批次逐步标记完成）
+...（剩余 78 个，将随每日生成批次逐步标记完成）
 
 ---
 
@@ -85,10 +101,11 @@
 - ~~IvanMurzak/Unity-MCP · ⭐N/A~~
 - ~~Jeffallan/claude-skills · ⭐N/A~~
 - ~~LerianStudio/ring · ⭐174~~
-- ~~LigphiDonk/Oh-my--paper~~ ← 实际核查 ⭐506 ✅ 已移入待处理
 - ~~Lum1104/Understand-Anything · ⭐N/A~~
-- ~~Manavarya09/design-extract~~ ← 实际核查 ⭐2482 ✅ 已移入待处理
-- ~~taishi-i/awesome-japanese-nlp-resources · ⭐N/A（registry 无记录，跳过）~~
-- ~~anthropics/claude-code · ⭐N/A（registry 无记录，跳过；实际 stars 可能远超 500，如需补审可手动触发）~~
+- ~~Orchestra-Research/AI-Research-SKILLs · ⭐N/A~~
+- ~~OthmanAdi/planning-with-files · ⭐N/A~~
+- ~~SukinShetty/Nemp-memory · ⭐95~~
+- ~~taishi-i/awesome-japanese-nlp-resources · ⭐N/A（registry 无记录）~~
+- ~~anthropics/claude-code · ⭐N/A（registry 无记录，实际 stars 不明）~~
 
-...（其余 53 个均为 registry 显示 N/A 或 stars < 500，已全部纳入跳过名单）
+...（其余 52 个均为 registry 显示 0 stars，已全部纳入跳过名单）
