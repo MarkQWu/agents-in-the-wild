@@ -1,0 +1,103 @@
+name: Refresh My Repos Manifest
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'  # Monday 01:00 UTC, before the daily Routine at 02:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+
+      - name: Refresh manifest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OWNER=$(echo "${{ github.repository }}" | cut -d/ -f1)
+
+          # Read manual overrides
+          PINNED=$(jq -c '.pinned // []' learning/my-repos.json)
+          EXCLUDED=$(jq -c '.excluded // []' learning/my-repos.json)
+
+          # Cutoff: 60 days ago
+          CUTOFF=$(date -u -d '60 days ago' '+%Y-%m-%dT%H:%M:%SZ' 2>/dev/null || date -u -v-60d '+%Y-%m-%dT%H:%M:%SZ')
+
+          # Query user's recent public repos
+          gh api "users/$OWNER/repos?type=public&sort=pushed&per_page=50" \
+            --jq '[.[] | select(.archived == false) | {
+              url: .html_url,
+              full_name: .full_name,
+              pushed_at: .pushed_at,
+              description: .description,
+              stars: .stargazers_count,
+              language: .language
+            }]' > /tmp/all-repos.json
+
+          # Filter to active (pushed within cutoff) and check for NL artifacts
+          REPOS=$(jq -c --arg cutoff "$CUTOFF" --argjson excluded "$EXCLUDED" '
+            map(select(.pushed_at >= $cutoff))
+            | map(select(.full_name as $fn | $excluded | index($fn) | not))
+          ' /tmp/all-repos.json)
+
+          # For each candidate, probe for NL artifacts
+          ENRICHED='[]'
+          for url in $(echo "$REPOS" | jq -r '.[].full_name'); do
+            HAS_NL=false
+            for path in CLAUDE.md AGENTS.md .claude-plugin/plugin.json; do
+              if gh api "repos/$url/contents/$path" --silent 2>/dev/null; then
+                HAS_NL=true
+                break
+              fi
+            done
+            # Also check skills/ and agents/ directories existence
+            if [ "$HAS_NL" = "false" ]; then
+              for dir in skills agents commands; do
+                if gh api "repos/$url/contents/$dir" --silent 2>/dev/null; then
+                  HAS_NL=true
+                  break
+                fi
+              done
+            fi
+            if [ "$HAS_NL" = "true" ]; then
+              REPO_DATA=$(echo "$REPOS" | jq -c --arg fn "$url" '.[] | select(.full_name == $fn)')
+              # Assign priority: pushed within 14d = high, 60d = medium
+              PUSHED=$(echo "$REPO_DATA" | jq -r '.pushed_at')
+              CUTOFF_HIGH=$(date -u -d '14 days ago' '+%Y-%m-%dT%H:%M:%SZ' 2>/dev/null || date -u -v-14d '+%Y-%m-%dT%H:%M:%SZ')
+              if [ "$PUSHED" \> "$CUTOFF_HIGH" ]; then
+                PRIORITY="high"
+              else
+                PRIORITY="medium"
+              fi
+              ENRICHED=$(echo "$ENRICHED" | jq --argjson r "$REPO_DATA" --arg p "$PRIORITY" '. + [$r + {priority: $p, has_nl_artifacts: true}]')
+            fi
+          done
+
+          # Build final manifest preserving pinned + excluded
+          jq --argjson repos "$ENRICHED" \
+             --arg date "$(date -u +%Y-%m-%d)" \
+             '.repos = $repos | .last_refreshed = $date' \
+             learning/my-repos.json > /tmp/manifest.json
+          mv /tmp/manifest.json learning/my-repos.json
+
+          echo "## Refresh summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Active repos with NL artifacts** (pushed within 60 days):" >> "$GITHUB_STEP_SUMMARY"
+          jq -r '.repos[] | "- \(.full_name) (⭐\(.stars), priority: \(.priority), pushed: \(.pushed_at[:10]))"' learning/my-repos.json >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add learning/my-repos.json
+          if git diff --staged --quiet; then
+            echo "No changes — manifest already up to date"
+          else
+            git commit -m "chore: refresh my-repos manifest"
+            git push origin main
+          fi

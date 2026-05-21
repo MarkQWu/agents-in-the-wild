@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "purpose": "Routine 生成学习案例 §8 时用此清单做横向对照",
+  "managed_by": ".github/workflows/refresh-my-repos.yml — weekly auto refresh + manual overrides",
+  "last_refreshed": "manual",
+  "pinned": [],
+  "excluded": [
+    "MarkQWu/agents-in-the-wild"
+  ],
+  "repos": []
+}
