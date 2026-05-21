@@ -1,22 +1,16 @@
 {
-  "version": 2,
-  "purpose": "Routine 生成学习案例 §8 时用此清单做横向对照",
+  "version": 3,
+  "purpose": "Routine 生成学习案例 §7 时用此清单做横向对照",
   "managed_by": ".github/workflows/refresh-my-repos.yml — weekly auto refresh + manual overrides",
-  "last_refreshed": "2026-05-21",
+  "config": {
+    "active_days": 60,
+    "require_nl_artifacts": false,
+    "include_private": false
+  },
+  "last_refreshed": "manual",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
   ],
-  "repos": [
-    {
-      "description": "Claude Code plugin: Mine past conversations for decisions, mistakes, patterns, and wisdom",
-      "full_name": "MarkQWu/echo-sleuth-for-claude",
-      "language": null,
-      "pushed_at": "2026-05-13T09:17:48Z",
-      "stars": 0,
-      "url": "https://github.com/MarkQWu/echo-sleuth-for-claude",
-      "priority": "high",
-      "has_nl_artifacts": true
-    }
-  ]
+  "repos": []
 }

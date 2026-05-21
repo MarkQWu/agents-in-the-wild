@@ -2,7 +2,7 @@ name: Refresh My Repos Manifest
 
 on:
   schedule:
-    - cron: '0 1 * * 1'  # Monday 01:00 UTC, before the daily Routine at 02:00
+    - cron: '0 1 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -17,87 +17,70 @@ jobs:
 
       - name: Refresh manifest
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_REPOS_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           OWNER=$(echo "${{ github.repository }}" | cut -d/ -f1)
-
-          # Read manual overrides
-          PINNED=$(jq -c '.pinned // []' learning/my-repos.json)
+          ACTIVE_DAYS=$(jq -r '.config.active_days // 60' learning/my-repos.json)
+          REQUIRE_NL=$(jq -r '.config.require_nl_artifacts // false' learning/my-repos.json)
+          INCLUDE_PRIVATE=$(jq -r '.config.include_private // false' learning/my-repos.json)
           EXCLUDED=$(jq -c '.excluded // []' learning/my-repos.json)
+          PINNED=$(jq -c '.pinned // []' learning/my-repos.json)
+          CUTOFF=$(date -u -d "$ACTIVE_DAYS days ago" '+%Y-%m-%dT%H:%M:%SZ')
 
-          # Cutoff: 60 days ago
-          CUTOFF=$(date -u -d '60 days ago' '+%Y-%m-%dT%H:%M:%SZ' 2>/dev/null || date -u -v-60d '+%Y-%m-%dT%H:%M:%SZ')
+          if [ "$INCLUDE_PRIVATE" = "true" ] && [ -n "${{ secrets.MY_REPOS_TOKEN }}" ]; then
+            API_PATH="user/repos?sort=pushed&per_page=100"
+          else
+            API_PATH="users/$OWNER/repos?type=public&sort=pushed&per_page=100"
+            INCLUDE_PRIVATE=false
+          fi
 
-          # Query user's recent public repos
-          gh api "users/$OWNER/repos?type=public&sort=pushed&per_page=50" \
-            --jq '[.[] | select(.archived == false) | {
-              url: .html_url,
-              full_name: .full_name,
-              pushed_at: .pushed_at,
-              description: .description,
-              stars: .stargazers_count,
-              language: .language
-            }]' > /tmp/all-repos.json
+          gh api "$API_PATH" \
+            --jq '[.[] | select(.archived == false) | {url: .html_url, full_name: .full_name, pushed_at: .pushed_at, description: .description, stars: .stargazers_count, language: .language, private: .private}]' \
+            > /tmp/all-repos.json
 
-          # Filter to active (pushed within cutoff) and check for NL artifacts
-          REPOS=$(jq -c --arg cutoff "$CUTOFF" --argjson excluded "$EXCLUDED" '
+          ACTIVE=$(jq -c --arg cutoff "$CUTOFF" --argjson excluded "$EXCLUDED" '
             map(select(.pushed_at >= $cutoff))
             | map(select(.full_name as $fn | $excluded | index($fn) | not))
           ' /tmp/all-repos.json)
 
-          # For each candidate, probe for NL artifacts
           ENRICHED='[]'
-          for url in $(echo "$REPOS" | jq -r '.[].full_name'); do
+          for full_name in $(echo "$ACTIVE" | jq -r '.[].full_name'); do
             HAS_NL=false
             for path in CLAUDE.md AGENTS.md .claude-plugin/plugin.json; do
-              if gh api "repos/$url/contents/$path" --silent 2>/dev/null; then
-                HAS_NL=true
-                break
+              if gh api "repos/$full_name/contents/$path" --silent 2>/dev/null; then
+                HAS_NL=true; break
               fi
             done
-            # Also check skills/ and agents/ directories existence
-            if [ "$HAS_NL" = "false" ]; then
-              for dir in skills agents commands; do
-                if gh api "repos/$url/contents/$dir" --silent 2>/dev/null; then
-                  HAS_NL=true
-                  break
-                fi
-              done
-            fi
-            if [ "$HAS_NL" = "true" ]; then
-              REPO_DATA=$(echo "$REPOS" | jq -c --arg fn "$url" '.[] | select(.full_name == $fn)')
-              # Assign priority: pushed within 14d = high, 60d = medium
-              PUSHED=$(echo "$REPO_DATA" | jq -r '.pushed_at')
-              CUTOFF_HIGH=$(date -u -d '14 days ago' '+%Y-%m-%dT%H:%M:%SZ' 2>/dev/null || date -u -v-14d '+%Y-%m-%dT%H:%M:%SZ')
-              if [ "$PUSHED" \> "$CUTOFF_HIGH" ]; then
-                PRIORITY="high"
-              else
-                PRIORITY="medium"
-              fi
-              ENRICHED=$(echo "$ENRICHED" | jq --argjson r "$REPO_DATA" --arg p "$PRIORITY" '. + [$r + {priority: $p, has_nl_artifacts: true}]')
-            fi
+            if [ "$REQUIRE_NL" = "true" ] && [ "$HAS_NL" = "false" ]; then continue; fi
+            REPO_DATA=$(echo "$ACTIVE" | jq -c --arg fn "$full_name" '.[] | select(.full_name == $fn)')
+            PUSHED=$(echo "$REPO_DATA" | jq -r '.pushed_at')
+            CUTOFF_HIGH=$(date -u -d '14 days ago' '+%Y-%m-%dT%H:%M:%SZ')
+            if [ "$PUSHED" \> "$CUTOFF_HIGH" ]; then PRIORITY="high"; else PRIORITY="medium"; fi
+            ENRICHED=$(echo "$ENRICHED" | jq --argjson r "$REPO_DATA" --arg p "$PRIORITY" --argjson nl "$([ "$HAS_NL" = "true" ] && echo true || echo false)" \
+              '. + [$r + {priority: $p, has_nl_artifacts: $nl}]')
           done
 
-          # Build final manifest preserving pinned + excluded
-          jq --argjson repos "$ENRICHED" \
-             --arg date "$(date -u +%Y-%m-%d)" \
+          for pinned_name in $(echo "$PINNED" | jq -r '.[]'); do
+            if echo "$ENRICHED" | jq -e --arg fn "$pinned_name" 'any(.full_name == $fn)' >/dev/null; then continue; fi
+            INFO=$(gh api "repos/$pinned_name" --jq '{url: .html_url, full_name: .full_name, pushed_at: .pushed_at, description: .description, stars: .stargazers_count, language: .language, private: .private}' 2>/dev/null) || continue
+            ENRICHED=$(echo "$ENRICHED" | jq --argjson r "$INFO" '. + [$r + {priority: "pinned", has_nl_artifacts: false}]')
+          done
+
+          jq --argjson repos "$ENRICHED" --arg date "$(date -u +%Y-%m-%d)" \
              '.repos = $repos | .last_refreshed = $date' \
              learning/my-repos.json > /tmp/manifest.json
           mv /tmp/manifest.json learning/my-repos.json
 
-          echo "## Refresh summary" >> "$GITHUB_STEP_SUMMARY"
-          echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "**Active repos with NL artifacts** (pushed within 60 days):" >> "$GITHUB_STEP_SUMMARY"
-          jq -r '.repos[] | "- \(.full_name) (⭐\(.stars), priority: \(.priority), pushed: \(.pushed_at[:10]))"' learning/my-repos.json >> "$GITHUB_STEP_SUMMARY"
+          echo "## Summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "active_days=$ACTIVE_DAYS, require_nl=$REQUIRE_NL, include_private=$INCLUDE_PRIVATE" >> "$GITHUB_STEP_SUMMARY"
+          jq -r '.repos[] | "- \(.full_name) (⭐\(.stars), priority: \(.priority), nl: \(.has_nl_artifacts), pushed: \(.pushed_at[:10]))"' learning/my-repos.json >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add learning/my-repos.json
-          if git diff --staged --quiet; then
-            echo "No changes — manifest already up to date"
-          else
+          if git diff --staged --quiet; then echo "No changes"; else
             git commit -m "chore: refresh my-repos manifest"
             git push origin main
           fi
