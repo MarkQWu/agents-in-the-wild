@@ -7,10 +7,44 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "manual",
+  "last_refreshed": "2026-05-21",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
   ],
-  "repos": []
+  "repos": [
+    {
+      "description": "Curated Claude Code skills for gobuildit community",
+      "full_name": "MarkQWu/drama-workshop-skills",
+      "language": "Python",
+      "private": false,
+      "pushed_at": "2026-05-21T03:37:58Z",
+      "stars": 1,
+      "url": "https://github.com/MarkQWu/drama-workshop-skills",
+      "priority": "high",
+      "has_nl_artifacts": false
+    },
+    {
+      "description": "A suite of plugins for legal workflows",
+      "full_name": "MarkQWu/claude-for-legal",
+      "language": null,
+      "private": false,
+      "pushed_at": "2026-05-13T19:02:17Z",
+      "stars": 0,
+      "url": "https://github.com/MarkQWu/claude-for-legal",
+      "priority": "high",
+      "has_nl_artifacts": false
+    },
+    {
+      "description": "Claude Code plugin: Mine past conversations for decisions, mistakes, patterns, and wisdom",
+      "full_name": "MarkQWu/echo-sleuth-for-claude",
+      "language": null,
+      "private": false,
+      "pushed_at": "2026-05-13T09:17:48Z",
+      "stars": 0,
+      "url": "https://github.com/MarkQWu/echo-sleuth-for-claude",
+      "priority": "high",
+      "has_nl_artifacts": true
+    }
+  ]
 }
