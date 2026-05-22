@@ -1,14 +1,22 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：5（可学习总量 137 中已完成 3.6%）
-**剩余**：132
-**<500 星跳过**：73（其中含 N/A stars 2 个：taishi-i/awesome-japanese-nlp-resources、anthropics/claude-code）
-**按 4/天预计完成**：2026-06-22（约 33 天）
+**已学**：11（可学习总量 138 中已完成 8.0%）
+**剩余**：126
+**<500 星跳过**：72
+**按 4/天预计完成**：2026-07-10（约 32 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-22 (6 篇)
+- [x] taishi-i/awesome-japanese-nlp-resources · ⭐962 · NLPM 79/100 · 本地 audit · [案例](2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md)
+- [x] FlorianBruniaux/claude-code-ultimate-guide · ⭐3604 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md)
+- [x] Dammyjay93/interface-design · ⭐4630 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-22-Dammyjay93-interface-design.md)
+- [x] BayramAnnakov/claude-reflect · ⭐1000 · NLPM 99/100 · upstream · [案例](2026-05/2026-05-22-BayramAnnakov-claude-reflect.md)
+- [x] anthropics/claude-code · ⭐125529 · NLPM 88/100 · 本地 audit · [案例](2026-05/2026-05-22-anthropics-claude-code.md)
+- [x] AgriciDaniel/claude-obsidian · ⭐976 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-22-AgriciDaniel-claude-obsidian.md)
 
 ### 2026-05-20 (5 篇)
 - [x] nexu-io/html-anything · ⭐3378 · NLPM 80/100 · [案例](2026-05/2026-05-20-nexu-io-html-anything.md)
@@ -23,10 +31,7 @@
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] AgriciDaniel/claude-obsidian · ⭐976 · upstream · audit 2026-04-20
-- [ ] BayramAnnakov/claude-reflect · ⭐1000 · upstream · audit 2026-04-06
-- [ ] Dammyjay93/interface-design · ⭐4630 · upstream · audit 2026-04-27
-- [ ] FlorianBruniaux/claude-code-ultimate-guide · ⭐3604 · upstream
+- [ ] JimLiu/baoyu-skills · ⭐16303 · upstream · audit 2026-04-29
 - [ ] JimLiu/baoyu-skills · ⭐16303 · upstream · audit 2026-04-29
 - [ ] JuliusBrussee/cavekit · ⭐564 · upstream · audit 2026-04-06
 - [ ] JuliusBrussee/caveman · ⭐22505 · upstream · audit 2026-04-17
@@ -88,7 +93,7 @@
 - ~~LigphiDonk/Oh-my--paper~~ ← 实际核查 ⭐506 ✅ 已移入待处理
 - ~~Lum1104/Understand-Anything · ⭐N/A~~
 - ~~Manavarya09/design-extract~~ ← 实际核查 ⭐2482 ✅ 已移入待处理
-- ~~taishi-i/awesome-japanese-nlp-resources · ⭐N/A（registry 无记录，跳过）~~
-- ~~anthropics/claude-code · ⭐N/A（registry 无记录，跳过；实际 stars 可能远超 500，如需补审可手动触发）~~
+- ~~taishi-i/awesome-japanese-nlp-resources~~ → ✅ 已完成（核查实际 ⭐962，已移入已完成）
+- ~~anthropics/claude-code~~ → ✅ 已完成（核查实际 ⭐125529，已移入已完成）
 
 ...（其余 53 个均为 registry 显示 N/A 或 stars < 500，已全部纳入跳过名单）

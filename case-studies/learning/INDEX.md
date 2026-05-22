@@ -16,6 +16,12 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| anthropics/claude-code | ⭐125529 | 88/100 | 本地 audit | 2026-05-22 | [2026-05/2026-05-22-anthropics-claude-code.md](2026-05/2026-05-22-anthropics-claude-code.md) |
+| taishi-i/awesome-japanese-nlp-resources | ⭐962 | 79/100 | 本地 audit | 2026-05-22 | [2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md](2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md) |
+| FlorianBruniaux/claude-code-ultimate-guide | ⭐3604 | 80/100 | xiaolai upstream | 2026-05-22 | [2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md](2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md) |
+| Dammyjay93/interface-design | ⭐4630 | 94/100 | xiaolai upstream | 2026-05-22 | [2026-05/2026-05-22-Dammyjay93-interface-design.md](2026-05/2026-05-22-Dammyjay93-interface-design.md) |
+| BayramAnnakov/claude-reflect | ⭐1000 | 99/100 | xiaolai upstream | 2026-05-22 | [2026-05/2026-05-22-BayramAnnakov-claude-reflect.md](2026-05/2026-05-22-BayramAnnakov-claude-reflect.md) |
+| AgriciDaniel/claude-obsidian | ⭐976 | 91/100 | xiaolai upstream | 2026-05-22 | [2026-05/2026-05-22-AgriciDaniel-claude-obsidian.md](2026-05/2026-05-22-AgriciDaniel-claude-obsidian.md) |
 | nexu-io/html-anything | ⭐3378 | 80/100 | 本地 audit | 2026-05-20 | [2026-05/2026-05-20-nexu-io-html-anything.md](2026-05/2026-05-20-nexu-io-html-anything.md) |
 | AgriciDaniel/claude-blog | ⭐562 | 92/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-blog.md](2026-05/2026-05-20-AgriciDaniel-claude-blog.md) |
 | AgriciDaniel/claude-ads | ⭐2377 | 99/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-ads.md](2026-05/2026-05-20-AgriciDaniel-claude-ads.md) |
