@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| K-Dense-AI/scientific-agent-skills | ⭐19356 | 83/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md](2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md) |
+| JuliusBrussee/caveman | ⭐22505 | 92/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-JuliusBrussee-caveman.md](2026-05/2026-05-23-JuliusBrussee-caveman.md) |
+| JuliusBrussee/cavekit | ⭐564 | 97/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-JuliusBrussee-cavekit.md](2026-05/2026-05-23-JuliusBrussee-cavekit.md) |
+| JimLiu/baoyu-skills | ⭐16303 | 90/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-JimLiu-baoyu-skills.md](2026-05/2026-05-23-JimLiu-baoyu-skills.md) |
 | anthropics/claude-code | ⭐125529 | 88/100 | 本地 audit | 2026-05-22 | [2026-05/2026-05-22-anthropics-claude-code.md](2026-05/2026-05-22-anthropics-claude-code.md) |
 | taishi-i/awesome-japanese-nlp-resources | ⭐962 | 79/100 | 本地 audit | 2026-05-22 | [2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md](2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md) |
 | FlorianBruniaux/claude-code-ultimate-guide | ⭐3604 | 80/100 | xiaolai upstream | 2026-05-22 | [2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md](2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md) |

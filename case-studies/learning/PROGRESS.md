@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：11（可学习总量 138 中已完成 8.0%）
-**剩余**：126
+**已学**：15（可学习总量 138 中已完成 10.9%）
+**剩余**：123
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-07-10（约 32 天）
+**按 4/天预计完成**：2026-07-06（约 31 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-23 (4 篇)
+- [x] K-Dense-AI/scientific-agent-skills · ⭐19356 · NLPM 83/100 · upstream · [案例](2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md)
+- [x] JuliusBrussee/caveman · ⭐22505 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-23-JuliusBrussee-caveman.md)
+- [x] JuliusBrussee/cavekit · ⭐564 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-23-JuliusBrussee-cavekit.md)
+- [x] JimLiu/baoyu-skills · ⭐16303 · NLPM 90/100 · upstream · [案例](2026-05/2026-05-23-JimLiu-baoyu-skills.md)
 
 ### 2026-05-22 (6 篇)
 - [x] taishi-i/awesome-japanese-nlp-resources · ⭐962 · NLPM 79/100 · 本地 audit · [案例](2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md)
@@ -19,23 +25,18 @@
 - [x] AgriciDaniel/claude-obsidian · ⭐976 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-22-AgriciDaniel-claude-obsidian.md)
 
 ### 2026-05-20 (5 篇)
-- [x] nexu-io/html-anything · ⭐3378 · NLPM 80/100 · [案例](2026-05/2026-05-20-nexu-io-html-anything.md)
-- [x] AgriciDaniel/claude-blog · ⭐562 · NLPM 92/100 · [案例](2026-05/2026-05-20-AgriciDaniel-claude-blog.md)
-- [x] AgriciDaniel/claude-ads · ⭐2377 · NLPM 99/100 · [案例](2026-05/2026-05-20-AgriciDaniel-claude-ads.md)
-- [x] 777genius/claude-notifications-go · ⭐528 · NLPM 63/100 · [案例](2026-05/2026-05-20-777genius-claude-notifications-go.md)
-- [x] 0xfurai/claude-code-subagents · ⭐859 · NLPM 74/100 · [案例](2026-05/2026-05-20-0xfurai-claude-code-subagents.md)
+- [x] nexu-io/html-anything · ⭐3378 · NLPM 80/100 · 本地 audit · [案例](2026-05/2026-05-20-nexu-io-html-anything.md)
+- [x] AgriciDaniel/claude-blog · ⭐562 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-20-AgriciDaniel-claude-blog.md)
+- [x] AgriciDaniel/claude-ads · ⭐2377 · NLPM 99/100 · upstream · [案例](2026-05/2026-05-20-AgriciDaniel-claude-ads.md)
+- [x] 777genius/claude-notifications-go · ⭐528 · NLPM 63/100 · upstream · [案例](2026-05/2026-05-20-777genius-claude-notifications-go.md)
+- [x] 0xfurai/claude-code-subagents · ⭐859 · NLPM 74/100 · upstream · [案例](2026-05/2026-05-20-0xfurai-claude-code-subagents.md)
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 132 个）
+## 📋 待处理（按 audit 时间升序，共 123 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] JimLiu/baoyu-skills · ⭐16303 · upstream · audit 2026-04-29
-- [ ] JimLiu/baoyu-skills · ⭐16303 · upstream · audit 2026-04-29
-- [ ] JuliusBrussee/cavekit · ⭐564 · upstream · audit 2026-04-06
-- [ ] JuliusBrussee/caveman · ⭐22505 · upstream · audit 2026-04-17
-- [ ] K-Dense-AI/scientific-agent-skills · ⭐19356 · upstream · audit 2026-04-25
 - [ ] KhazP/vibe-coding-prompt-template · ⭐2278 · upstream · audit 2026-04-29
 - [ ] LigphiDonk/Oh-my--paper · ⭐506 · upstream
 - [ ] Manavarya09/design-extract · ⭐2482 · upstream · audit 2026-04-06
@@ -68,12 +69,20 @@
 - [ ] caliber-ai-org/ai-setup · ⭐698 · upstream · audit 2026-04-25
 - [ ] centminmod/my-claude-code-setup · ⭐2210 · upstream
 - [ ] code-yeongyu/oh-my-openagent · ⭐51912 · upstream · audit 2026-05-07
+- [ ] codeaholicguy/ai-devkit · ⭐1128 · upstream
+- [ ] czlonkowski/n8n-mcp · ⭐18662 · upstream
+- [ ] davila7/claude-code-templates · ⭐24685 · upstream
+- [ ] disler/claude-code-hooks-mastery · ⭐3566 · upstream
+- [ ] evo-hq/evo · ⭐645 · upstream
+- [ ] expo/skills · ⭐1784 · upstream
+- [ ] eyaltoledano/claude-task-master · ⭐26807 · upstream
+- [ ] fcakyon/claude-codex-settings · ⭐590 · upstream
 
-...（剩余 92 个，将随每日生成批次逐步标记完成）
+...（剩余 83 个，将随每日生成批次逐步标记完成）
 
 ---
 
-## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 73 个）
+## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 72 个）
 
 - ~~0xmariowu/Autosearch · ⭐13~~
 - ~~2389-research/review-squad · ⭐1~~
@@ -90,10 +99,6 @@
 - ~~IvanMurzak/Unity-MCP · ⭐N/A~~
 - ~~Jeffallan/claude-skills · ⭐N/A~~
 - ~~LerianStudio/ring · ⭐174~~
-- ~~LigphiDonk/Oh-my--paper~~ ← 实际核查 ⭐506 ✅ 已移入待处理
 - ~~Lum1104/Understand-Anything · ⭐N/A~~
-- ~~Manavarya09/design-extract~~ ← 实际核查 ⭐2482 ✅ 已移入待处理
-- ~~taishi-i/awesome-japanese-nlp-resources~~ → ✅ 已完成（核查实际 ⭐962，已移入已完成）
-- ~~anthropics/claude-code~~ → ✅ 已完成（核查实际 ⭐125529，已移入已完成）
 
-...（其余 53 个均为 registry 显示 N/A 或 stars < 500，已全部纳入跳过名单）
+...（其余 56 个均为 registry 显示 N/A 或 stars < 500，已全部纳入跳过名单）
