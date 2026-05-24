@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：15（可学习总量 138 中已完成 10.9%）
-**剩余**：123
+**已学**：19（可学习总量 138 中已完成 13.8%）
+**剩余**：119
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-07-06（约 31 天）
+**按 4/天预计完成**：2026-07-02（约 30 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-24 (4 篇)
+- [x] Manavarya09/design-extract · ⭐2482 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-24-Manavarya09-design-extract.md)
+- [x] OpenRaiser/NanoResearch · ⭐690 · NLPM 73/100 · upstream · [案例](2026-05/2026-05-24-OpenRaiser-NanoResearch.md)
+- [x] KhazP/vibe-coding-prompt-template · ⭐2278 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md)
+- [x] LigphiDonk/Oh-my--paper · ⭐506 · NLPM 65/100 · upstream · [案例](2026-05/2026-05-24-LigphiDonk-Oh-my--paper.md)
 
 ### 2026-05-23 (4 篇)
 - [x] K-Dense-AI/scientific-agent-skills · ⭐19356 · NLPM 83/100 · upstream · [案例](2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md)
@@ -33,17 +39,13 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 123 个）
+## 📋 待处理（按 audit 时间升序，共 119 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] KhazP/vibe-coding-prompt-template · ⭐2278 · upstream · audit 2026-04-29
-- [ ] LigphiDonk/Oh-my--paper · ⭐506 · upstream
-- [ ] Manavarya09/design-extract · ⭐2482 · upstream · audit 2026-04-06
 - [ ] MemPalace/mempalace · ⭐51982 · upstream · audit 2026-05-13
 - [ ] MiniMax-AI/skills · ⭐11187 · upstream · audit 2026-04-27
 - [ ] NousResearch/hermes-agent · ⭐94145 · upstream · audit 2026-04-19
-- [ ] OpenRaiser/NanoResearch · ⭐690 · upstream · audit 2026-04-20
 - [ ] PeonPing/peon-ping · ⭐4595 · upstream · audit 2026-04-26
 - [ ] Q00/ouroboros · ⭐3637 · upstream · audit 2026-04-06
 - [ ] RKiding/Awesome-finance-skills · ⭐1907 · upstream · audit 2026-04-06
@@ -77,8 +79,12 @@
 - [ ] expo/skills · ⭐1784 · upstream
 - [ ] eyaltoledano/claude-task-master · ⭐26807 · upstream
 - [ ] fcakyon/claude-codex-settings · ⭐590 · upstream
+- [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
+- [ ] forrestchang/andrej-karpathy-skills · ⭐596 · upstream
+- [ ] glitternetwork/pinme · ⭐1016 · upstream
+- [ ] gmickel/flow-next · ⭐3200 · upstream
 
-...（剩余 83 个，将随每日生成批次逐步标记完成）
+...（剩余 79 个，将随每日生成批次逐步标记完成）
 
 ---
 

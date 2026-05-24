@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| Manavarya09/design-extract | ⭐2482 | 94/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-Manavarya09-design-extract.md](2026-05/2026-05-24-Manavarya09-design-extract.md) |
+| OpenRaiser/NanoResearch | ⭐690 | 73/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-OpenRaiser-NanoResearch.md](2026-05/2026-05-24-OpenRaiser-NanoResearch.md) |
+| KhazP/vibe-coding-prompt-template | ⭐2278 | 80/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md](2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md) |
+| LigphiDonk/Oh-my--paper | ⭐506 | 65/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-LigphiDonk-Oh-my--paper.md](2026-05/2026-05-24-LigphiDonk-Oh-my--paper.md) |
 | K-Dense-AI/scientific-agent-skills | ⭐19356 | 83/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md](2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md) |
 | JuliusBrussee/caveman | ⭐22505 | 92/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-JuliusBrussee-caveman.md](2026-05/2026-05-23-JuliusBrussee-caveman.md) |
 | JuliusBrussee/cavekit | ⭐564 | 97/100 | xiaolai upstream | 2026-05-23 | [2026-05/2026-05-23-JuliusBrussee-cavekit.md](2026-05/2026-05-23-JuliusBrussee-cavekit.md) |
