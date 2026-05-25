@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| PeonPing/peon-ping | ⭐4595 | 77/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-PeonPing-peon-ping.md](2026-05/2026-05-25-PeonPing-peon-ping.md) |
+| MiniMax-AI/skills | ⭐11187 | 89/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-MiniMax-AI-skills.md](2026-05/2026-05-25-MiniMax-AI-skills.md) |
+| NousResearch/hermes-agent | ⭐94145 | 80/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-NousResearch-hermes-agent.md](2026-05/2026-05-25-NousResearch-hermes-agent.md) |
+| MemPalace/mempalace | ⭐51982 | 90/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-MemPalace-mempalace.md](2026-05/2026-05-25-MemPalace-mempalace.md) |
 | Manavarya09/design-extract | ⭐2482 | 94/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-Manavarya09-design-extract.md](2026-05/2026-05-24-Manavarya09-design-extract.md) |
 | OpenRaiser/NanoResearch | ⭐690 | 73/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-OpenRaiser-NanoResearch.md](2026-05/2026-05-24-OpenRaiser-NanoResearch.md) |
 | KhazP/vibe-coding-prompt-template | ⭐2278 | 80/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md](2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md) |

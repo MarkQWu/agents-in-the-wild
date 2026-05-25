@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：19（可学习总量 138 中已完成 13.8%）
-**剩余**：119
+**已学**：23（可学习总量 138 中已完成 16.7%）
+**剩余**：115
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-07-02（约 30 天）
+**按 4/天预计完成**：2026-06-28（约 29 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-25 (4 篇)
+- [x] MemPalace/mempalace · ⭐51982 · NLPM 90/100 · upstream · [案例](2026-05/2026-05-25-MemPalace-mempalace.md)
+- [x] NousResearch/hermes-agent · ⭐94145 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-25-NousResearch-hermes-agent.md)
+- [x] MiniMax-AI/skills · ⭐11187 · NLPM 89/100 · upstream · [案例](2026-05/2026-05-25-MiniMax-AI-skills.md)
+- [x] PeonPing/peon-ping · ⭐4595 · NLPM 77/100 · upstream · [案例](2026-05/2026-05-25-PeonPing-peon-ping.md)
 
 ### 2026-05-24 (4 篇)
 - [x] Manavarya09/design-extract · ⭐2482 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-24-Manavarya09-design-extract.md)
@@ -39,14 +45,10 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 119 个）
+## 📋 待处理（按 audit 时间升序，共 115 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] MemPalace/mempalace · ⭐51982 · upstream · audit 2026-05-13
-- [ ] MiniMax-AI/skills · ⭐11187 · upstream · audit 2026-04-27
-- [ ] NousResearch/hermes-agent · ⭐94145 · upstream · audit 2026-04-19
-- [ ] PeonPing/peon-ping · ⭐4595 · upstream · audit 2026-04-26
 - [ ] Q00/ouroboros · ⭐3637 · upstream · audit 2026-04-06
 - [ ] RKiding/Awesome-finance-skills · ⭐1907 · upstream · audit 2026-04-06
 - [ ] ReScienceLab/opc-skills · ⭐776 · upstream · audit 2026-04-20
@@ -83,8 +85,12 @@
 - [ ] forrestchang/andrej-karpathy-skills · ⭐596 · upstream
 - [ ] glitternetwork/pinme · ⭐1016 · upstream
 - [ ] gmickel/flow-next · ⭐3200 · upstream
+- [ ] github/awesome-copilot · ⭐31146 · upstream
+- [ ] google-labs-code/stitch-skills · ⭐703 · upstream
+- [ ] googleworkspace/cli · ⭐25330 · upstream
+- [ ] gotalab/cc-sdd · ⭐1246 · upstream · audit 2026-04-27
 
-...（剩余 79 个，将随每日生成批次逐步标记完成）
+...（剩余 75 个，将随每日生成批次逐步标记完成）
 
 ---
 
