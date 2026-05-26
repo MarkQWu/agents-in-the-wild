@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| SimoneAvogadro/android-reverse-engineering-skill | ⭐5485 | 92/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md](2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md) |
+| ReScienceLab/opc-skills | ⭐776 | 92/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-ReScienceLab-opc-skills.md](2026-05/2026-05-26-ReScienceLab-opc-skills.md) |
+| RKiding/Awesome-finance-skills | ⭐1907 | 92/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-RKiding-Awesome-finance-skills.md](2026-05/2026-05-26-RKiding-Awesome-finance-skills.md) |
+| Q00/ouroboros | ⭐3637 | 69/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-Q00-ouroboros.md](2026-05/2026-05-26-Q00-ouroboros.md) |
 | PeonPing/peon-ping | ⭐4595 | 77/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-PeonPing-peon-ping.md](2026-05/2026-05-25-PeonPing-peon-ping.md) |
 | MiniMax-AI/skills | ⭐11187 | 89/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-MiniMax-AI-skills.md](2026-05/2026-05-25-MiniMax-AI-skills.md) |
 | NousResearch/hermes-agent | ⭐94145 | 80/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-NousResearch-hermes-agent.md](2026-05/2026-05-25-NousResearch-hermes-agent.md) |
