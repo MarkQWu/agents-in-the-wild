@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：27（可学习总量 138 中已完成 19.6%）
-**剩余**：111
+**已学**：31（可学习总量 138 中已完成 22.5%）
+**剩余**：107
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-26（约 28 天）
+**按 4/天预计完成**：2026-06-24（约 27 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-27 (4 篇)
+- [x] Yeachan-Heo/oh-my-claudecode · ⭐29671 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md)
+- [x] SuperClaude-Org/SuperClaude_Framework · ⭐22474 · NLPM 84/100 · upstream · [案例](2026-05/2026-05-27-SuperClaude-Org-SuperClaude_Framework.md)
+- [x] The-Vibe-Company/companion · ⭐2312 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-27-The-Vibe-Company-companion.md)
+- [x] ZeframLou/call-me · ⭐2590 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-27-ZeframLou-call-me.md)
 
 ### 2026-05-26 (4 篇)
 - [x] SimoneAvogadro/android-reverse-engineering-skill · ⭐5485 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md)
@@ -51,14 +57,10 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 111 个）
+## 📋 待处理（按 audit 时间升序，共 107 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] SuperClaude-Org/SuperClaude_Framework · ⭐22474 · upstream · audit 2026-04-26
-- [ ] The-Vibe-Company/companion · ⭐2312 · upstream
-- [ ] Yeachan-Heo/oh-my-claudecode · ⭐29671 · upstream
-- [ ] ZeframLou/call-me · ⭐2590 · upstream
 - [ ] a5c-ai/babysitter · ⭐562 · upstream · audit 2026-04-28
 - [ ] aaron-he-zhu/seo-geo-claude-skills · ⭐1050 · upstream · audit 2026-04-24
 - [ ] addyosmani/agent-skills · ⭐22697 · upstream
@@ -95,8 +97,12 @@
 - [ ] hamelsmu/claude-review-loop · ⭐2543 · upstream
 - [ ] hashicorp/agent-skills · ⭐1500 · upstream
 - [ ] hesreallyhim/awesome-claude-code · ⭐38367 · upstream · audit 2026-04-24
+- [ ] iannuttall/claude-agents · ⭐512 · upstream
+- [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
+- [ ] jarrodwatts/claude-hud · ⭐2150 · upstream
+- [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
 
-...（剩余 71 个，将随每日生成批次逐步标记完成）
+...（剩余 67 个，将随每日生成批次逐步标记完成）
 
 ---
 

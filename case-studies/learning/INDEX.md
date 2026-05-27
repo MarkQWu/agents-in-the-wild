@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| Yeachan-Heo/oh-my-claudecode | ⭐29671 | 80/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md](2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md) |
+| SuperClaude-Org/SuperClaude_Framework | ⭐22474 | 84/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-SuperClaude-Org-SuperClaude_Framework.md](2026-05/2026-05-27-SuperClaude-Org-SuperClaude_Framework.md) |
+| The-Vibe-Company/companion | ⭐2312 | 91/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-The-Vibe-Company-companion.md](2026-05/2026-05-27-The-Vibe-Company-companion.md) |
+| ZeframLou/call-me | ⭐2590 | 80/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-ZeframLou-call-me.md](2026-05/2026-05-27-ZeframLou-call-me.md) |
 | SimoneAvogadro/android-reverse-engineering-skill | ⭐5485 | 92/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md](2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md) |
 | ReScienceLab/opc-skills | ⭐776 | 92/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-ReScienceLab-opc-skills.md](2026-05/2026-05-26-ReScienceLab-opc-skills.md) |
 | RKiding/Awesome-finance-skills | ⭐1907 | 92/100 | xiaolai upstream | 2026-05-26 | [2026-05/2026-05-26-RKiding-Awesome-finance-skills.md](2026-05/2026-05-26-RKiding-Awesome-finance-skills.md) |
