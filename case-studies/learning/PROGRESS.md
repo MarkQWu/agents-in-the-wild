@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：31（可学习总量 138 中已完成 22.5%）
-**剩余**：107
+**已学**：35（可学习总量 138 中已完成 25.4%）
+**剩余**：103
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-24（约 27 天）
+**按 4/天预计完成**：2026-06-23（约 26 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-28 (4 篇)
+- [x] addyosmani/agent-skills · ⭐22697 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-28-addyosmani-agent-skills.md)
+- [x] addyosmani/web-quality-skills · ⭐1804 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-28-addyosmani-web-quality-skills.md)
+- [x] aaron-he-zhu/seo-geo-claude-skills · ⭐1050 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md)
+- [x] a5c-ai/babysitter · ⭐562 · NLPM 70/100 · upstream · [案例](2026-05/2026-05-28-a5c-ai-babysitter.md)
 
 ### 2026-05-27 (4 篇)
 - [x] Yeachan-Heo/oh-my-claudecode · ⭐29671 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md)
@@ -61,10 +67,6 @@
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] a5c-ai/babysitter · ⭐562 · upstream · audit 2026-04-28
-- [ ] aaron-he-zhu/seo-geo-claude-skills · ⭐1050 · upstream · audit 2026-04-24
-- [ ] addyosmani/agent-skills · ⭐22697 · upstream
-- [ ] addyosmani/web-quality-skills · ⭐1804 · upstream
 - [ ] alexgreensh/token-optimizer · ⭐646 · upstream
 - [ ] alinaqi/claude-bootstrap · ⭐576 · upstream
 - [ ] alirezarezvani/claude-code-skill-factory · ⭐721 · upstream

@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| addyosmani/agent-skills | ⭐22697 | 94/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-addyosmani-agent-skills.md](2026-05/2026-05-28-addyosmani-agent-skills.md) |
+| addyosmani/web-quality-skills | ⭐1804 | 97/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-addyosmani-web-quality-skills.md](2026-05/2026-05-28-addyosmani-web-quality-skills.md) |
+| aaron-he-zhu/seo-geo-claude-skills | ⭐1050 | 91/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md](2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md) |
+| a5c-ai/babysitter | ⭐562 | 70/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-a5c-ai-babysitter.md](2026-05/2026-05-28-a5c-ai-babysitter.md) |
 | Yeachan-Heo/oh-my-claudecode | ⭐29671 | 80/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md](2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md) |
 | SuperClaude-Org/SuperClaude_Framework | ⭐22474 | 84/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-SuperClaude-Org-SuperClaude_Framework.md](2026-05/2026-05-27-SuperClaude-Org-SuperClaude_Framework.md) |
 | The-Vibe-Company/companion | ⭐2312 | 91/100 | xiaolai upstream | 2026-05-27 | [2026-05/2026-05-27-The-Vibe-Company-companion.md](2026-05/2026-05-27-The-Vibe-Company-companion.md) |
