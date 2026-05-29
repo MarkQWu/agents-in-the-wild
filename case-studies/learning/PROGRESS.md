@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：35（可学习总量 138 中已完成 25.4%）
-**剩余**：103
+**已学**：39（可学习总量 138 中已完成 28.3%）
+**剩余**：99
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-23（约 26 天）
+**按 4/天预计完成**：2026-06-22（约 24 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-29 (4 篇)
+- [x] alirezarezvani/claude-code-tresor · ⭐697 · NLPM 81/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md)
+- [x] alirezarezvani/claude-code-skill-factory · ⭐721 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md)
+- [x] alinaqi/claude-bootstrap · ⭐576 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-29-alinaqi-claude-bootstrap.md)
+- [x] alexgreensh/token-optimizer · ⭐646 · NLPM 98/100 · upstream · [案例](2026-05/2026-05-29-alexgreensh-token-optimizer.md)
 
 ### 2026-05-28 (4 篇)
 - [x] addyosmani/agent-skills · ⭐22697 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-28-addyosmani-agent-skills.md)
@@ -67,10 +73,6 @@
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] alexgreensh/token-optimizer · ⭐646 · upstream
-- [ ] alinaqi/claude-bootstrap · ⭐576 · upstream
-- [ ] alirezarezvani/claude-code-skill-factory · ⭐721 · upstream
-- [ ] alirezarezvani/claude-code-tresor · ⭐697 · upstream
 - [ ] antfu/skills · ⭐4700 · upstream
 - [ ] avifenesh/agentsys · ⭐741 · upstream · audit 2026-04-24
 - [ ] axtonliu/axton-obsidian-visual-skills · ⭐2669 · upstream

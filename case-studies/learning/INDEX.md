@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| alirezarezvani/claude-code-tresor | ⭐697 | 81/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md](2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md) |
+| alirezarezvani/claude-code-skill-factory | ⭐721 | 80/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md](2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md) |
+| alinaqi/claude-bootstrap | ⭐576 | 80/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alinaqi-claude-bootstrap.md](2026-05/2026-05-29-alinaqi-claude-bootstrap.md) |
+| alexgreensh/token-optimizer | ⭐646 | 98/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alexgreensh-token-optimizer.md](2026-05/2026-05-29-alexgreensh-token-optimizer.md) |
 | addyosmani/agent-skills | ⭐22697 | 94/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-addyosmani-agent-skills.md](2026-05/2026-05-28-addyosmani-agent-skills.md) |
 | addyosmani/web-quality-skills | ⭐1804 | 97/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-addyosmani-web-quality-skills.md](2026-05/2026-05-28-addyosmani-web-quality-skills.md) |
 | aaron-he-zhu/seo-geo-claude-skills | ⭐1050 | 91/100 | xiaolai upstream | 2026-05-28 | [2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md](2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md) |
