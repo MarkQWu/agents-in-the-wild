@@ -36,6 +36,10 @@
 | MiniMax-AI/skills | ⭐11187 | 89/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-MiniMax-AI-skills.md](2026-05/2026-05-25-MiniMax-AI-skills.md) |
 | NousResearch/hermes-agent | ⭐94145 | 80/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-NousResearch-hermes-agent.md](2026-05/2026-05-25-NousResearch-hermes-agent.md) |
 | MemPalace/mempalace | ⭐51982 | 90/100 | xiaolai upstream | 2026-05-25 | [2026-05/2026-05-25-MemPalace-mempalace.md](2026-05/2026-05-25-MemPalace-mempalace.md) |
+| caliber-ai-org/ai-setup | ⭐698 | 100/100 | xiaolai upstream | 2026-05-30 | [2026-05/2026-05-30-caliber-ai-org-ai-setup.md](2026-05/2026-05-30-caliber-ai-org-ai-setup.md) |
+| breaking-brake/cc-wf-studio | ⭐4893 | 87/100 | xiaolai upstream | 2026-05-30 | [2026-05/2026-05-30-breaking-brake-cc-wf-studio.md](2026-05/2026-05-30-breaking-brake-cc-wf-studio.md) |
+| axtonliu/axton-obsidian-visual-skills | ⭐2669 | 90/100 | xiaolai upstream | 2026-05-30 | [2026-05/2026-05-30-axtonliu-axton-obsidian-visual-skills.md](2026-05/2026-05-30-axtonliu-axton-obsidian-visual-skills.md) |
+| antfu/skills | ⭐4700 | 93/100 | xiaolai upstream | 2026-05-30 | [2026-05/2026-05-30-antfu-skills.md](2026-05/2026-05-30-antfu-skills.md) |
 | Manavarya09/design-extract | ⭐2482 | 94/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-Manavarya09-design-extract.md](2026-05/2026-05-24-Manavarya09-design-extract.md) |
 | OpenRaiser/NanoResearch | ⭐690 | 73/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-OpenRaiser-NanoResearch.md](2026-05/2026-05-24-OpenRaiser-NanoResearch.md) |
 | KhazP/vibe-coding-prompt-template | ⭐2278 | 80/100 | xiaolai upstream | 2026-05-24 | [2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md](2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md) |

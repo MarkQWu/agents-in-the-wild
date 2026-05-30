@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：39（可学习总量 138 中已完成 28.3%）
-**剩余**：99
+**已学**：43（可学习总量 138 中已完成 31.2%）
+**剩余**：95
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-22（约 24 天）
+**按 4/天预计完成**：2026-06-21（约 23 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-30 (4 篇)
+- [x] antfu/skills · ⭐4700 · NLPM 93/100 · upstream · [案例](2026-05/2026-05-30-antfu-skills.md)
+- [x] axtonliu/axton-obsidian-visual-skills · ⭐2669 · NLPM 90/100 · upstream · [案例](2026-05/2026-05-30-axtonliu-axton-obsidian-visual-skills.md)
+- [x] breaking-brake/cc-wf-studio · ⭐4893 · NLPM 87/100 · upstream · [案例](2026-05/2026-05-30-breaking-brake-cc-wf-studio.md)
+- [x] caliber-ai-org/ai-setup · ⭐698 · NLPM 100/100 · upstream · [案例](2026-05/2026-05-30-caliber-ai-org-ai-setup.md)
 
 ### 2026-05-29 (4 篇)
 - [x] alirezarezvani/claude-code-tresor · ⭐697 · NLPM 81/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md)
@@ -73,12 +79,8 @@
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] antfu/skills · ⭐4700 · upstream
 - [ ] avifenesh/agentsys · ⭐741 · upstream · audit 2026-04-24
-- [ ] axtonliu/axton-obsidian-visual-skills · ⭐2669 · upstream
 - [ ] backnotprop/plannotator · ⭐4561 · upstream
-- [ ] breaking-brake/cc-wf-studio · ⭐4893 · upstream
-- [ ] caliber-ai-org/ai-setup · ⭐698 · upstream · audit 2026-04-25
 - [ ] centminmod/my-claude-code-setup · ⭐2210 · upstream
 - [ ] code-yeongyu/oh-my-openagent · ⭐51912 · upstream · audit 2026-05-07
 - [ ] codeaholicguy/ai-devkit · ⭐1128 · upstream
