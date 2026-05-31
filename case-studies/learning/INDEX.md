@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| centminmod/my-claude-code-setup | ⭐2210 | 49/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-centminmod-my-claude-code-setup.md](2026-05/2026-05-31-centminmod-my-claude-code-setup.md) |
+| code-yeongyu/oh-my-openagent | ⭐51912 | 74/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md](2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md) |
+| codeaholicguy/ai-devkit | ⭐1128 | 96/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-codeaholicguy-ai-devkit.md](2026-05/2026-05-31-codeaholicguy-ai-devkit.md) |
+| avifenesh/agentsys | ⭐741 | 97/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-avifenesh-agentsys.md](2026-05/2026-05-31-avifenesh-agentsys.md) |
 | alirezarezvani/claude-code-tresor | ⭐697 | 81/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md](2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md) |
 | alirezarezvani/claude-code-skill-factory | ⭐721 | 80/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md](2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md) |
 | alinaqi/claude-bootstrap | ⭐576 | 80/100 | xiaolai upstream | 2026-05-29 | [2026-05/2026-05-29-alinaqi-claude-bootstrap.md](2026-05/2026-05-29-alinaqi-claude-bootstrap.md) |

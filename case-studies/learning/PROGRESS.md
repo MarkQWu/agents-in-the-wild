@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：43（可学习总量 138 中已完成 31.2%）
-**剩余**：95
+**已学**：47（可学习总量 138 中已完成 34.1%）
+**剩余**：91
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-21（约 23 天）
+**按 4/天预计完成**：2026-06-23（约 23 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-05-31 (4 篇)
+- [x] avifenesh/agentsys · ⭐741 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-31-avifenesh-agentsys.md)
+- [x] codeaholicguy/ai-devkit · ⭐1128 · NLPM 96/100 · upstream · [案例](2026-05/2026-05-31-codeaholicguy-ai-devkit.md)
+- [x] code-yeongyu/oh-my-openagent · ⭐51912 · NLPM 74/100 · upstream · [案例](2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md)
+- [x] centminmod/my-claude-code-setup · ⭐2210 · NLPM 49/100 · upstream · [案例](2026-05/2026-05-31-centminmod-my-claude-code-setup.md)
 
 ### 2026-05-30 (4 篇)
 - [x] antfu/skills · ⭐4700 · NLPM 93/100 · upstream · [案例](2026-05/2026-05-30-antfu-skills.md)
@@ -75,15 +81,11 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 107 个）
+## 📋 待处理（按 audit 时间升序，共 91 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
-- [ ] avifenesh/agentsys · ⭐741 · upstream · audit 2026-04-24
 - [ ] backnotprop/plannotator · ⭐4561 · upstream
-- [ ] centminmod/my-claude-code-setup · ⭐2210 · upstream
-- [ ] code-yeongyu/oh-my-openagent · ⭐51912 · upstream · audit 2026-05-07
-- [ ] codeaholicguy/ai-devkit · ⭐1128 · upstream
 - [ ] czlonkowski/n8n-mcp · ⭐18662 · upstream
 - [ ] davila7/claude-code-templates · ⭐24685 · upstream
 - [ ] disler/claude-code-hooks-mastery · ⭐3566 · upstream
@@ -91,6 +93,7 @@
 - [ ] expo/skills · ⭐1784 · upstream
 - [ ] eyaltoledano/claude-task-master · ⭐26807 · upstream
 - [ ] fcakyon/claude-codex-settings · ⭐590 · upstream
+- [ ] feiskyer/claude-code-settings · ⭐1434 · upstream
 - [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
 - [ ] forrestchang/andrej-karpathy-skills · ⭐596 · upstream
 - [ ] glitternetwork/pinme · ⭐1016 · upstream
@@ -98,17 +101,17 @@
 - [ ] github/awesome-copilot · ⭐31146 · upstream
 - [ ] google-labs-code/stitch-skills · ⭐703 · upstream
 - [ ] googleworkspace/cli · ⭐25330 · upstream
-- [ ] gotalab/cc-sdd · ⭐1246 · upstream · audit 2026-04-27
+- [ ] gotalab/cc-sdd · ⭐1246 · upstream
 - [ ] guanyang/antigravity-skills · ⭐523 · upstream
 - [ ] hamelsmu/claude-review-loop · ⭐2543 · upstream
 - [ ] hashicorp/agent-skills · ⭐1500 · upstream
-- [ ] hesreallyhim/awesome-claude-code · ⭐38367 · upstream · audit 2026-04-24
+- [ ] hesreallyhim/awesome-claude-code · ⭐38367 · upstream
 - [ ] iannuttall/claude-agents · ⭐512 · upstream
 - [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
 - [ ] jarrodwatts/claude-hud · ⭐2150 · upstream
 - [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
 
-...（剩余 67 个，将随每日生成批次逐步标记完成）
+...（剩余 66 个，将随每日生成批次逐步标记完成）
 
 ---
 
