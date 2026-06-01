@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| obra/superpowers | ⭐166779 | 92/100 | xiaolai upstream | 2026-06-01 | [2026-06/2026-06-01-obra-superpowers.md](2026-06/2026-06-01-obra-superpowers.md) |
+| forrestchang/andrej-karpathy-skills | ⭐125813 | 99/100 | xiaolai upstream | 2026-06-01 | [2026-06/2026-06-01-forrestchang-andrej-karpathy-skills.md](2026-06/2026-06-01-forrestchang-andrej-karpathy-skills.md) |
+| nextlevelbuilder/ui-ux-pro-max-skill | ⭐70122 | 85/100 | xiaolai upstream | 2026-06-01 | [2026-06/2026-06-01-nextlevelbuilder-ui-ux-pro-max-skill.md](2026-06/2026-06-01-nextlevelbuilder-ui-ux-pro-max-skill.md) |
+| shareAI-lab/learn-claude-code | ⭐59868 | 88/100 | xiaolai upstream | 2026-06-01 | [2026-06/2026-06-01-shareAI-lab-learn-claude-code.md](2026-06/2026-06-01-shareAI-lab-learn-claude-code.md) |
 | centminmod/my-claude-code-setup | ⭐2210 | 49/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-centminmod-my-claude-code-setup.md](2026-05/2026-05-31-centminmod-my-claude-code-setup.md) |
 | code-yeongyu/oh-my-openagent | ⭐51912 | 74/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md](2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md) |
 | codeaholicguy/ai-devkit | ⭐1128 | 96/100 | xiaolai upstream | 2026-05-31 | [2026-05/2026-05-31-codeaholicguy-ai-devkit.md](2026-05/2026-05-31-codeaholicguy-ai-devkit.md) |

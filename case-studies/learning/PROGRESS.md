@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：47（可学习总量 138 中已完成 34.1%）
-**剩余**：91
+**已学**：51（可学习总量 138 中已完成 37.0%）
+**剩余**：87
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-23（约 23 天）
+**按 4/天预计完成**：2026-06-22（约 22 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-01 (4 篇)
+- [x] obra/superpowers · ⭐166779 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-01-obra-superpowers.md)
+- [x] forrestchang/andrej-karpathy-skills · ⭐125813 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-01-forrestchang-andrej-karpathy-skills.md)
+- [x] nextlevelbuilder/ui-ux-pro-max-skill · ⭐70122 · NLPM 85/100 · upstream · [案例](2026-06/2026-06-01-nextlevelbuilder-ui-ux-pro-max-skill.md)
+- [x] shareAI-lab/learn-claude-code · ⭐59868 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-01-shareAI-lab-learn-claude-code.md)
 
 ### 2026-05-31 (4 篇)
 - [x] avifenesh/agentsys · ⭐741 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-31-avifenesh-agentsys.md)
@@ -81,7 +87,7 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 91 个）
+## 📋 待处理（按 audit 时间升序，共 87 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
@@ -95,7 +101,6 @@
 - [ ] fcakyon/claude-codex-settings · ⭐590 · upstream
 - [ ] feiskyer/claude-code-settings · ⭐1434 · upstream
 - [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
-- [ ] forrestchang/andrej-karpathy-skills · ⭐596 · upstream
 - [ ] glitternetwork/pinme · ⭐1016 · upstream
 - [ ] gmickel/flow-next · ⭐3200 · upstream
 - [ ] github/awesome-copilot · ⭐31146 · upstream
@@ -110,8 +115,24 @@
 - [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
 - [ ] jarrodwatts/claude-hud · ⭐2150 · upstream
 - [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
+- [ ] jnMetaCode/superpowers-zh · ⭐8001 · upstream
+- [ ] jnuyens/gsd-plugin · ⭐2289 · upstream
+- [ ] josstei/maestro-orchestrate · ⭐2066 · upstream
+- [ ] kbwo/ccmanager · ⭐3174 · upstream
+- [ ] kepano/obsidian-skills · ⭐1502 · upstream
+- [ ] kubesphere/kubesphere · ⭐25547 · upstream
+- [ ] lackeyjb/playwright-skill · ⭐578 · upstream
+- [ ] leowux/pony · ⭐1073 · upstream
+- [ ] lijigang/ljg-skills · ⭐1030 · upstream
+- [ ] mattpocock/skills · ⭐35578 · upstream
+- [ ] mem0ai/mem0 · ⭐55456 · upstream
+- [ ] memvid/claude-brain · ⭐3800 · upstream
+- [ ] mikeyobrien/ralph-orchestrator · ⭐1200 · upstream
+- [ ] musistudio/claude-code-router · ⭐12766 · upstream
+- [ ] navapbc/digital-service-orchestra · ⭐505 · upstream
+- [ ] obra/superpowers · ✅ 已完成
 
-...（剩余 66 个，将随每日生成批次逐步标记完成）
+...（剩余 47 个，将随每日生成批次逐步标记完成）
 
 ---
 
