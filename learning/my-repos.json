@@ -7,7 +7,7 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-05-25",
+  "last_refreshed": "2026-06-01",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
@@ -32,7 +32,7 @@
       "pushed_at": "2026-05-13T19:02:17Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/claude-for-legal",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": false
     },
     {
@@ -43,7 +43,7 @@
       "pushed_at": "2026-05-13T09:17:48Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/echo-sleuth-for-claude",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": true
     }
   ]
