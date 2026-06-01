@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 203,
+    "total_discovered": 204,
     "total_contributed": 6,
-    "last_discovery": "2026-05-25T10:05:53Z",
+    "last_discovery": "2026-06-01T11:33:50Z",
     "total_audited": 12
   },
   "repos": {
@@ -7805,6 +7805,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 7,
+      "prs": []
+    },
+    "ReflexioAI/claude-smart": {
+      "discovered": "2026-06-01T11:33:50Z",
+      "stars": 524,
+      "artifacts": 36,
+      "description": "A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them (also support codex now)",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 8,
       "prs": []
     }
   }

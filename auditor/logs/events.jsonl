@@ -2147,3 +2147,4 @@
 {"timestamp":"2026-05-19T05:50:32Z","workflow":"audit","event":"findings_aggregated","run_id":"26078601809","run_number":6,"data":{"repo":"nexu-io/html-anything","findings":24,"invalid_lines":0,"self_false_positives":0}}
 {"timestamp":"2026-05-19T05:50:32Z","workflow":"audit","event":"audit_complete","run_id":"26078601809","run_number":6,"data":{"repo":"nexu-io/html-anything","score":80,"artifacts":76,"strategy":"progressive"}}
 {"timestamp":"2026-05-25T10:05:56Z","workflow":"discover","event":"search_complete","run_id":"26394948310","run_number":4,"data":{"candidates":94,"new":26,"worthy":1,"oversized":9}}
+{"timestamp":"2026-06-01T11:33:53Z","workflow":"discover","event":"search_complete","run_id":"26752308383","run_number":5,"data":{"candidates":95,"new":25,"worthy":1,"oversized":9}}
