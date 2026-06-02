@@ -16,6 +16,7 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| disler/claude-code-hooks-mastery | ⭐3566 | 77/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-disler-claude-code-hooks-mastery.md](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md) |
 | backnotprop/plannotator | ⭐4561 | 93/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-backnotprop-plannotator.md](2026-06/2026-06-02-backnotprop-plannotator.md) |
 | czlonkowski/n8n-mcp | ⭐18662 | 81/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-czlonkowski-n8n-mcp.md](2026-06/2026-06-02-czlonkowski-n8n-mcp.md) |
 | davila7/claude-code-templates | ⭐24685 | 84/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-davila7-claude-code-templates.md](2026-06/2026-06-02-davila7-claude-code-templates.md) |

@@ -1,8 +1,8 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：54（可学习总量 138 中已完成 39.1%）
-**剩余**：84
+**已学**：55（可学习总量 138 中已完成 39.9%）
+**剩余**：83
 **<500 星跳过**：72
 **按 4/天预计完成**：2026-06-21（约 21 天）
 
@@ -10,7 +10,8 @@
 
 ## ✅ 已完成（按生成日期降序）
 
-### 2026-06-02 (3 篇，第4篇生成中)
+### 2026-06-02 (4 篇)
+- [x] disler/claude-code-hooks-mastery · ⭐3566 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md)
 - [x] backnotprop/plannotator · ⭐4561 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-02-backnotprop-plannotator.md)
 - [x] czlonkowski/n8n-mcp · ⭐18662 · NLPM 81/100 · upstream · [案例](2026-06/2026-06-02-czlonkowski-n8n-mcp.md)
 - [x] davila7/claude-code-templates · ⭐24685 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-02-davila7-claude-code-templates.md)
