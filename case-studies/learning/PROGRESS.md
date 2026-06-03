@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：55（可学习总量 138 中已完成 39.9%）
-**剩余**：83
+**已学**：59（可学习总量 138 中已完成 42.8%）
+**剩余**：79
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-21（约 21 天）
+**按 4/天预计完成**：2026-06-21（约 18 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-03 (4 篇)
+- [x] gmickel/flow-next · ⭐568 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-03-gmickel-flow-next.md)
+- [x] jordanrendric/claude-video-vision · ⭐561 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-03-jordanrendric-claude-video-vision.md)
+- [x] m1heng/claude-plugin-weixin · ⭐556 · NLPM 97/100 · upstream · [案例](2026-06/2026-06-03-m1heng-claude-plugin-weixin.md)
+- [x] wecode-ai/Wegent · ⭐521 · NLPM 81/100 · upstream · [案例](2026-06/2026-06-03-wecode-ai-Wegent.md)
 
 ### 2026-06-02 (4 篇)
 - [x] disler/claude-code-hooks-mastery · ⭐3566 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md)
@@ -93,11 +99,10 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 87 个）
+## 📋 待处理（按 audit 时间升序，共 79 个）
 
-> 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
+> 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按星数降序排列，优先高影响力案例
 
-- [ ] disler/claude-code-hooks-mastery · ⭐3566 · upstream
 - [ ] evo-hq/evo · ⭐645 · upstream
 - [ ] expo/skills · ⭐1784 · upstream
 - [ ] eyaltoledano/claude-task-master · ⭐26807 · upstream
@@ -105,7 +110,6 @@
 - [ ] feiskyer/claude-code-settings · ⭐1434 · upstream
 - [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
 - [ ] glitternetwork/pinme · ⭐1016 · upstream
-- [ ] gmickel/flow-next · ⭐3200 · upstream
 - [ ] github/awesome-copilot · ⭐31146 · upstream
 - [ ] google-labs-code/stitch-skills · ⭐703 · upstream
 - [ ] googleworkspace/cli · ⭐25330 · upstream
@@ -133,9 +137,12 @@
 - [ ] mikeyobrien/ralph-orchestrator · ⭐1200 · upstream
 - [ ] musistudio/claude-code-router · ⭐12766 · upstream
 - [ ] navapbc/digital-service-orchestra · ⭐505 · upstream
-- [ ] obra/superpowers · ✅ 已完成
+- [ ] numman-ali/n-skills · ⭐974 · upstream
+- [ ] jnMetaCode/superpowers-zh · ⭐1001 · upstream
+- [ ] kbwo/ccmanager · ⭐1031 · upstream
+- [ ] itsmostafa/aws-agent-skills · ⭐1076 · upstream
 
-...（剩余 47 个，将随每日生成批次逐步标记完成）
+...（剩余 41 个，将随每日生成批次逐步标记完成）
 
 ---
 
