@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| gmickel/flow-next | ⭐568 | 93/100 | xiaolai upstream | 2026-06-03 | [2026-06/2026-06-03-gmickel-flow-next.md](2026-06/2026-06-03-gmickel-flow-next.md) |
+| jordanrendric/claude-video-vision | ⭐561 | 79/100 | xiaolai upstream | 2026-06-03 | [2026-06/2026-06-03-jordanrendric-claude-video-vision.md](2026-06/2026-06-03-jordanrendric-claude-video-vision.md) |
+| m1heng/claude-plugin-weixin | ⭐556 | 97/100 | xiaolai upstream | 2026-06-03 | [2026-06/2026-06-03-m1heng-claude-plugin-weixin.md](2026-06/2026-06-03-m1heng-claude-plugin-weixin.md) |
+| wecode-ai/Wegent | ⭐521 | 81/100 | xiaolai upstream | 2026-06-03 | [2026-06/2026-06-03-wecode-ai-Wegent.md](2026-06/2026-06-03-wecode-ai-Wegent.md) |
 | disler/claude-code-hooks-mastery | ⭐3566 | 77/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-disler-claude-code-hooks-mastery.md](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md) |
 | backnotprop/plannotator | ⭐4561 | 93/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-backnotprop-plannotator.md](2026-06/2026-06-02-backnotprop-plannotator.md) |
 | czlonkowski/n8n-mcp | ⭐18662 | 81/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-czlonkowski-n8n-mcp.md](2026-06/2026-06-02-czlonkowski-n8n-mcp.md) |
