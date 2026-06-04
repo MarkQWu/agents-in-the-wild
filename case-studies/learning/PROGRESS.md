@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：55（可学习总量 138 中已完成 39.9%）
-**剩余**：83
+**已学**：59（可学习总量 138 中已完成 42.8%）
+**剩余**：79
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-21（约 21 天）
+**按 4/天预计完成**：2026-06-21（约 17 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-04 (4 篇)
+- [x] fcakyon/claude-codex-settings · ⭐590 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-04-fcakyon-claude-codex-settings.md)
+- [x] eyaltoledano/claude-task-master · ⭐26807 · NLPM 67/100 · upstream · [案例](2026-06/2026-06-04-eyaltoledano-claude-task-master.md)
+- [x] expo/skills · ⭐1784 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-04-expo-skills.md)
+- [x] evo-hq/evo · ⭐645 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-04-evo-hq-evo.md)
 
 ### 2026-06-02 (4 篇)
 - [x] disler/claude-code-hooks-mastery · ⭐3566 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md)
@@ -93,15 +99,15 @@
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 87 个）
+## 📋 待处理（按 audit 时间升序，共 83 个）
 
 > 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
 
 - [ ] disler/claude-code-hooks-mastery · ⭐3566 · upstream
-- [ ] evo-hq/evo · ⭐645 · upstream
-- [ ] expo/skills · ⭐1784 · upstream
-- [ ] eyaltoledano/claude-task-master · ⭐26807 · upstream
-- [ ] fcakyon/claude-codex-settings · ⭐590 · upstream
+- [x] evo-hq/evo · ✅ 已完成 (2026-06-04)
+- [x] expo/skills · ✅ 已完成 (2026-06-04)
+- [x] eyaltoledano/claude-task-master · ✅ 已完成 (2026-06-04)
+- [x] fcakyon/claude-codex-settings · ✅ 已完成 (2026-06-04)
 - [ ] feiskyer/claude-code-settings · ⭐1434 · upstream
 - [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
 - [ ] glitternetwork/pinme · ⭐1016 · upstream

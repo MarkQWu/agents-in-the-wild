@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| fcakyon/claude-codex-settings | ⭐590 | 79/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-fcakyon-claude-codex-settings.md](2026-06/2026-06-04-fcakyon-claude-codex-settings.md) |
+| eyaltoledano/claude-task-master | ⭐26807 | 67/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-eyaltoledano-claude-task-master.md](2026-06/2026-06-04-eyaltoledano-claude-task-master.md) |
+| expo/skills | ⭐1784 | 92/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-expo-skills.md](2026-06/2026-06-04-expo-skills.md) |
+| evo-hq/evo | ⭐645 | 98/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-evo-hq-evo.md](2026-06/2026-06-04-evo-hq-evo.md) |
 | disler/claude-code-hooks-mastery | ⭐3566 | 77/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-disler-claude-code-hooks-mastery.md](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md) |
 | backnotprop/plannotator | ⭐4561 | 93/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-backnotprop-plannotator.md](2026-06/2026-06-02-backnotprop-plannotator.md) |
 | czlonkowski/n8n-mcp | ⭐18662 | 81/100 | xiaolai upstream | 2026-06-02 | [2026-06/2026-06-02-czlonkowski-n8n-mcp.md](2026-06/2026-06-02-czlonkowski-n8n-mcp.md) |
