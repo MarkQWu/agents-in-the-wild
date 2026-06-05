@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| hesreallyhim/awesome-claude-code | ⭐38367 | 89/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md](2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md) |
+| github/awesome-copilot | ⭐31146 | 77/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-github-awesome-copilot.md](2026-06/2026-06-05-github-awesome-copilot.md) |
+| iOfficeAI/AionUi | ⭐22516 | 75/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-iOfficeAI-AionUi.md](2026-06/2026-06-05-iOfficeAI-AionUi.md) |
+| jarrodwatts/claude-hud | ⭐21673 | 92/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-jarrodwatts-claude-hud.md](2026-06/2026-06-05-jarrodwatts-claude-hud.md) |
 | fcakyon/claude-codex-settings | ⭐590 | 79/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-fcakyon-claude-codex-settings.md](2026-06/2026-06-04-fcakyon-claude-codex-settings.md) |
 | eyaltoledano/claude-task-master | ⭐26807 | 67/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-eyaltoledano-claude-task-master.md](2026-06/2026-06-04-eyaltoledano-claude-task-master.md) |
 | expo/skills | ⭐1784 | 92/100 | xiaolai upstream | 2026-06-04 | [2026-06/2026-06-04-expo-skills.md](2026-06/2026-06-04-expo-skills.md) |

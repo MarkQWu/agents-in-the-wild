@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：59（可学习总量 138 中已完成 42.8%）
-**剩余**：79
+**已学**：63（可学习总量 138 中已完成 45.7%）
+**剩余**：75
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-21（约 17 天）
+**按 4/天预计完成**：2026-06-24（约 19 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-05 (4 篇)
+- [x] hesreallyhim/awesome-claude-code · ⭐38367 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md)
+- [x] github/awesome-copilot · ⭐31146 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-05-github-awesome-copilot.md)
+- [x] iOfficeAI/AionUi · ⭐22516 · NLPM 75/100 · upstream · [案例](2026-06/2026-06-05-iOfficeAI-AionUi.md)
+- [x] jarrodwatts/claude-hud · ⭐21673 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-05-jarrodwatts-claude-hud.md)
 
 ### 2026-06-04 (4 篇)
 - [x] fcakyon/claude-codex-settings · ⭐590 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-04-fcakyon-claude-codex-settings.md)
@@ -112,17 +118,17 @@
 - [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
 - [ ] glitternetwork/pinme · ⭐1016 · upstream
 - [ ] gmickel/flow-next · ⭐3200 · upstream
-- [ ] github/awesome-copilot · ⭐31146 · upstream
+- [x] github/awesome-copilot · ✅ 已完成 (2026-06-05)
 - [ ] google-labs-code/stitch-skills · ⭐703 · upstream
 - [ ] googleworkspace/cli · ⭐25330 · upstream
 - [ ] gotalab/cc-sdd · ⭐1246 · upstream
 - [ ] guanyang/antigravity-skills · ⭐523 · upstream
 - [ ] hamelsmu/claude-review-loop · ⭐2543 · upstream
 - [ ] hashicorp/agent-skills · ⭐1500 · upstream
-- [ ] hesreallyhim/awesome-claude-code · ⭐38367 · upstream
+- [x] hesreallyhim/awesome-claude-code · ✅ 已完成 (2026-06-05)
 - [ ] iannuttall/claude-agents · ⭐512 · upstream
 - [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
-- [ ] jarrodwatts/claude-hud · ⭐2150 · upstream
+- [x] jarrodwatts/claude-hud · ✅ 已完成 (2026-06-05)
 - [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
 - [ ] jnMetaCode/superpowers-zh · ⭐8001 · upstream
 - [ ] jnuyens/gsd-plugin · ⭐2289 · upstream
