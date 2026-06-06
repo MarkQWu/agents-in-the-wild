@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：63（可学习总量 138 中已完成 45.7%）
-**剩余**：75
+**已学**：67（可学习总量 138 中已完成 48.6%）
+**剩余**：71
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-24（约 19 天）
+**按 4/天预计完成**：2026-06-24（约 18 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-06 (4 篇)
+- [x] gmickel/flow-next · ⭐568 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-gmickel-flow-next.md)
+- [x] glitternetwork/pinme · ⭐3188 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-glitternetwork-pinme.md)
+- [x] firetiger-oss/claude-plugin · ⭐508 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-06-firetiger-oss-claude-plugin.md)
+- [x] feiskyer/claude-code-settings · ⭐1434 · NLPM 85/100 · upstream · [案例](2026-06/2026-06-06-feiskyer-claude-code-settings.md)
 
 ### 2026-06-05 (4 篇)
 - [x] hesreallyhim/awesome-claude-code · ⭐38367 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md)
@@ -114,10 +120,10 @@
 - [x] expo/skills · ✅ 已完成 (2026-06-04)
 - [x] eyaltoledano/claude-task-master · ✅ 已完成 (2026-06-04)
 - [x] fcakyon/claude-codex-settings · ✅ 已完成 (2026-06-04)
-- [ ] feiskyer/claude-code-settings · ⭐1434 · upstream
-- [ ] firetiger-oss/claude-plugin · ⭐508 · upstream
-- [ ] glitternetwork/pinme · ⭐1016 · upstream
-- [ ] gmickel/flow-next · ⭐3200 · upstream
+- [x] feiskyer/claude-code-settings · ✅ 已完成 (2026-06-06)
+- [x] firetiger-oss/claude-plugin · ✅ 已完成 (2026-06-06)
+- [x] glitternetwork/pinme · ✅ 已完成 (2026-06-06)
+- [x] gmickel/flow-next · ✅ 已完成 (2026-06-06)
 - [x] github/awesome-copilot · ✅ 已完成 (2026-06-05)
 - [ ] google-labs-code/stitch-skills · ⭐703 · upstream
 - [ ] googleworkspace/cli · ⭐25330 · upstream

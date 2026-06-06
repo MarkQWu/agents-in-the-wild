@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| gmickel/flow-next | ⭐568 | 93/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-gmickel-flow-next.md](2026-06/2026-06-06-gmickel-flow-next.md) |
+| glitternetwork/pinme | ⭐3188 | 93/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-glitternetwork-pinme.md](2026-06/2026-06-06-glitternetwork-pinme.md) |
+| firetiger-oss/claude-plugin | ⭐508 | 84/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-firetiger-oss-claude-plugin.md](2026-06/2026-06-06-firetiger-oss-claude-plugin.md) |
+| feiskyer/claude-code-settings | ⭐1434 | 85/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-feiskyer-claude-code-settings.md](2026-06/2026-06-06-feiskyer-claude-code-settings.md) |
 | hesreallyhim/awesome-claude-code | ⭐38367 | 89/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md](2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md) |
 | github/awesome-copilot | ⭐31146 | 77/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-github-awesome-copilot.md](2026-06/2026-06-05-github-awesome-copilot.md) |
 | iOfficeAI/AionUi | ⭐22516 | 75/100 | xiaolai upstream | 2026-06-05 | [2026-06/2026-06-05-iOfficeAI-AionUi.md](2026-06/2026-06-05-iOfficeAI-AionUi.md) |
