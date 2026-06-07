@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| googleworkspace/cli | ⭐25330 | 99/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-googleworkspace-cli.md](2026-06/2026-06-07-googleworkspace-cli.md) |
+| kepano/obsidian-skills | ⭐26283 | 100/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-kepano-obsidian-skills.md](2026-06/2026-06-07-kepano-obsidian-skills.md) |
+| luongnv89/claude-howto | ⭐27150 | 77/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-luongnv89-claude-howto.md](2026-06/2026-06-07-luongnv89-claude-howto.md) |
+| mem0ai/mem0 | ⭐55456 | 91/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-mem0ai-mem0.md](2026-06/2026-06-07-mem0ai-mem0.md) |
 | gmickel/flow-next | ⭐568 | 93/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-gmickel-flow-next.md](2026-06/2026-06-06-gmickel-flow-next.md) |
 | glitternetwork/pinme | ⭐3188 | 93/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-glitternetwork-pinme.md](2026-06/2026-06-06-glitternetwork-pinme.md) |
 | firetiger-oss/claude-plugin | ⭐508 | 84/100 | xiaolai upstream | 2026-06-06 | [2026-06/2026-06-06-firetiger-oss-claude-plugin.md](2026-06/2026-06-06-firetiger-oss-claude-plugin.md) |

@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：67（可学习总量 138 中已完成 48.6%）
-**剩余**：71
+**已学**：71（可学习总量 138 中已完成 51.4%）
+**剩余**：67
 **<500 星跳过**：72
-**按 4/天预计完成**：2026-06-24（约 18 天）
+**按 4/天预计完成**：2026-06-23（约 17 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-07 (4 篇)
+- [x] googleworkspace/cli · ⭐25330 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-07-googleworkspace-cli.md)
+- [x] kepano/obsidian-skills · ⭐26283 · NLPM 100/100 · upstream · [案例](2026-06/2026-06-07-kepano-obsidian-skills.md)
+- [x] luongnv89/claude-howto · ⭐27150 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-07-luongnv89-claude-howto.md)
+- [x] mem0ai/mem0 · ⭐55456 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-07-mem0ai-mem0.md)
 
 ### 2026-06-06 (4 篇)
 - [x] gmickel/flow-next · ⭐568 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-gmickel-flow-next.md)
@@ -126,7 +132,7 @@
 - [x] gmickel/flow-next · ✅ 已完成 (2026-06-06)
 - [x] github/awesome-copilot · ✅ 已完成 (2026-06-05)
 - [ ] google-labs-code/stitch-skills · ⭐703 · upstream
-- [ ] googleworkspace/cli · ⭐25330 · upstream
+- [x] googleworkspace/cli · ✅ 已完成 (2026-06-07)
 - [ ] gotalab/cc-sdd · ⭐1246 · upstream
 - [ ] guanyang/antigravity-skills · ⭐523 · upstream
 - [ ] hamelsmu/claude-review-loop · ⭐2543 · upstream
@@ -140,13 +146,13 @@
 - [ ] jnuyens/gsd-plugin · ⭐2289 · upstream
 - [ ] josstei/maestro-orchestrate · ⭐2066 · upstream
 - [ ] kbwo/ccmanager · ⭐3174 · upstream
-- [ ] kepano/obsidian-skills · ⭐1502 · upstream
+- [x] kepano/obsidian-skills · ✅ 已完成 (2026-06-07)
 - [ ] kubesphere/kubesphere · ⭐25547 · upstream
 - [ ] lackeyjb/playwright-skill · ⭐578 · upstream
 - [ ] leowux/pony · ⭐1073 · upstream
 - [ ] lijigang/ljg-skills · ⭐1030 · upstream
 - [ ] mattpocock/skills · ⭐35578 · upstream
-- [ ] mem0ai/mem0 · ⭐55456 · upstream
+- [x] mem0ai/mem0 · ✅ 已完成 (2026-06-07)
 - [ ] memvid/claude-brain · ⭐3800 · upstream
 - [ ] mikeyobrien/ralph-orchestrator · ⭐1200 · upstream
 - [ ] musistudio/claude-code-router · ⭐12766 · upstream
