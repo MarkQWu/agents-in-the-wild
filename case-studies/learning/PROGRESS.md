@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：71（可学习总量 138 中已完成 51.4%）
-**剩余**：67
-**<500 星跳过**：72
-**按 4/天预计完成**：2026-06-23（约 17 天）
+**已学**：75（可学习总量 138 中已完成 54.3%）
+**剩余**：63
+**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
+**按 4/天预计完成**：2026-06-24（约 16 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-08 (4 篇)
+- [x] 0xmariowu/Autosearch · ⭐13 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-08-0xmariowu-Autosearch.md)
+- [x] 2389-research/review-squad · ⭐1 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-08-2389-research-review-squad.md)
+- [x] 2389-research/simmer · ⭐4 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-08-2389-research-simmer.md)
+- [x] 888wing/codetape · ⭐0 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-08-888wing-codetape.md)
 
 ### 2026-06-07 (4 篇)
 - [x] googleworkspace/cli · ⭐25330 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-07-googleworkspace-cli.md)
@@ -163,12 +169,8 @@
 
 ---
 
-## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 72 个）
+## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 68 个）
 
-- ~~0xmariowu/Autosearch · ⭐13~~
-- ~~2389-research/review-squad · ⭐1~~
-- ~~2389-research/simmer · ⭐4~~
-- ~~888wing/codetape · ⭐0~~
 - ~~AgriciDaniel/claude-seo · ⭐N/A~~
 - ~~ChrisWiles/claude-code-showcase · ⭐N/A~~
 - ~~CloudAI-X/claude-workflow-v2 · ⭐N/A~~

@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| 0xmariowu/Autosearch | ⭐13 | 92/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-0xmariowu-Autosearch.md](2026-06/2026-06-08-0xmariowu-Autosearch.md) |
+| 2389-research/review-squad | ⭐1 | 96/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-2389-research-review-squad.md](2026-06/2026-06-08-2389-research-review-squad.md) |
+| 2389-research/simmer | ⭐4 | 93/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-2389-research-simmer.md](2026-06/2026-06-08-2389-research-simmer.md) |
+| 888wing/codetape | ⭐0 | 88/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-888wing-codetape.md](2026-06/2026-06-08-888wing-codetape.md) |
 | googleworkspace/cli | ⭐25330 | 99/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-googleworkspace-cli.md](2026-06/2026-06-07-googleworkspace-cli.md) |
 | kepano/obsidian-skills | ⭐26283 | 100/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-kepano-obsidian-skills.md](2026-06/2026-06-07-kepano-obsidian-skills.md) |
 | luongnv89/claude-howto | ⭐27150 | 77/100 | xiaolai upstream | 2026-06-07 | [2026-06/2026-06-07-luongnv89-claude-howto.md](2026-06/2026-06-07-luongnv89-claude-howto.md) |
