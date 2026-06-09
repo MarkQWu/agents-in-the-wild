@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：75（可学习总量 138 中已完成 54.3%）
-**剩余**：63
+**已学**：79（可学习总量 138 中已完成 57.2%）
+**剩余**：59
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
-**按 4/天预计完成**：2026-06-24（约 16 天）
+**按 4/天预计完成**：2026-06-24（约 15 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-09 (4 篇)
+- [x] upstash/context7 · ⭐53665 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-09-upstash-context7.md)
+- [x] shanraisshan/claude-code-best-practice · ⭐46008 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md)
+- [x] safishamsi/graphify · ⭐37391 · NLPM 58/100 · upstream · [案例](2026-06/2026-06-09-safishamsi-graphify.md)
+- [x] wshobson/agents · ⭐33764 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-09-wshobson-agents.md)
 
 ### 2026-06-08 (4 篇)
 - [x] 0xmariowu/Autosearch · ⭐13 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-08-0xmariowu-Autosearch.md)

@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| upstash/context7 | ⭐53665 | 82/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-upstash-context7.md](2026-06/2026-06-09-upstash-context7.md) |
+| shanraisshan/claude-code-best-practice | ⭐46008 | 88/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md](2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md) |
+| safishamsi/graphify | ⭐37391 | 58/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-safishamsi-graphify.md](2026-06/2026-06-09-safishamsi-graphify.md) |
+| wshobson/agents | ⭐33764 | 82/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-wshobson-agents.md](2026-06/2026-06-09-wshobson-agents.md) |
 | 0xmariowu/Autosearch | ⭐13 | 92/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-0xmariowu-Autosearch.md](2026-06/2026-06-08-0xmariowu-Autosearch.md) |
 | 2389-research/review-squad | ⭐1 | 96/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-2389-research-review-squad.md](2026-06/2026-06-08-2389-research-review-squad.md) |
 | 2389-research/simmer | ⭐4 | 93/100 | xiaolai upstream | 2026-06-08 | [2026-06/2026-06-08-2389-research-simmer.md](2026-06/2026-06-08-2389-research-simmer.md) |
