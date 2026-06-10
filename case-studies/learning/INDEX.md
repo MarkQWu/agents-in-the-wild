@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| EveryInc/compound-engineering-plugin | 未记录 | 84/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-EveryInc-compound-engineering-plugin.md](2026-06/2026-06-10-EveryInc-compound-engineering-plugin.md) |
+| AgriciDaniel/claude-seo | 未记录 | 94/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-AgriciDaniel-claude-seo.md](2026-06/2026-06-10-AgriciDaniel-claude-seo.md) |
+| ChrisWiles/claude-code-showcase | 未记录 | 81/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md](2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md) |
+| CloudAI-X/claude-workflow-v2 | 未记录 | 93/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-CloudAI-X-claude-workflow-v2.md](2026-06/2026-06-10-CloudAI-X-claude-workflow-v2.md) |
 | upstash/context7 | ⭐53665 | 82/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-upstash-context7.md](2026-06/2026-06-09-upstash-context7.md) |
 | shanraisshan/claude-code-best-practice | ⭐46008 | 88/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md](2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md) |
 | safishamsi/graphify | ⭐37391 | 58/100 | xiaolai upstream | 2026-06-09 | [2026-06/2026-06-09-safishamsi-graphify.md](2026-06/2026-06-09-safishamsi-graphify.md) |

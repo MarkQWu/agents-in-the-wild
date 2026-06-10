@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：79（可学习总量 138 中已完成 57.2%）
-**剩余**：59
+**已学**：83（可学习总量 138 中已完成 60.1%）
+**剩余**：55
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
-**按 4/天预计完成**：2026-06-24（约 15 天）
+**按 4/天预计完成**：2026-06-24（约 14 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-10 (4 篇)
+- [x] CloudAI-X/claude-workflow-v2 · ⭐未记录 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-10-CloudAI-X-claude-workflow-v2.md)
+- [x] ChrisWiles/claude-code-showcase · ⭐未记录 · NLPM 81/100 · upstream · [案例](2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md)
+- [x] AgriciDaniel/claude-seo · ⭐未记录 · NLPM 94/100 · upstream · [案例](2026-06/2026-06-10-AgriciDaniel-claude-seo.md)
+- [x] EveryInc/compound-engineering-plugin · ⭐未记录 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-10-EveryInc-compound-engineering-plugin.md)
 
 ### 2026-06-09 (4 篇)
 - [x] upstash/context7 · ⭐53665 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-09-upstash-context7.md)
