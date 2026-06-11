@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| google-labs-code/stitch-skills | ⭐4860 | 96/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-google-labs-code-stitch-skills.md](2026-06/2026-06-11-google-labs-code-stitch-skills.md) |
+| google-gemini/gemini-skills | ⭐3330 | 98/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-google-gemini-gemini-skills.md](2026-06/2026-06-11-google-gemini-gemini-skills.md) |
+| foryourhealth111-pixel/Vibe-Skills | ⭐1570 | 79/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-foryourhealth111-pixel-Vibe-Skills.md](2026-06/2026-06-11-foryourhealth111-pixel-Vibe-Skills.md) |
+| first-fluke/oh-my-agent | ⭐663 | 86/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-first-fluke-oh-my-agent.md](2026-06/2026-06-11-first-fluke-oh-my-agent.md) |
 | EveryInc/compound-engineering-plugin | 未记录 | 84/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-EveryInc-compound-engineering-plugin.md](2026-06/2026-06-10-EveryInc-compound-engineering-plugin.md) |
 | AgriciDaniel/claude-seo | 未记录 | 94/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-AgriciDaniel-claude-seo.md](2026-06/2026-06-10-AgriciDaniel-claude-seo.md) |
 | ChrisWiles/claude-code-showcase | 未记录 | 81/100 | xiaolai upstream | 2026-06-10 | [2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md](2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md) |

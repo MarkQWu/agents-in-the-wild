@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：83（可学习总量 138 中已完成 60.1%）
-**剩余**：55
+**已学**：87（可学习总量 138 中已完成 63.0%）
+**剩余**：51
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
-**按 4/天预计完成**：2026-06-24（约 14 天）
+**按 4/天预计完成**：2026-06-24（约 13 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-11 (4 篇)
+- [x] google-labs-code/stitch-skills · ⭐4860 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-11-google-labs-code-stitch-skills.md)
+- [x] google-gemini/gemini-skills · ⭐3330 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-11-google-gemini-gemini-skills.md)
+- [x] foryourhealth111-pixel/Vibe-Skills · ⭐1570 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-11-foryourhealth111-pixel-Vibe-Skills.md)
+- [x] first-fluke/oh-my-agent · ⭐663 · NLPM 86/100 · upstream · [案例](2026-06/2026-06-11-first-fluke-oh-my-agent.md)
 
 ### 2026-06-10 (4 篇)
 - [x] CloudAI-X/claude-workflow-v2 · ⭐未记录 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-10-CloudAI-X-claude-workflow-v2.md)
@@ -149,7 +155,7 @@
 - [x] glitternetwork/pinme · ✅ 已完成 (2026-06-06)
 - [x] gmickel/flow-next · ✅ 已完成 (2026-06-06)
 - [x] github/awesome-copilot · ✅ 已完成 (2026-06-05)
-- [ ] google-labs-code/stitch-skills · ⭐703 · upstream
+- [x] google-labs-code/stitch-skills · ⭐4860 · upstream · ✅ 已完成 (2026-06-11)
 - [x] googleworkspace/cli · ✅ 已完成 (2026-06-07)
 - [ ] gotalab/cc-sdd · ⭐1246 · upstream
 - [ ] guanyang/antigravity-skills · ⭐523 · upstream
