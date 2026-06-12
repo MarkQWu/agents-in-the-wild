@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：87（可学习总量 138 中已完成 63.0%）
-**剩余**：51
+**已学**：91（可学习总量 138 中已完成 65.9%）
+**剩余**：47
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
-**按 4/天预计完成**：2026-06-24（约 13 天）
+**按 4/天预计完成**：2026-06-24（约 12 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-12 (4 篇)
+- [x] gotalab/cc-sdd · ⭐3099 · NLPM 60/100 · upstream · [案例](2026-06/2026-06-12-gotalab-cc-sdd.md)
+- [x] guanyang/antigravity-skills · ⭐653 · NLPM 86/100 · upstream · [案例](2026-06/2026-06-12-guanyang-antigravity-skills.md)
+- [x] hamelsmu/claude-review-loop · ⭐655 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-12-hamelsmu-claude-review-loop.md)
+- [x] hellowind777/hello2cc · ⭐651 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-12-hellowind777-hello2cc.md)
 
 ### 2026-06-11 (4 篇)
 - [x] google-labs-code/stitch-skills · ⭐4860 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-11-google-labs-code-stitch-skills.md)
@@ -157,9 +163,10 @@
 - [x] github/awesome-copilot · ✅ 已完成 (2026-06-05)
 - [x] google-labs-code/stitch-skills · ⭐4860 · upstream · ✅ 已完成 (2026-06-11)
 - [x] googleworkspace/cli · ✅ 已完成 (2026-06-07)
-- [ ] gotalab/cc-sdd · ⭐1246 · upstream
-- [ ] guanyang/antigravity-skills · ⭐523 · upstream
-- [ ] hamelsmu/claude-review-loop · ⭐2543 · upstream
+- [x] gotalab/cc-sdd · ⭐3099 · upstream · ✅ 已完成 (2026-06-12)
+- [x] guanyang/antigravity-skills · ⭐653 · upstream · ✅ 已完成 (2026-06-12)
+- [x] hamelsmu/claude-review-loop · ⭐655 · upstream · ✅ 已完成 (2026-06-12)
+- [x] hellowind777/hello2cc · ⭐651 · upstream · ✅ 已完成 (2026-06-12)
 - [ ] hashicorp/agent-skills · ⭐1500 · upstream
 - [x] hesreallyhim/awesome-claude-code · ✅ 已完成 (2026-06-05)
 - [ ] iannuttall/claude-agents · ⭐512 · upstream

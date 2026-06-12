@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| gotalab/cc-sdd | ⭐3099 | 60/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-gotalab-cc-sdd.md](2026-06/2026-06-12-gotalab-cc-sdd.md) |
+| guanyang/antigravity-skills | ⭐653 | 86/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-guanyang-antigravity-skills.md](2026-06/2026-06-12-guanyang-antigravity-skills.md) |
+| hamelsmu/claude-review-loop | ⭐655 | 89/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-hamelsmu-claude-review-loop.md](2026-06/2026-06-12-hamelsmu-claude-review-loop.md) |
+| hellowind777/hello2cc | ⭐651 | 84/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-hellowind777-hello2cc.md](2026-06/2026-06-12-hellowind777-hello2cc.md) |
 | google-labs-code/stitch-skills | ⭐4860 | 96/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-google-labs-code-stitch-skills.md](2026-06/2026-06-11-google-labs-code-stitch-skills.md) |
 | google-gemini/gemini-skills | ⭐3330 | 98/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-google-gemini-gemini-skills.md](2026-06/2026-06-11-google-gemini-gemini-skills.md) |
 | foryourhealth111-pixel/Vibe-Skills | ⭐1570 | 79/100 | xiaolai upstream | 2026-06-11 | [2026-06/2026-06-11-foryourhealth111-pixel-Vibe-Skills.md](2026-06/2026-06-11-foryourhealth111-pixel-Vibe-Skills.md) |
