@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| htdt/godogen | ⭐2839 | 91/100 | xiaolai upstream | 2026-06-13 | [2026-06/2026-06-13-htdt-godogen.md](2026-06/2026-06-13-htdt-godogen.md) |
+| iannuttall/claude-agents | ⭐2046 | 88/100 | xiaolai upstream | 2026-06-13 | [2026-06/2026-06-13-iannuttall-claude-agents.md](2026-06/2026-06-13-iannuttall-claude-agents.md) |
+| itsmostafa/aws-agent-skills | ⭐1076 | 99/100 | xiaolai upstream | 2026-06-13 | [2026-06/2026-06-13-itsmostafa-aws-agent-skills.md](2026-06/2026-06-13-itsmostafa-aws-agent-skills.md) |
+| jeremylongshore/claude-code-plugins-plus-skills | ⭐1917 | 73/100 | xiaolai upstream | 2026-06-13 | [2026-06/2026-06-13-jeremylongshore-claude-code-plugins-plus-skills.md](2026-06/2026-06-13-jeremylongshore-claude-code-plugins-plus-skills.md) |
 | gotalab/cc-sdd | ⭐3099 | 60/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-gotalab-cc-sdd.md](2026-06/2026-06-12-gotalab-cc-sdd.md) |
 | guanyang/antigravity-skills | ⭐653 | 86/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-guanyang-antigravity-skills.md](2026-06/2026-06-12-guanyang-antigravity-skills.md) |
 | hamelsmu/claude-review-loop | ⭐655 | 89/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-hamelsmu-claude-review-loop.md](2026-06/2026-06-12-hamelsmu-claude-review-loop.md) |
