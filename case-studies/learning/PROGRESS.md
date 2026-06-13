@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：91（可学习总量 138 中已完成 65.9%）
-**剩余**：47
+**已学**：95（可学习总量 138 中已完成 68.8%）
+**剩余**：43
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
-**按 4/天预计完成**：2026-06-24（约 12 天）
+**按 4/天预计完成**：2026-06-24（约 11 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-13 (4 篇)
+- [x] htdt/godogen · ⭐2839 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-13-htdt-godogen.md)
+- [x] iannuttall/claude-agents · ⭐2046 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-13-iannuttall-claude-agents.md)
+- [x] itsmostafa/aws-agent-skills · ⭐1076 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-13-itsmostafa-aws-agent-skills.md)
+- [x] jeremylongshore/claude-code-plugins-plus-skills · ⭐1917 · NLPM 73/100 · upstream · [案例](2026-06/2026-06-13-jeremylongshore-claude-code-plugins-plus-skills.md)
 
 ### 2026-06-12 (4 篇)
 - [x] gotalab/cc-sdd · ⭐3099 · NLPM 60/100 · upstream · [案例](2026-06/2026-06-12-gotalab-cc-sdd.md)
@@ -169,10 +175,10 @@
 - [x] hellowind777/hello2cc · ⭐651 · upstream · ✅ 已完成 (2026-06-12)
 - [ ] hashicorp/agent-skills · ⭐1500 · upstream
 - [x] hesreallyhim/awesome-claude-code · ✅ 已完成 (2026-06-05)
-- [ ] iannuttall/claude-agents · ⭐512 · upstream
-- [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
+- [x] iannuttall/claude-agents · ⭐2046 · upstream · ✅ 已完成 (2026-06-13)
+- [x] itsmostafa/aws-agent-skills · ⭐1076 · upstream · ✅ 已完成 (2026-06-13)
 - [x] jarrodwatts/claude-hud · ✅ 已完成 (2026-06-05)
-- [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
+- [x] jeremylongshore/claude-code-plugins-plus-skills · ⭐1917 · upstream · ✅ 已完成 (2026-06-13)
 - [ ] jnMetaCode/superpowers-zh · ⭐8001 · upstream
 - [ ] jnuyens/gsd-plugin · ⭐2289 · upstream
 - [ ] josstei/maestro-orchestrate · ⭐2066 · upstream
