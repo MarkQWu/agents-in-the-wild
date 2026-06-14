@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：91（可学习总量 138 中已完成 65.9%）
-**剩余**：47
-**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例）
-**按 4/天预计完成**：2026-06-24（约 12 天）
+**已学**：95（可学习总量 138 中已完成 68.8%）
+**剩余**：43
+**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
+**按 4/天预计完成**：2026-06-25（约 11 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-14 (4 篇)
+- [x] ComposioHQ/awesome-claude-plugins · ⭐未收录 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-14-ComposioHQ-awesome-claude-plugins.md)
+- [x] Donchitos/Claude-Code-Game-Studios · ⭐未收录 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-14-Donchitos-Claude-Code-Game-Studios.md)
+- [x] Ibrahim-3d/orchestrator-supaconductor · ⭐336 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-14-Ibrahim-3d-orchestrator-supaconductor.md)
+- [x] Imbad0202/academic-research-skills · ⭐未收录 · NLPM 20/100 · upstream · [案例](2026-06/2026-06-14-Imbad0202-academic-research-skills.md)
 
 ### 2026-06-12 (4 篇)
 - [x] gotalab/cc-sdd · ⭐3099 · NLPM 60/100 · upstream · [案例](2026-06/2026-06-12-gotalab-cc-sdd.md)

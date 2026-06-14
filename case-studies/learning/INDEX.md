@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| ComposioHQ/awesome-claude-plugins | ⭐未收录 | 88/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-ComposioHQ-awesome-claude-plugins.md](2026-06/2026-06-14-ComposioHQ-awesome-claude-plugins.md) |
+| Donchitos/Claude-Code-Game-Studios | ⭐未收录 | 82/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-Donchitos-Claude-Code-Game-Studios.md](2026-06/2026-06-14-Donchitos-Claude-Code-Game-Studios.md) |
+| Ibrahim-3d/orchestrator-supaconductor | ⭐336 | 89/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-Ibrahim-3d-orchestrator-supaconductor.md](2026-06/2026-06-14-Ibrahim-3d-orchestrator-supaconductor.md) |
+| Imbad0202/academic-research-skills | ⭐未收录 | 20/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-Imbad0202-academic-research-skills.md](2026-06/2026-06-14-Imbad0202-academic-research-skills.md) |
 | gotalab/cc-sdd | ⭐3099 | 60/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-gotalab-cc-sdd.md](2026-06/2026-06-12-gotalab-cc-sdd.md) |
 | guanyang/antigravity-skills | ⭐653 | 86/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-guanyang-antigravity-skills.md](2026-06/2026-06-12-guanyang-antigravity-skills.md) |
 | hamelsmu/claude-review-loop | ⭐655 | 89/100 | xiaolai upstream | 2026-06-12 | [2026-06/2026-06-12-hamelsmu-claude-review-loop.md](2026-06/2026-06-12-hamelsmu-claude-review-loop.md) |
