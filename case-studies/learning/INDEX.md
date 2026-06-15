@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| OthmanAdi/planning-with-files | ⭐未收录 | 91/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-OthmanAdi-planning-with-files.md](2026-06/2026-06-15-OthmanAdi-planning-with-files.md) |
+| Lum1104/Understand-Anything | ⭐未收录 | 86/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-Lum1104-Understand-Anything.md](2026-06/2026-06-15-Lum1104-Understand-Anything.md) |
+| IvanMurzak/Unity-MCP | ⭐未收录 | 82/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-IvanMurzak-Unity-MCP.md](2026-06/2026-06-15-IvanMurzak-Unity-MCP.md) |
+| Jeffallan/claude-skills | ⭐未收录 | 92/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-Jeffallan-claude-skills.md](2026-06/2026-06-15-Jeffallan-claude-skills.md) |
 | ComposioHQ/awesome-claude-plugins | ⭐未收录 | 88/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-ComposioHQ-awesome-claude-plugins.md](2026-06/2026-06-14-ComposioHQ-awesome-claude-plugins.md) |
 | Donchitos/Claude-Code-Game-Studios | ⭐未收录 | 82/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-Donchitos-Claude-Code-Game-Studios.md](2026-06/2026-06-14-Donchitos-Claude-Code-Game-Studios.md) |
 | Ibrahim-3d/orchestrator-supaconductor | ⭐336 | 89/100 | xiaolai upstream | 2026-06-14 | [2026-06/2026-06-14-Ibrahim-3d-orchestrator-supaconductor.md](2026-06/2026-06-14-Ibrahim-3d-orchestrator-supaconductor.md) |

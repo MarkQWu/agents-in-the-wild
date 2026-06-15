@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：95（可学习总量 138 中已完成 68.8%）
-**剩余**：43
+**已学**：99（可学习总量 138 中已完成 71.7%）
+**剩余**：39
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-25（约 11 天）
+**按 4/天预计完成**：2026-06-25（约 10 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-15 (4 篇)
+- [x] Jeffallan/claude-skills · ⭐未收录 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-15-Jeffallan-claude-skills.md)
+- [x] IvanMurzak/Unity-MCP · ⭐未收录 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-15-IvanMurzak-Unity-MCP.md)
+- [x] Lum1104/Understand-Anything · ⭐未收录 · NLPM 86/100 · upstream · [案例](2026-06/2026-06-15-Lum1104-Understand-Anything.md)
+- [x] OthmanAdi/planning-with-files · ⭐未收录 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-15-OthmanAdi-planning-with-files.md)
 
 ### 2026-06-14 (4 篇)
 - [x] ComposioHQ/awesome-claude-plugins · ⭐未收录 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-14-ComposioHQ-awesome-claude-plugins.md)
@@ -210,9 +216,6 @@
 - ~~EveryInc/compound-engineering-plugin · ⭐N/A~~
 - ~~Ibrahim-3d/orchestrator-supaconductor · ⭐336~~
 - ~~Imbad0202/academic-research-skills · ⭐N/A~~
-- ~~IvanMurzak/Unity-MCP · ⭐N/A~~
-- ~~Jeffallan/claude-skills · ⭐N/A~~
 - ~~LerianStudio/ring · ⭐174~~
-- ~~Lum1104/Understand-Anything · ⭐N/A~~
 
 ...（其余 56 个均为 registry 显示 N/A 或 stars < 500，已全部纳入跳过名单）
