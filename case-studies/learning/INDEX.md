@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| iannuttall/claude-agents | ⭐2046 | 88/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-iannuttall-claude-agents.md](2026-06/2026-06-16-iannuttall-claude-agents.md) |
+| htdt/godogen | ⭐2839 | 91/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-htdt-godogen.md](2026-06/2026-06-16-htdt-godogen.md) |
+| itsmostafa/aws-agent-skills | ⭐1076 | 99/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-itsmostafa-aws-agent-skills.md](2026-06/2026-06-16-itsmostafa-aws-agent-skills.md) |
+| jeremylongshore/claude-code-plugins-plus-skills | ⭐1917 | 73/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-jeremylongshore-claude-code-plugins-plus-skills.md](2026-06/2026-06-16-jeremylongshore-claude-code-plugins-plus-skills.md) |
 | OthmanAdi/planning-with-files | ⭐未收录 | 91/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-OthmanAdi-planning-with-files.md](2026-06/2026-06-15-OthmanAdi-planning-with-files.md) |
 | Lum1104/Understand-Anything | ⭐未收录 | 86/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-Lum1104-Understand-Anything.md](2026-06/2026-06-15-Lum1104-Understand-Anything.md) |
 | IvanMurzak/Unity-MCP | ⭐未收录 | 82/100 | xiaolai upstream | 2026-06-15 | [2026-06/2026-06-15-IvanMurzak-Unity-MCP.md](2026-06/2026-06-15-IvanMurzak-Unity-MCP.md) |
@@ -115,6 +119,4 @@
 | AgriciDaniel/claude-ads | ⭐2377 | 99/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-ads.md](2026-05/2026-05-20-AgriciDaniel-claude-ads.md) |
 | 777genius/claude-notifications-go | ⭐528 | 63/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-777genius-claude-notifications-go.md](2026-05/2026-05-20-777genius-claude-notifications-go.md) |
 | 0xfurai/claude-code-subagents | ⭐859 | 74/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-0xfurai-claude-code-subagents.md](2026-05/2026-05-20-0xfurai-claude-code-subagents.md) |
-| htdt/godogen | ⭐2839 | 91/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-htdt-godogen.md](2026-06/2026-06-16-htdt-godogen.md) |
-| itsmostafa/aws-agent-skills | ⭐1076 | 99/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-itsmostafa-aws-agent-skills.md](2026-06/2026-06-16-itsmostafa-aws-agent-skills.md) |
 

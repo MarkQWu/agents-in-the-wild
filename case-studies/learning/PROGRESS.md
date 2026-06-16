@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：99（可学习总量 138 中已完成 71.7%）
-**剩余**：39
+**已学**：103（可学习总量 138 中已完成 74.6%）
+**剩余**：35
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-25（约 10 天）
+**按 4/天预计完成**：2026-06-24（约 9 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-16 (4 篇)
+- [x] iannuttall/claude-agents · ⭐2046 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-16-iannuttall-claude-agents.md)
+- [x] htdt/godogen · ⭐2839 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-16-htdt-godogen.md)
+- [x] itsmostafa/aws-agent-skills · ⭐1076 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-16-itsmostafa-aws-agent-skills.md)
+- [x] jeremylongshore/claude-code-plugins-plus-skills · ⭐1917 · NLPM 73/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-16-jeremylongshore-claude-code-plugins-plus-skills.md)
 
 ### 2026-06-15 (4 篇)
 - [x] Jeffallan/claude-skills · ⭐未收录 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-15-Jeffallan-claude-skills.md)
