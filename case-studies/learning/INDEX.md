@@ -115,4 +115,6 @@
 | AgriciDaniel/claude-ads | ⭐2377 | 99/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-ads.md](2026-05/2026-05-20-AgriciDaniel-claude-ads.md) |
 | 777genius/claude-notifications-go | ⭐528 | 63/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-777genius-claude-notifications-go.md](2026-05/2026-05-20-777genius-claude-notifications-go.md) |
 | 0xfurai/claude-code-subagents | ⭐859 | 74/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-0xfurai-claude-code-subagents.md](2026-05/2026-05-20-0xfurai-claude-code-subagents.md) |
+| htdt/godogen | ⭐2839 | 91/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-htdt-godogen.md](2026-06/2026-06-16-htdt-godogen.md) |
+| itsmostafa/aws-agent-skills | ⭐1076 | 99/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-itsmostafa-aws-agent-skills.md](2026-06/2026-06-16-itsmostafa-aws-agent-skills.md) |
 
