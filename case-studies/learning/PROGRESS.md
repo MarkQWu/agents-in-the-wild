@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：103（可学习总量 138 中已完成 74.6%）
-**剩余**：35
+**已学**：107（可学习总量 138 中已完成 77.5%）
+**剩余**：31
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-24（约 9 天）
+**按 4/天预计完成**：2026-06-24（约 7 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-17 (4 篇)
+- [x] kubesphere/kubesphere · ⭐16912 · NLPM 89/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-17-kubesphere-kubesphere.md)
+- [x] kbwo/ccmanager · ⭐1031 · NLPM 83/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-17-kbwo-ccmanager.md)
+- [x] jordanrendric/claude-video-vision · ⭐561 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-17-jordanrendric-claude-video-vision.md)
+- [x] jnMetaCode/superpowers-zh · ⭐1001 · NLPM 95/100 · upstream · [案例](2026-06/2026-06-17-jnMetaCode-superpowers-zh.md)
 
 ### 2026-06-16 (4 篇)
 - [x] iannuttall/claude-agents · ⭐2046 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-16-iannuttall-claude-agents.md)
@@ -191,12 +197,12 @@
 - [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
 - [x] jarrodwatts/claude-hud · ✅ 已完成 (2026-06-05)
 - [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
-- [ ] jnMetaCode/superpowers-zh · ⭐8001 · upstream
+- [x] jnMetaCode/superpowers-zh · ⭐1001 · upstream · ✅ 已完成 (2026-06-17)
 - [ ] jnuyens/gsd-plugin · ⭐2289 · upstream
 - [ ] josstei/maestro-orchestrate · ⭐2066 · upstream
-- [ ] kbwo/ccmanager · ⭐3174 · upstream
+- [x] kbwo/ccmanager · ⭐1031 · upstream · ✅ 已完成 (2026-06-17)
 - [x] kepano/obsidian-skills · ✅ 已完成 (2026-06-07)
-- [ ] kubesphere/kubesphere · ⭐25547 · upstream
+- [x] kubesphere/kubesphere · ⭐16912 · upstream · ✅ 已完成 (2026-06-17)
 - [ ] lackeyjb/playwright-skill · ⭐578 · upstream
 - [ ] leowux/pony · ⭐1073 · upstream
 - [ ] lijigang/ljg-skills · ⭐1030 · upstream

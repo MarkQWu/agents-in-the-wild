@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| kubesphere/kubesphere | ⭐16912 | 89/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kubesphere-kubesphere.md](2026-06/2026-06-17-kubesphere-kubesphere.md) |
+| kbwo/ccmanager | ⭐1031 | 83/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kbwo-ccmanager.md](2026-06/2026-06-17-kbwo-ccmanager.md) |
+| jordanrendric/claude-video-vision | ⭐561 | 79/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-jordanrendric-claude-video-vision.md](2026-06/2026-06-17-jordanrendric-claude-video-vision.md) |
+| jnMetaCode/superpowers-zh | ⭐1001 | 95/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-jnMetaCode-superpowers-zh.md](2026-06/2026-06-17-jnMetaCode-superpowers-zh.md) |
 | iannuttall/claude-agents | ⭐2046 | 88/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-iannuttall-claude-agents.md](2026-06/2026-06-16-iannuttall-claude-agents.md) |
 | htdt/godogen | ⭐2839 | 91/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-htdt-godogen.md](2026-06/2026-06-16-htdt-godogen.md) |
 | itsmostafa/aws-agent-skills | ⭐1076 | 99/100 | xiaolai upstream | 2026-06-16 | [2026-06/2026-06-16-itsmostafa-aws-agent-skills.md](2026-06/2026-06-16-itsmostafa-aws-agent-skills.md) |
