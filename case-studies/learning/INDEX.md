@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| lijigang/ljg-skills | ⭐4860 | 90/100 | xiaolai upstream | 2026-06-19 | [2026-06/2026-06-19-lijigang-ljg-skills.md](2026-06/2026-06-19-lijigang-ljg-skills.md) |
+| lackeyjb/playwright-skill | ⭐2607 | 98/100 | xiaolai upstream | 2026-06-19 | [2026-06/2026-06-19-lackeyjb-playwright-skill.md](2026-06/2026-06-19-lackeyjb-playwright-skill.md) |
+| davila7/claude-code-templates | ⭐24685 | 84/100 | xiaolai upstream | 2026-06-19 | [2026-06/2026-06-19-davila7-claude-code-templates.md](2026-06/2026-06-19-davila7-claude-code-templates.md) |
+| KhazP/vibe-coding-prompt-template | ⭐2278 | 80/100 | xiaolai upstream | 2026-06-19 | [2026-06/2026-06-19-KhazP-vibe-coding-prompt-template.md](2026-06/2026-06-19-KhazP-vibe-coding-prompt-template.md) |
 | kubesphere/kubesphere | ⭐16912 | 89/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kubesphere-kubesphere.md](2026-06/2026-06-17-kubesphere-kubesphere.md) |
 | kbwo/ccmanager | ⭐1031 | 83/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kbwo-ccmanager.md](2026-06/2026-06-17-kbwo-ccmanager.md) |
 | jordanrendric/claude-video-vision | ⭐561 | 79/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-jordanrendric-claude-video-vision.md](2026-06/2026-06-17-jordanrendric-claude-video-vision.md) |
