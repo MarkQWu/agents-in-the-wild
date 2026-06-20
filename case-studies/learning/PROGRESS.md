@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：107（可学习总量 138 中已完成 77.5%）
-**剩余**：31
+**已学**：111（可学习总量 138 中已完成 80.4%）
+**剩余**：27
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-24（约 7 天）
+**按 4/天预计完成**：2026-06-28（约 8 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-20 (4 篇)
+- [x] lackeyjb/playwright-skill · ⭐2607 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-20-lackeyjb-playwright-skill.md)
+- [x] lijigang/ljg-skills · ⭐4860 · NLPM 90/100 · upstream · [案例](2026-06/2026-06-20-lijigang-ljg-skills.md)
+- [x] m1heng/claude-plugin-weixin · ⭐556 · NLPM 97/100 · upstream · [案例](2026-06/2026-06-20-m1heng-claude-plugin-weixin.md)
+- [x] manaflow-ai/cmux · ⭐15339 · NLPM 74/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-20-manaflow-ai-cmux.md)
 
 ### 2026-06-17 (4 篇)
 - [x] kubesphere/kubesphere · ⭐16912 · NLPM 89/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-17-kubesphere-kubesphere.md)
@@ -203,9 +209,9 @@
 - [x] kbwo/ccmanager · ⭐1031 · upstream · ✅ 已完成 (2026-06-17)
 - [x] kepano/obsidian-skills · ✅ 已完成 (2026-06-07)
 - [x] kubesphere/kubesphere · ⭐16912 · upstream · ✅ 已完成 (2026-06-17)
-- [ ] lackeyjb/playwright-skill · ⭐578 · upstream
+- [x] lackeyjb/playwright-skill · ⭐2607 · upstream · ✅ 已完成 (2026-06-20)
 - [ ] leowux/pony · ⭐1073 · upstream
-- [ ] lijigang/ljg-skills · ⭐1030 · upstream
+- [x] lijigang/ljg-skills · ⭐4860 · upstream · ✅ 已完成 (2026-06-20)
 - [ ] mattpocock/skills · ⭐35578 · upstream
 - [x] mem0ai/mem0 · ✅ 已完成 (2026-06-07)
 - [ ] memvid/claude-brain · ⭐3800 · upstream

@@ -123,4 +123,8 @@
 | AgriciDaniel/claude-ads | ⭐2377 | 99/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-AgriciDaniel-claude-ads.md](2026-05/2026-05-20-AgriciDaniel-claude-ads.md) |
 | 777genius/claude-notifications-go | ⭐528 | 63/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-777genius-claude-notifications-go.md](2026-05/2026-05-20-777genius-claude-notifications-go.md) |
 | 0xfurai/claude-code-subagents | ⭐859 | 74/100 | xiaolai upstream | 2026-05-20 | [2026-05/2026-05-20-0xfurai-claude-code-subagents.md](2026-05/2026-05-20-0xfurai-claude-code-subagents.md) |
+| lackeyjb/playwright-skill | ⭐2607 | 98/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-lackeyjb-playwright-skill.md](2026-06/2026-06-20-lackeyjb-playwright-skill.md) |
+| lijigang/ljg-skills | ⭐4860 | 90/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-lijigang-ljg-skills.md](2026-06/2026-06-20-lijigang-ljg-skills.md) |
+| m1heng/claude-plugin-weixin | ⭐556 | 97/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-m1heng-claude-plugin-weixin.md](2026-06/2026-06-20-m1heng-claude-plugin-weixin.md) |
+| manaflow-ai/cmux | ⭐15339 | 74/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-manaflow-ai-cmux.md](2026-06/2026-06-20-manaflow-ai-cmux.md) |
 
