@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：111（可学习总量 138 中已完成 80.4%）
-**剩余**：27
+**已学**：115（可学习总量 138 中已完成 83.3%）
+**剩余**：23
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-28（约 8 天）
+**按 4/天预计完成**：2026-06-27（约 6 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-21 (4 篇)
+- [x] muratcankoylan/Agent-Skills-for-Context-Engineering · ⭐15277 · NLPM 83/100 · upstream · [案例](2026-06/2026-06-21-muratcankoylan-Agent-Skills-for-Context-Engineering.md)
+- [x] mukul975/Anthropic-Cybersecurity-Skills · ⭐4317 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md)
+- [x] mksglu/context-mode · ⭐9822 · NLPM 87/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-21-mksglu-context-mode.md)
+- [x] mikeyobrien/ralph-orchestrator · ⭐2710 · NLPM 91/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-21-mikeyobrien-ralph-orchestrator.md)
 
 ### 2026-06-20 (4 篇)
 - [x] lackeyjb/playwright-skill · ⭐2607 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-20-lackeyjb-playwright-skill.md)

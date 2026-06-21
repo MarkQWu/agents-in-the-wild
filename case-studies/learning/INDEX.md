@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| muratcankoylan/Agent-Skills-for-Context-Engineering | ⭐15277 | 83/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-muratcankoylan-Agent-Skills-for-Context-Engineering.md](2026-06/2026-06-21-muratcankoylan-Agent-Skills-for-Context-Engineering.md) |
+| mukul975/Anthropic-Cybersecurity-Skills | ⭐4317 | 79/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md](2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md) |
+| mksglu/context-mode | ⭐9822 | 87/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mksglu-context-mode.md](2026-06/2026-06-21-mksglu-context-mode.md) |
+| mikeyobrien/ralph-orchestrator | ⭐2710 | 91/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mikeyobrien-ralph-orchestrator.md](2026-06/2026-06-21-mikeyobrien-ralph-orchestrator.md) |
 | kubesphere/kubesphere | ⭐16912 | 89/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kubesphere-kubesphere.md](2026-06/2026-06-17-kubesphere-kubesphere.md) |
 | kbwo/ccmanager | ⭐1031 | 83/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kbwo-ccmanager.md](2026-06/2026-06-17-kbwo-ccmanager.md) |
 | jordanrendric/claude-video-vision | ⭐561 | 79/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-jordanrendric-claude-video-vision.md](2026-06/2026-06-17-jordanrendric-claude-video-vision.md) |
