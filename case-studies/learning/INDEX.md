@@ -24,6 +24,10 @@
 | mukul975/Anthropic-Cybersecurity-Skills | ⭐4317 | 79/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md](2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md) |
 | mksglu/context-mode | ⭐9822 | 87/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mksglu-context-mode.md](2026-06/2026-06-21-mksglu-context-mode.md) |
 | mikeyobrien/ralph-orchestrator | ⭐2710 | 91/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mikeyobrien-ralph-orchestrator.md](2026-06/2026-06-21-mikeyobrien-ralph-orchestrator.md) |
+| manaflow-ai/cmux | ⭐15339 | 74/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-manaflow-ai-cmux.md](2026-06/2026-06-20-manaflow-ai-cmux.md) |
+| m1heng/claude-plugin-weixin | ⭐556 | 97/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-m1heng-claude-plugin-weixin.md](2026-06/2026-06-20-m1heng-claude-plugin-weixin.md) |
+| lijigang/ljg-skills | ⭐4860 | 90/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-lijigang-ljg-skills.md](2026-06/2026-06-20-lijigang-ljg-skills.md) |
+| lackeyjb/playwright-skill | ⭐2607 | 98/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-lackeyjb-playwright-skill.md](2026-06/2026-06-20-lackeyjb-playwright-skill.md) |
 | kubesphere/kubesphere | ⭐16912 | 89/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kubesphere-kubesphere.md](2026-06/2026-06-17-kubesphere-kubesphere.md) |
 | kbwo/ccmanager | ⭐1031 | 83/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-kbwo-ccmanager.md](2026-06/2026-06-17-kbwo-ccmanager.md) |
 | jordanrendric/claude-video-vision | ⭐561 | 79/100 | xiaolai upstream | 2026-06-17 | [2026-06/2026-06-17-jordanrendric-claude-video-vision.md](2026-06/2026-06-17-jordanrendric-claude-video-vision.md) |
