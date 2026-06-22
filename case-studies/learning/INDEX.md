@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| nexu-io/open-design | ⭐20558 | 91/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-nexu-io-open-design.md](2026-06/2026-06-22-nexu-io-open-design.md) |
+| nicobailon/visual-explainer | ⭐7692 | 66/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-nicobailon-visual-explainer.md](2026-06/2026-06-22-nicobailon-visual-explainer.md) |
+| musistudio/claude-code-router | ⭐32875 | 79/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-musistudio-claude-code-router.md](2026-06/2026-06-22-musistudio-claude-code-router.md) |
+| muratcankoylan/ralph-wiggum-marketer | ⭐720 | 90/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-muratcankoylan-ralph-wiggum-marketer.md](2026-06/2026-06-22-muratcankoylan-ralph-wiggum-marketer.md) |
 | muratcankoylan/Agent-Skills-for-Context-Engineering | ⭐15277 | 83/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-muratcankoylan-Agent-Skills-for-Context-Engineering.md](2026-06/2026-06-21-muratcankoylan-Agent-Skills-for-Context-Engineering.md) |
 | mukul975/Anthropic-Cybersecurity-Skills | ⭐4317 | 79/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md](2026-06/2026-06-21-mukul975-Anthropic-Cybersecurity-Skills.md) |
 | mksglu/context-mode | ⭐9822 | 87/100 | xiaolai upstream | 2026-06-21 | [2026-06/2026-06-21-mksglu-context-mode.md](2026-06/2026-06-21-mksglu-context-mode.md) |

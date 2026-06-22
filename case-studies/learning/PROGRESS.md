@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：115（可学习总量 138 中已完成 83.3%）
-**剩余**：23
+**已学**：119（可学习总量 138 中已完成 86.2%）
+**剩余**：19
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-27（约 6 天）
+**按 4/天预计完成**：2026-06-27（约 5 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-22 (4 篇)
+- [x] muratcankoylan/ralph-wiggum-marketer · ⭐720 · NLPM 90/100 · upstream · [案例](2026-06/2026-06-22-muratcankoylan-ralph-wiggum-marketer.md)
+- [x] musistudio/claude-code-router · ⭐32875 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-22-musistudio-claude-code-router.md)
+- [x] nexu-io/open-design · ⭐20558 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-22-nexu-io-open-design.md)
+- [x] nicobailon/visual-explainer · ⭐7692 · NLPM 66/100 · upstream · [案例](2026-06/2026-06-22-nicobailon-visual-explainer.md)
 
 ### 2026-06-21 (4 篇)
 - [x] muratcankoylan/Agent-Skills-for-Context-Engineering · ⭐15277 · NLPM 83/100 · upstream · [案例](2026-06/2026-06-21-muratcankoylan-Agent-Skills-for-Context-Engineering.md)
@@ -222,7 +228,7 @@
 - [x] mem0ai/mem0 · ✅ 已完成 (2026-06-07)
 - [ ] memvid/claude-brain · ⭐3800 · upstream
 - [ ] mikeyobrien/ralph-orchestrator · ⭐1200 · upstream
-- [ ] musistudio/claude-code-router · ⭐12766 · upstream
+- [x] musistudio/claude-code-router · ⭐32875 · upstream · ✅ 已完成 (2026-06-22)
 - [ ] navapbc/digital-service-orchestra · ⭐505 · upstream
 - [ ] obra/superpowers · ✅ 已完成
 
