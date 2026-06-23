@@ -140,3 +140,7 @@
 | m1heng/claude-plugin-weixin | ⭐556 | 97/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-m1heng-claude-plugin-weixin.md](2026-06/2026-06-20-m1heng-claude-plugin-weixin.md) |
 | manaflow-ai/cmux | ⭐15339 | 74/100 | xiaolai upstream | 2026-06-20 | [2026-06/2026-06-20-manaflow-ai-cmux.md](2026-06/2026-06-20-manaflow-ai-cmux.md) |
 
+| numman-ali/n-skills | ⭐974 | 96/100 | xiaolai upstream | 2026-06-23 | [2026-06/2026-06-23-numman-ali-n-skills.md](2026-06/2026-06-23-numman-ali-n-skills.md) |
+| nyldn/claude-octopus | ⭐2575 | 79/100 | xiaolai upstream | 2026-06-23 | [2026-06/2026-06-23-nyldn-claude-octopus.md](2026-06/2026-06-23-nyldn-claude-octopus.md) |
+| parcadei/Continuous-Claude-v3 | ⭐1200 | 78/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-23 | [2026-06/2026-06-23-parcadei-Continuous-Claude-v3.md](2026-06/2026-06-23-parcadei-Continuous-Claude-v3.md) |
+| peterkrueck/Claude-Code-Development-Kit | ⭐1342 | 82/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-23 | [2026-06/2026-06-23-peterkrueck-Claude-Code-Development-Kit.md](2026-06/2026-06-23-peterkrueck-Claude-Code-Development-Kit.md) |

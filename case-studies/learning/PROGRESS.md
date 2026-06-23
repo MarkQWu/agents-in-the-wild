@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：119（可学习总量 138 中已完成 86.2%）
-**剩余**：19
+**已学**：123（可学习总量 138 中已完成 89.1%）
+**剩余**：15
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-27（约 5 天）
+**按 4/天预计完成**：2026-06-27（约 4 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-23 (4 篇)
+- [x] numman-ali/n-skills · ⭐974 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-23-numman-ali-n-skills.md)
+- [x] nyldn/claude-octopus · ⭐2575 · NLPM 79/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-23-nyldn-claude-octopus.md)
+- [x] parcadei/Continuous-Claude-v3 · ⭐1200 · NLPM 78/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-23-parcadei-Continuous-Claude-v3.md)
+- [x] peterkrueck/Claude-Code-Development-Kit · ⭐1342 · NLPM 82/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-23-peterkrueck-Claude-Code-Development-Kit.md)
 
 ### 2026-06-22 (4 篇)
 - [x] muratcankoylan/ralph-wiggum-marketer · ⭐720 · NLPM 90/100 · upstream · [案例](2026-06/2026-06-22-muratcankoylan-ralph-wiggum-marketer.md)
