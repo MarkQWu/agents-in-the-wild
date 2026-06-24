@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| qwibitai/nanoclaw | ⭐27,917 | 81/100 | xiaolai upstream（SECURITY CRITICAL） | 2026-06-24 | [2026-06/2026-06-24-qwibitai-nanoclaw.md](2026-06/2026-06-24-qwibitai-nanoclaw.md) |
+| refly-ai/refly | ⭐7,272 | 89/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-24 | [2026-06/2026-06-24-refly-ai-refly.md](2026-06/2026-06-24-refly-ai-refly.md) |
+| rohitg00/awesome-claude-code-toolkit | ⭐1,214 | 46/100 | xiaolai upstream（xiaolai case exists） | 2026-06-24 | [2026-06/2026-06-24-rohitg00-awesome-claude-code-toolkit.md](2026-06/2026-06-24-rohitg00-awesome-claude-code-toolkit.md) |
+| rohitg00/pro-workflow | ⭐1,912 | 90/100 | xiaolai upstream（SECURITY BLOCKED 误报） | 2026-06-24 | [2026-06/2026-06-24-rohitg00-pro-workflow.md](2026-06/2026-06-24-rohitg00-pro-workflow.md) |
 | nexu-io/open-design | ⭐20558 | 91/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-nexu-io-open-design.md](2026-06/2026-06-22-nexu-io-open-design.md) |
 | nicobailon/visual-explainer | ⭐7692 | 66/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-nicobailon-visual-explainer.md](2026-06/2026-06-22-nicobailon-visual-explainer.md) |
 | musistudio/claude-code-router | ⭐32875 | 79/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-musistudio-claude-code-router.md](2026-06/2026-06-22-musistudio-claude-code-router.md) |
