@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| ruvnet/ruflo | ⭐33166 | 60/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-ruvnet-ruflo.md](2026-06/2026-06-25-ruvnet-ruflo.md) |
+| vercel-labs/agent-browser | ⭐32739 | 99/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-vercel-labs-agent-browser.md](2026-06/2026-06-25-vercel-labs-agent-browser.md) |
+| sickn33/antigravity-awesome-skills | ⭐32502 | 82/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-sickn33-antigravity-awesome-skills.md](2026-06/2026-06-25-sickn33-antigravity-awesome-skills.md) |
+| santifer/career-ops | ⭐31983 | 91/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-santifer-career-ops.md](2026-06/2026-06-25-santifer-career-ops.md) |
 | nexu-io/open-design | ⭐20558 | 91/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-nexu-io-open-design.md](2026-06/2026-06-22-nexu-io-open-design.md) |
 | nicobailon/visual-explainer | ⭐7692 | 66/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-nicobailon-visual-explainer.md](2026-06/2026-06-22-nicobailon-visual-explainer.md) |
 | musistudio/claude-code-router | ⭐32875 | 79/100 | xiaolai upstream | 2026-06-22 | [2026-06/2026-06-22-musistudio-claude-code-router.md](2026-06/2026-06-22-musistudio-claude-code-router.md) |

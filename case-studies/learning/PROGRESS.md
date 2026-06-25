@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：123（可学习总量 138 中已完成 89.1%）
-**剩余**：15
+**已学**：127（可学习总量 138 中已完成 92.0%）
+**剩余**：11
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-27（约 4 天）
+**按 4/天预计完成**：2026-06-28（约 3 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-25 (4 篇)
+- [x] ruvnet/ruflo · ⭐33166 · NLPM 60/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-25-ruvnet-ruflo.md)
+- [x] vercel-labs/agent-browser · ⭐32739 · NLPM 99/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-25-vercel-labs-agent-browser.md)
+- [x] sickn33/antigravity-awesome-skills · ⭐32502 · NLPM 82/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-25-sickn33-antigravity-awesome-skills.md)
+- [x] santifer/career-ops · ⭐31983 · NLPM 91/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-25-santifer-career-ops.md)
 
 ### 2026-06-23 (4 篇)
 - [x] numman-ali/n-skills · ⭐974 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-23-numman-ali-n-skills.md)
