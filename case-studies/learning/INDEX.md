@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| vectorize-io/hindsight | ⭐10609 | 94/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-vectorize-io-hindsight.md](2026-06/2026-06-27-vectorize-io-hindsight.md) |
+| rohitg00/awesome-claude-code-toolkit | ⭐1214 | 46/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md](2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md) |
+| stablyai/orca | ⭐1130 | 96/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-stablyai-orca.md](2026-06/2026-06-27-stablyai-orca.md) |
+| study8677/antigravity-workspace-template | ⭐1128 | 62/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-study8677-antigravity-workspace-template.md](2026-06/2026-06-27-study8677-antigravity-workspace-template.md) |
 | ruvnet/ruflo | ⭐33166 | 60/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-ruvnet-ruflo.md](2026-06/2026-06-25-ruvnet-ruflo.md) |
 | vercel-labs/agent-browser | ⭐32739 | 99/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-vercel-labs-agent-browser.md](2026-06/2026-06-25-vercel-labs-agent-browser.md) |
 | sickn33/antigravity-awesome-skills | ⭐32502 | 82/100 | xiaolai upstream | 2026-06-25 | [2026-06/2026-06-25-sickn33-antigravity-awesome-skills.md](2026-06/2026-06-25-sickn33-antigravity-awesome-skills.md) |

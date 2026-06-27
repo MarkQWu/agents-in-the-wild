@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：127（可学习总量 138 中已完成 92.0%）
-**剩余**：11
+**已学**：131（可学习总量 138 中已完成 94.9%）
+**剩余**：7
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-28（约 3 天）
+**按 4/天预计完成**：2026-06-29（约 2 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-27 (4 篇)
+- [x] rohitg00/awesome-claude-code-toolkit · ⭐1214 · NLPM 46/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md)
+- [x] stablyai/orca · ⭐1130 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-27-stablyai-orca.md)
+- [x] study8677/antigravity-workspace-template · ⭐1128 · NLPM 62/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-27-study8677-antigravity-workspace-template.md)
+- [x] vectorize-io/hindsight · ⭐10609 · NLPM 94/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-27-vectorize-io-hindsight.md)
 
 ### 2026-06-25 (4 篇)
 - [x] ruvnet/ruflo · ⭐33166 · NLPM 60/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-25-ruvnet-ruflo.md)
