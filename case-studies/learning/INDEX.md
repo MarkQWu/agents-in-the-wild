@@ -156,3 +156,4 @@
 | qwibitai/nanoclaw | ⭐27917 | 81/100 | xiaolai upstream（SECURITY CRITICAL） | 2026-06-28 | [2026-06/2026-06-28-qwibitai-nanoclaw.md](2026-06/2026-06-28-qwibitai-nanoclaw.md) |
 | refly-ai/refly | ⭐7272 | 89/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-refly-ai-refly.md](2026-06/2026-06-28-refly-ai-refly.md) |
 | rohitg00/pro-workflow | ⭐1912 | 90/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-rohitg00-pro-workflow.md](2026-06/2026-06-28-rohitg00-pro-workflow.md) |
+| rtk-ai/rtk | ⭐28660 | 88/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-rtk-ai-rtk.md](2026-06/2026-06-28-rtk-ai-rtk.md) |
