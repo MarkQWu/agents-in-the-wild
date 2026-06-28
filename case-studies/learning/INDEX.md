@@ -152,3 +152,7 @@
 | nyldn/claude-octopus | ⭐2575 | 79/100 | xiaolai upstream | 2026-06-23 | [2026-06/2026-06-23-nyldn-claude-octopus.md](2026-06/2026-06-23-nyldn-claude-octopus.md) |
 | parcadei/Continuous-Claude-v3 | ⭐1200 | 78/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-23 | [2026-06/2026-06-23-parcadei-Continuous-Claude-v3.md](2026-06/2026-06-23-parcadei-Continuous-Claude-v3.md) |
 | peterkrueck/Claude-Code-Development-Kit | ⭐1342 | 82/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-23 | [2026-06/2026-06-23-peterkrueck-Claude-Code-Development-Kit.md](2026-06/2026-06-23-peterkrueck-Claude-Code-Development-Kit.md) |
+
+| qwibitai/nanoclaw | ⭐27917 | 81/100 | xiaolai upstream（SECURITY CRITICAL） | 2026-06-28 | [2026-06/2026-06-28-qwibitai-nanoclaw.md](2026-06/2026-06-28-qwibitai-nanoclaw.md) |
+| refly-ai/refly | ⭐7272 | 89/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-refly-ai-refly.md](2026-06/2026-06-28-refly-ai-refly.md) |
+| rohitg00/pro-workflow | ⭐1912 | 90/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-rohitg00-pro-workflow.md](2026-06/2026-06-28-rohitg00-pro-workflow.md) |

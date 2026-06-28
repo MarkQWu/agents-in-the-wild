@@ -1,14 +1,19 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：131（可学习总量 138 中已完成 94.9%）
-**剩余**：7
+**已学**：134（可学习总量 138 中已完成 97.1%）
+**剩余**：4
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-29（约 2 天）
+**按 4/天预计完成**：2026-06-29（约 1 天）
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-28 (3 篇，进行中)
+- [x] qwibitai/nanoclaw · ⭐27917 · NLPM 81/100 · upstream（SECURITY CRITICAL） · [案例](2026-06/2026-06-28-qwibitai-nanoclaw.md)
+- [x] refly-ai/refly · ⭐7272 · NLPM 89/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-28-refly-ai-refly.md)
+- [x] rohitg00/pro-workflow · ⭐1912 · NLPM 90/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-28-rohitg00-pro-workflow.md)
 
 ### 2026-06-27 (4 篇)
 - [x] rohitg00/awesome-claude-code-toolkit · ⭐1214 · NLPM 46/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md)
