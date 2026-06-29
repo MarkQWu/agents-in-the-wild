@@ -7,7 +7,7 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-06-22",
+  "last_refreshed": "2026-06-29",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
@@ -36,6 +36,17 @@
       "has_nl_artifacts": true
     },
     {
+      "description": "把中国三千年的诗放进一片可漫游的三维星系：每位诗人是一颗星，每首诗都有坐标，星与星之间的虚空是「一切可能的诗」。32,657 位诗人 / 933,857 首。灵感来自刘慈欣《诗云》。",
+      "full_name": "MarkQWu/shiyun",
+      "language": null,
+      "private": false,
+      "pushed_at": "2026-06-17T11:31:56Z",
+      "stars": 0,
+      "url": "https://github.com/MarkQWu/shiyun",
+      "priority": "high",
+      "has_nl_artifacts": false
+    },
+    {
       "description": "A feature-rich command-line audio/video downloader",
       "full_name": "MarkQWu/yt-dlp",
       "language": null,
@@ -54,7 +65,7 @@
       "pushed_at": "2026-06-13T18:44:37Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/graphify",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": true
     },
     {
@@ -65,7 +76,7 @@
       "pushed_at": "2026-06-13T00:01:58Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/xposter",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": false
     },
     {
@@ -76,7 +87,7 @@
       "pushed_at": "2026-06-11T12:43:58Z",
       "stars": 1,
       "url": "https://github.com/MarkQWu/drama-workshop-skills",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": false
     },
     {
