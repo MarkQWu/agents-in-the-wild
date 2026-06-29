@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 205,
+    "total_discovered": 207,
     "total_contributed": 6,
-    "last_discovery": "2026-06-15T12:12:55Z",
+    "last_discovery": "2026-06-29T10:58:39Z",
     "total_audited": 12
   },
   "repos": {
@@ -7825,6 +7825,26 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 11,
+      "prs": []
+    },
+    "Dong90/oh-my-taiyiforge": {
+      "discovered": "2026-06-29T10:58:39Z",
+      "stars": 654,
+      "artifacts": 26,
+      "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 15,
+      "prs": []
+    },
+    "zhaoxuya520/reverse-skill": {
+      "discovered": "2026-06-29T10:58:39Z",
+      "stars": 6875,
+      "artifacts": 23,
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 16,
       "prs": []
     }
   }
