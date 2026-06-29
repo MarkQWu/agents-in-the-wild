@@ -1,14 +1,22 @@
 # 学习进度
 
-**总量**：210 audit reports（207 upstream + 3 local）
-**已学**：135（可学习总量 138 中已完成 97.8%）
-**剩余**：3
-**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-29（约 1 天）
+**总量**：207 upstream slugs（另有 3 个 local re-audit 文件，非独立案例）
+**已学**：139（可学习总量 156 中已完成 89.1%）
+**剩余**：17（≥500 stars + 有 audit 文件 + 未生成案例）
+**<500 星跳过**：≈51 个（audit 文件存在但 stars 未达标；另有 ≈37 个 slug 在 .upstream-slugs.txt 但无 audit 文件）
+**按 4/天预计完成**：约 5 天（2026-07-04 前）
+
+> 注：2026-06-29 重新核算剩余数。上一版 PROGRESS.md 显示「剩余 3」系历史版本的统计误差，当时漏计了 21 个有效候选。实际以 Python 脚本查 registry 为准。
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-29 (4 篇)
+- [x] superset-sh/superset · ⭐9749 · NLPM 64/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-29-superset-sh-superset.md)
+- [x] softaworks/agent-toolkit · ⭐1629 · NLPM 90/100 · upstream · [案例](2026-06/2026-06-29-softaworks-agent-toolkit.md)
+- [x] sangrokjung/claude-forge · ⭐648 · NLPM 82/100 · upstream（SECURITY REVIEW） · [案例](2026-06/2026-06-29-sangrokjung-claude-forge.md)
+- [x] samber/cc-skills-golang · ⭐1362 · NLPM 87/100 · upstream · [案例](2026-06/2026-06-29-samber-cc-skills-golang.md)
 
 ### 2026-06-28 (4 篇)
 - [x] qwibitai/nanoclaw · ⭐27917 · NLPM 81/100 · upstream（SECURITY CRITICAL） · [案例](2026-06/2026-06-28-qwibitai-nanoclaw.md)

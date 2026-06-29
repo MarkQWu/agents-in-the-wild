@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| superset-sh/superset | ⭐9749 | 64/100 | xiaolai upstream（SECURITY BLOCKED）| 2026-06-29 | [2026-06/2026-06-29-superset-sh-superset.md](2026-06/2026-06-29-superset-sh-superset.md) |
+| softaworks/agent-toolkit | ⭐1629 | 90/100 | xiaolai upstream | 2026-06-29 | [2026-06/2026-06-29-softaworks-agent-toolkit.md](2026-06/2026-06-29-softaworks-agent-toolkit.md) |
+| sangrokjung/claude-forge | ⭐648 | 82/100 | xiaolai upstream（SECURITY REVIEW）| 2026-06-29 | [2026-06/2026-06-29-sangrokjung-claude-forge.md](2026-06/2026-06-29-sangrokjung-claude-forge.md) |
+| samber/cc-skills-golang | ⭐1362 | 87/100 | xiaolai upstream | 2026-06-29 | [2026-06/2026-06-29-samber-cc-skills-golang.md](2026-06/2026-06-29-samber-cc-skills-golang.md) |
 | vectorize-io/hindsight | ⭐10609 | 94/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-vectorize-io-hindsight.md](2026-06/2026-06-27-vectorize-io-hindsight.md) |
 | rohitg00/awesome-claude-code-toolkit | ⭐1214 | 46/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md](2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md) |
 | stablyai/orca | ⭐1130 | 96/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-stablyai-orca.md](2026-06/2026-06-27-stablyai-orca.md) |
