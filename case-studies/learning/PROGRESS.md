@@ -1,14 +1,19 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：135（可学习总量 138 中已完成 97.8%）
-**剩余**：3
-**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理）
-**按 4/天预计完成**：2026-06-29（约 1 天）
+**已学**：139（截至 2026-06-30）
+**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
+**最后更新**：2026-06-30
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-06-30 (4 篇)
+- [x] Orchestra-Research/AI-Research-SKILLs · ⭐未收录 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-30-Orchestra-Research-AI-Research-SKILLs.md)
+- [x] SukinShetty/Nemp-memory · ⭐95 · NLPM 92/100 · upstream（exemplar_published） · [案例](2026-06/2026-06-30-SukinShetty-Nemp-memory.md)
+- [x] Xquik-dev/x-twitter-scraper · ⭐55 · NLPM 97/100 · upstream（exemplar_published） · [案例](2026-06/2026-06-30-Xquik-dev-x-twitter-scraper.md)
+- [x] samber/cc-skills-golang · ⭐1362 · NLPM 87/100 · upstream · [案例](2026-06/2026-06-30-samber-cc-skills-golang.md)
 
 ### 2026-06-28 (4 篇)
 - [x] qwibitai/nanoclaw · ⭐27917 · NLPM 81/100 · upstream（SECURITY CRITICAL） · [案例](2026-06/2026-06-28-qwibitai-nanoclaw.md)

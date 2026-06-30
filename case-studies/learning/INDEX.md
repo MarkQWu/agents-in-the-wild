@@ -157,3 +157,7 @@
 | refly-ai/refly | ⭐7272 | 89/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-refly-ai-refly.md](2026-06/2026-06-28-refly-ai-refly.md) |
 | rohitg00/pro-workflow | ⭐1912 | 90/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-rohitg00-pro-workflow.md](2026-06/2026-06-28-rohitg00-pro-workflow.md) |
 | rtk-ai/rtk | ⭐28660 | 88/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-06-28 | [2026-06/2026-06-28-rtk-ai-rtk.md](2026-06/2026-06-28-rtk-ai-rtk.md) |
+| Orchestra-Research/AI-Research-SKILLs | ⭐未收录 | 89/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-Orchestra-Research-AI-Research-SKILLs.md](2026-06/2026-06-30-Orchestra-Research-AI-Research-SKILLs.md) |
+| SukinShetty/Nemp-memory | ⭐95 | 92/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-SukinShetty-Nemp-memory.md](2026-06/2026-06-30-SukinShetty-Nemp-memory.md) |
+| Xquik-dev/x-twitter-scraper | ⭐55 | 97/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-Xquik-dev-x-twitter-scraper.md](2026-06/2026-06-30-Xquik-dev-x-twitter-scraper.md) |
+| samber/cc-skills-golang | ⭐1362 | 87/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-samber-cc-skills-golang.md](2026-06/2026-06-30-samber-cc-skills-golang.md) |
