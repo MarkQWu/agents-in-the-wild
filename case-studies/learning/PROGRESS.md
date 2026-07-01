@@ -1,13 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：139（截至 2026-06-30）
+**已学**：143（截至 2026-07-01）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**最后更新**：2026-06-30
+**最后更新**：2026-07-01
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+
+### 2026-07-01 (4 篇)
+- [x] sangrokjung/claude-forge · ⭐648 · NLPM 82/100 · upstream（SECURITY REVIEW） · [案例](2026-07/2026-07-01-sangrokjung-claude-forge.md)
+- [x] softaworks/agent-toolkit · ⭐1629 · NLPM 90/100 · upstream · [案例](2026-07/2026-07-01-softaworks-agent-toolkit.md)
+- [x] superset-sh/superset · ⭐9749 · NLPM 64/100 · upstream（SECURITY BLOCKED） · [案例](2026-07/2026-07-01-superset-sh-superset.md)
+- [x] tanweai/pua · ⭐16701 · NLPM 90/100 · upstream · [案例](2026-07/2026-07-01-tanweai-pua.md)
 
 ### 2026-06-30 (4 篇)
 - [x] Orchestra-Research/AI-Research-SKILLs · ⭐未收录 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-30-Orchestra-Research-AI-Research-SKILLs.md)

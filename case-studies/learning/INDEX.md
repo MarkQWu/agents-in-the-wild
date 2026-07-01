@@ -161,3 +161,7 @@
 | SukinShetty/Nemp-memory | ⭐95 | 92/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-SukinShetty-Nemp-memory.md](2026-06/2026-06-30-SukinShetty-Nemp-memory.md) |
 | Xquik-dev/x-twitter-scraper | ⭐55 | 97/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-Xquik-dev-x-twitter-scraper.md](2026-06/2026-06-30-Xquik-dev-x-twitter-scraper.md) |
 | samber/cc-skills-golang | ⭐1362 | 87/100 | xiaolai upstream | 2026-06-30 | [2026-06/2026-06-30-samber-cc-skills-golang.md](2026-06/2026-06-30-samber-cc-skills-golang.md) |
+| sangrokjung/claude-forge | ⭐648 | 82/100 | xiaolai upstream（SECURITY REVIEW） | 2026-07-01 | [2026-07/2026-07-01-sangrokjung-claude-forge.md](2026-07/2026-07-01-sangrokjung-claude-forge.md) |
+| softaworks/agent-toolkit | ⭐1629 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-softaworks-agent-toolkit.md](2026-07/2026-07-01-softaworks-agent-toolkit.md) |
+| superset-sh/superset | ⭐9749 | 64/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-01 | [2026-07/2026-07-01-superset-sh-superset.md](2026-07/2026-07-01-superset-sh-superset.md) |
+| tanweai/pua | ⭐16701 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-tanweai-pua.md](2026-07/2026-07-01-tanweai-pua.md) |
