@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：143（截至 2026-07-01）
-**<500 星跳过**：68（注：0xmariowu/Autosearch 等 4 个虽 <500 stars 但在 upstream 池中，已生成案例；Ibrahim-3d/orchestrator-supaconductor 336 stars 同理；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**最后更新**：2026-07-01
+**已学**：147（截至 2026-07-02）
+**<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
+**待处理**：63 个 upstream（≥500 stars 的 67 个中扣除今日 4 个）
+**最后更新**：2026-07-02
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
 
+### 2026-07-02 (4 篇)
+- [x] tw93/Waza · ⭐3301 · NLPM 79/100 · upstream（SECURITY BLOCKED→已部分修复） · [案例](2026-07/2026-07-02-tw93-Waza.md)
+- [x] tirth8205/code-review-graph · ⭐12954 · NLPM 95/100 · upstream（SECURITY CLEAR） · [案例](2026-07/2026-07-02-tirth8205-code-review-graph.md)
+- [x] timescale/pg-aiguide · ⭐1680 · NLPM 94/100 · upstream（SECURITY REVIEW） · [案例](2026-07/2026-07-02-timescale-pg-aiguide.md)
+- [x] team-attention/plugins-for-claude-natives · ⭐729 · NLPM 92/100 · upstream（SECURITY CLEAR） · [案例](2026-07/2026-07-02-team-attention-plugins-for-claude-natives.md)
 
 ### 2026-07-01 (4 篇)
 - [x] sangrokjung/claude-forge · ⭐648 · NLPM 82/100 · upstream（SECURITY REVIEW） · [案例](2026-07/2026-07-01-sangrokjung-claude-forge.md)
@@ -65,20 +71,20 @@
 - [x] manaflow-ai/cmux · ⭐15339 · NLPM 74/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-20-manaflow-ai-cmux.md)
 
 ### 2026-06-17 (4 篇)
-- [x] kubesphere/kubesphere · ⭐16912 · NLPM 89/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-17-kubesphere-kubesphere.md)
-- [x] kbwo/ccmanager · ⭐1031 · NLPM 83/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-17-kbwo-ccmanager.md)
-- [x] jordanrendric/claude-video-vision · ⭐561 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-17-jordanrendric-claude-video-vision.md)
 - [x] jnMetaCode/superpowers-zh · ⭐1001 · NLPM 95/100 · upstream · [案例](2026-06/2026-06-17-jnMetaCode-superpowers-zh.md)
+- [x] jordanrendric/claude-video-vision · ⭐561 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-17-jordanrendric-claude-video-vision.md)
+- [x] kbwo/ccmanager · ⭐1031 · NLPM 83/100 · upstream（SECURITY BLOCKED） · [案例](2026-06/2026-06-17-kbwo-ccmanager.md)
+- [x] kubesphere/kubesphere · ⭐16912 · NLPM 89/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-17-kubesphere-kubesphere.md)
 
 ### 2026-06-16 (4 篇)
-- [x] iannuttall/claude-agents · ⭐2046 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-16-iannuttall-claude-agents.md)
 - [x] htdt/godogen · ⭐2839 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-16-htdt-godogen.md)
+- [x] iannuttall/claude-agents · ⭐2046 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-16-iannuttall-claude-agents.md)
 - [x] itsmostafa/aws-agent-skills · ⭐1076 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-16-itsmostafa-aws-agent-skills.md)
 - [x] jeremylongshore/claude-code-plugins-plus-skills · ⭐1917 · NLPM 73/100 · upstream（xiaolai case exists） · [案例](2026-06/2026-06-16-jeremylongshore-claude-code-plugins-plus-skills.md)
 
 ### 2026-06-15 (4 篇)
-- [x] Jeffallan/claude-skills · ⭐未收录 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-15-Jeffallan-claude-skills.md)
 - [x] IvanMurzak/Unity-MCP · ⭐未收录 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-15-IvanMurzak-Unity-MCP.md)
+- [x] Jeffallan/claude-skills · ⭐未收录 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-15-Jeffallan-claude-skills.md)
 - [x] Lum1104/Understand-Anything · ⭐未收录 · NLPM 86/100 · upstream · [案例](2026-06/2026-06-15-Lum1104-Understand-Anything.md)
 - [x] OthmanAdi/planning-with-files · ⭐未收录 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-15-OthmanAdi-planning-with-files.md)
 
@@ -95,21 +101,21 @@
 - [x] hellowind777/hello2cc · ⭐651 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-12-hellowind777-hello2cc.md)
 
 ### 2026-06-11 (4 篇)
-- [x] google-labs-code/stitch-skills · ⭐4860 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-11-google-labs-code-stitch-skills.md)
-- [x] google-gemini/gemini-skills · ⭐3330 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-11-google-gemini-gemini-skills.md)
 - [x] foryourhealth111-pixel/Vibe-Skills · ⭐1570 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-11-foryourhealth111-pixel-Vibe-Skills.md)
 - [x] first-fluke/oh-my-agent · ⭐663 · NLPM 86/100 · upstream · [案例](2026-06/2026-06-11-first-fluke-oh-my-agent.md)
+- [x] google-gemini/gemini-skills · ⭐3330 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-11-google-gemini-gemini-skills.md)
+- [x] google-labs-code/stitch-skills · ⭐4860 · NLPM 96/100 · upstream · [案例](2026-06/2026-06-11-google-labs-code-stitch-skills.md)
 
 ### 2026-06-10 (4 篇)
-- [x] CloudAI-X/claude-workflow-v2 · ⭐未记录 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-10-CloudAI-X-claude-workflow-v2.md)
-- [x] ChrisWiles/claude-code-showcase · ⭐未记录 · NLPM 81/100 · upstream · [案例](2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md)
 - [x] AgriciDaniel/claude-seo · ⭐未记录 · NLPM 94/100 · upstream · [案例](2026-06/2026-06-10-AgriciDaniel-claude-seo.md)
+- [x] ChrisWiles/claude-code-showcase · ⭐未记录 · NLPM 81/100 · upstream · [案例](2026-06/2026-06-10-ChrisWiles-claude-code-showcase.md)
+- [x] CloudAI-X/claude-workflow-v2 · ⭐未记录 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-10-CloudAI-X-claude-workflow-v2.md)
 - [x] EveryInc/compound-engineering-plugin · ⭐未记录 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-10-EveryInc-compound-engineering-plugin.md)
 
 ### 2026-06-09 (4 篇)
-- [x] upstash/context7 · ⭐53665 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-09-upstash-context7.md)
-- [x] shanraisshan/claude-code-best-practice · ⭐46008 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md)
 - [x] safishamsi/graphify · ⭐37391 · NLPM 58/100 · upstream · [案例](2026-06/2026-06-09-safishamsi-graphify.md)
+- [x] shanraisshan/claude-code-best-practice · ⭐46008 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-09-shanraisshan-claude-code-best-practice.md)
+- [x] upstash/context7 · ⭐53665 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-09-upstash-context7.md)
 - [x] wshobson/agents · ⭐33764 · NLPM 82/100 · upstream · [案例](2026-06/2026-06-09-wshobson-agents.md)
 
 ### 2026-06-08 (4 篇)
@@ -125,40 +131,40 @@
 - [x] mem0ai/mem0 · ⭐55456 · NLPM 91/100 · upstream · [案例](2026-06/2026-06-07-mem0ai-mem0.md)
 
 ### 2026-06-06 (4 篇)
-- [x] gmickel/flow-next · ⭐568 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-gmickel-flow-next.md)
-- [x] glitternetwork/pinme · ⭐3188 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-glitternetwork-pinme.md)
-- [x] firetiger-oss/claude-plugin · ⭐508 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-06-firetiger-oss-claude-plugin.md)
 - [x] feiskyer/claude-code-settings · ⭐1434 · NLPM 85/100 · upstream · [案例](2026-06/2026-06-06-feiskyer-claude-code-settings.md)
+- [x] firetiger-oss/claude-plugin · ⭐508 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-06-firetiger-oss-claude-plugin.md)
+- [x] glitternetwork/pinme · ⭐3188 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-glitternetwork-pinme.md)
+- [x] gmickel/flow-next · ⭐568 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-06-gmickel-flow-next.md)
 
 ### 2026-06-05 (4 篇)
-- [x] hesreallyhim/awesome-claude-code · ⭐38367 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md)
 - [x] github/awesome-copilot · ⭐31146 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-05-github-awesome-copilot.md)
+- [x] hesreallyhim/awesome-claude-code · ⭐38367 · NLPM 89/100 · upstream · [案例](2026-06/2026-06-05-hesreallyhim-awesome-claude-code.md)
 - [x] iOfficeAI/AionUi · ⭐22516 · NLPM 75/100 · upstream · [案例](2026-06/2026-06-05-iOfficeAI-AionUi.md)
 - [x] jarrodwatts/claude-hud · ⭐21673 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-05-jarrodwatts-claude-hud.md)
 
 ### 2026-06-04 (4 篇)
-- [x] fcakyon/claude-codex-settings · ⭐590 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-04-fcakyon-claude-codex-settings.md)
-- [x] eyaltoledano/claude-task-master · ⭐26807 · NLPM 67/100 · upstream · [案例](2026-06/2026-06-04-eyaltoledano-claude-task-master.md)
-- [x] expo/skills · ⭐1784 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-04-expo-skills.md)
 - [x] evo-hq/evo · ⭐645 · NLPM 98/100 · upstream · [案例](2026-06/2026-06-04-evo-hq-evo.md)
+- [x] expo/skills · ⭐1784 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-04-expo-skills.md)
+- [x] eyaltoledano/claude-task-master · ⭐26807 · NLPM 67/100 · upstream · [案例](2026-06/2026-06-04-eyaltoledano-claude-task-master.md)
+- [x] fcakyon/claude-codex-settings · ⭐590 · NLPM 79/100 · upstream · [案例](2026-06/2026-06-04-fcakyon-claude-codex-settings.md)
 
 ### 2026-06-02 (4 篇)
-- [x] disler/claude-code-hooks-mastery · ⭐3566 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md)
 - [x] backnotprop/plannotator · ⭐4561 · NLPM 93/100 · upstream · [案例](2026-06/2026-06-02-backnotprop-plannotator.md)
 - [x] czlonkowski/n8n-mcp · ⭐18662 · NLPM 81/100 · upstream · [案例](2026-06/2026-06-02-czlonkowski-n8n-mcp.md)
 - [x] davila7/claude-code-templates · ⭐24685 · NLPM 84/100 · upstream · [案例](2026-06/2026-06-02-davila7-claude-code-templates.md)
+- [x] disler/claude-code-hooks-mastery · ⭐3566 · NLPM 77/100 · upstream · [案例](2026-06/2026-06-02-disler-claude-code-hooks-mastery.md)
 
 ### 2026-06-01 (4 篇)
-- [x] obra/superpowers · ⭐166779 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-01-obra-superpowers.md)
 - [x] forrestchang/andrej-karpathy-skills · ⭐125813 · NLPM 99/100 · upstream · [案例](2026-06/2026-06-01-forrestchang-andrej-karpathy-skills.md)
 - [x] nextlevelbuilder/ui-ux-pro-max-skill · ⭐70122 · NLPM 85/100 · upstream · [案例](2026-06/2026-06-01-nextlevelbuilder-ui-ux-pro-max-skill.md)
+- [x] obra/superpowers · ⭐166779 · NLPM 92/100 · upstream · [案例](2026-06/2026-06-01-obra-superpowers.md)
 - [x] shareAI-lab/learn-claude-code · ⭐59868 · NLPM 88/100 · upstream · [案例](2026-06/2026-06-01-shareAI-lab-learn-claude-code.md)
 
 ### 2026-05-31 (4 篇)
 - [x] avifenesh/agentsys · ⭐741 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-31-avifenesh-agentsys.md)
-- [x] codeaholicguy/ai-devkit · ⭐1128 · NLPM 96/100 · upstream · [案例](2026-05/2026-05-31-codeaholicguy-ai-devkit.md)
-- [x] code-yeongyu/oh-my-openagent · ⭐51912 · NLPM 74/100 · upstream · [案例](2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md)
 - [x] centminmod/my-claude-code-setup · ⭐2210 · NLPM 49/100 · upstream · [案例](2026-05/2026-05-31-centminmod-my-claude-code-setup.md)
+- [x] code-yeongyu/oh-my-openagent · ⭐51912 · NLPM 74/100 · upstream · [案例](2026-05/2026-05-31-code-yeongyu-oh-my-openagent.md)
+- [x] codeaholicguy/ai-devkit · ⭐1128 · NLPM 96/100 · upstream · [案例](2026-05/2026-05-31-codeaholicguy-ai-devkit.md)
 
 ### 2026-05-30 (4 篇)
 - [x] antfu/skills · ⭐4700 · NLPM 93/100 · upstream · [案例](2026-05/2026-05-30-antfu-skills.md)
@@ -167,121 +173,110 @@
 - [x] caliber-ai-org/ai-setup · ⭐698 · NLPM 100/100 · upstream · [案例](2026-05/2026-05-30-caliber-ai-org-ai-setup.md)
 
 ### 2026-05-29 (4 篇)
-- [x] alirezarezvani/claude-code-tresor · ⭐697 · NLPM 81/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md)
-- [x] alirezarezvani/claude-code-skill-factory · ⭐721 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md)
-- [x] alinaqi/claude-bootstrap · ⭐576 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-29-alinaqi-claude-bootstrap.md)
 - [x] alexgreensh/token-optimizer · ⭐646 · NLPM 98/100 · upstream · [案例](2026-05/2026-05-29-alexgreensh-token-optimizer.md)
+- [x] alinaqi/claude-bootstrap · ⭐576 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-29-alinaqi-claude-bootstrap.md)
+- [x] alirezarezvani/claude-code-skill-factory · ⭐721 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-skill-factory.md)
+- [x] alirezarezvani/claude-code-tresor · ⭐697 · NLPM 81/100 · upstream · [案例](2026-05/2026-05-29-alirezarezvani-claude-code-tresor.md)
 
 ### 2026-05-28 (4 篇)
+- [x] a5c-ai/babysitter · ⭐562 · NLPM 70/100 · upstream · [案例](2026-05/2026-05-28-a5c-ai-babysitter.md)
+- [x] aaron-he-zhu/seo-geo-claude-skills · ⭐1050 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md)
 - [x] addyosmani/agent-skills · ⭐22697 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-28-addyosmani-agent-skills.md)
 - [x] addyosmani/web-quality-skills · ⭐1804 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-28-addyosmani-web-quality-skills.md)
-- [x] aaron-he-zhu/seo-geo-claude-skills · ⭐1050 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-28-aaron-he-zhu-seo-geo-claude-skills.md)
-- [x] a5c-ai/babysitter · ⭐562 · NLPM 70/100 · upstream · [案例](2026-05/2026-05-28-a5c-ai-babysitter.md)
 
 ### 2026-05-27 (4 篇)
-- [x] Yeachan-Heo/oh-my-claudecode · ⭐29671 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md)
 - [x] SuperClaude-Org/SuperClaude_Framework · ⭐22474 · NLPM 84/100 · upstream · [案例](2026-05/2026-05-27-SuperClaude-Org-SuperClaude_Framework.md)
 - [x] The-Vibe-Company/companion · ⭐2312 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-27-The-Vibe-Company-companion.md)
+- [x] Yeachan-Heo/oh-my-claudecode · ⭐29671 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-27-Yeachan-Heo-oh-my-claudecode.md)
 - [x] ZeframLou/call-me · ⭐2590 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-27-ZeframLou-call-me.md)
 
 ### 2026-05-26 (4 篇)
-- [x] SimoneAvogadro/android-reverse-engineering-skill · ⭐5485 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md)
-- [x] ReScienceLab/opc-skills · ⭐776 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-ReScienceLab-opc-skills.md)
-- [x] RKiding/Awesome-finance-skills · ⭐1907 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-RKiding-Awesome-finance-skills.md)
 - [x] Q00/ouroboros · ⭐3637 · NLPM 69/100 · upstream · [案例](2026-05/2026-05-26-Q00-ouroboros.md)
+- [x] RKiding/Awesome-finance-skills · ⭐1907 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-RKiding-Awesome-finance-skills.md)
+- [x] ReScienceLab/opc-skills · ⭐776 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-ReScienceLab-opc-skills.md)
+- [x] SimoneAvogadro/android-reverse-engineering-skill · ⭐5485 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-26-SimoneAvogadro-android-reverse-engineering-skill.md)
 
 ### 2026-05-25 (4 篇)
 - [x] MemPalace/mempalace · ⭐51982 · NLPM 90/100 · upstream · [案例](2026-05/2026-05-25-MemPalace-mempalace.md)
-- [x] NousResearch/hermes-agent · ⭐94145 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-25-NousResearch-hermes-agent.md)
 - [x] MiniMax-AI/skills · ⭐11187 · NLPM 89/100 · upstream · [案例](2026-05/2026-05-25-MiniMax-AI-skills.md)
+- [x] NousResearch/hermes-agent · ⭐94145 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-25-NousResearch-hermes-agent.md)
 - [x] PeonPing/peon-ping · ⭐4595 · NLPM 77/100 · upstream · [案例](2026-05/2026-05-25-PeonPing-peon-ping.md)
 
 ### 2026-05-24 (4 篇)
-- [x] Manavarya09/design-extract · ⭐2482 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-24-Manavarya09-design-extract.md)
-- [x] OpenRaiser/NanoResearch · ⭐690 · NLPM 73/100 · upstream · [案例](2026-05/2026-05-24-OpenRaiser-NanoResearch.md)
 - [x] KhazP/vibe-coding-prompt-template · ⭐2278 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-24-KhazP-vibe-coding-prompt-template.md)
 - [x] LigphiDonk/Oh-my--paper · ⭐506 · NLPM 65/100 · upstream · [案例](2026-05/2026-05-24-LigphiDonk-Oh-my--paper.md)
+- [x] Manavarya09/design-extract · ⭐2482 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-24-Manavarya09-design-extract.md)
+- [x] OpenRaiser/NanoResearch · ⭐690 · NLPM 73/100 · upstream · [案例](2026-05/2026-05-24-OpenRaiser-NanoResearch.md)
 
 ### 2026-05-23 (4 篇)
-- [x] K-Dense-AI/scientific-agent-skills · ⭐19356 · NLPM 83/100 · upstream · [案例](2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md)
-- [x] JuliusBrussee/caveman · ⭐22505 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-23-JuliusBrussee-caveman.md)
-- [x] JuliusBrussee/cavekit · ⭐564 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-23-JuliusBrussee-cavekit.md)
 - [x] JimLiu/baoyu-skills · ⭐16303 · NLPM 90/100 · upstream · [案例](2026-05/2026-05-23-JimLiu-baoyu-skills.md)
+- [x] JuliusBrussee/cavekit · ⭐564 · NLPM 97/100 · upstream · [案例](2026-05/2026-05-23-JuliusBrussee-cavekit.md)
+- [x] JuliusBrussee/caveman · ⭐22505 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-23-JuliusBrussee-caveman.md)
+- [x] K-Dense-AI/scientific-agent-skills · ⭐19356 · NLPM 83/100 · upstream · [案例](2026-05/2026-05-23-K-Dense-AI-scientific-agent-skills.md)
 
 ### 2026-05-22 (6 篇)
-- [x] taishi-i/awesome-japanese-nlp-resources · ⭐962 · NLPM 79/100 · 本地 audit · [案例](2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md)
-- [x] FlorianBruniaux/claude-code-ultimate-guide · ⭐3604 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md)
-- [x] Dammyjay93/interface-design · ⭐4630 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-22-Dammyjay93-interface-design.md)
-- [x] BayramAnnakov/claude-reflect · ⭐1000 · NLPM 99/100 · upstream · [案例](2026-05/2026-05-22-BayramAnnakov-claude-reflect.md)
-- [x] anthropics/claude-code · ⭐125529 · NLPM 88/100 · 本地 audit · [案例](2026-05/2026-05-22-anthropics-claude-code.md)
 - [x] AgriciDaniel/claude-obsidian · ⭐976 · NLPM 91/100 · upstream · [案例](2026-05/2026-05-22-AgriciDaniel-claude-obsidian.md)
+- [x] BayramAnnakov/claude-reflect · ⭐1000 · NLPM 99/100 · upstream · [案例](2026-05/2026-05-22-BayramAnnakov-claude-reflect.md)
+- [x] Dammyjay93/interface-design · ⭐4630 · NLPM 94/100 · upstream · [案例](2026-05/2026-05-22-Dammyjay93-interface-design.md)
+- [x] FlorianBruniaux/claude-code-ultimate-guide · ⭐3604 · NLPM 80/100 · upstream · [案例](2026-05/2026-05-22-FlorianBruniaux-claude-code-ultimate-guide.md)
+- [x] anthropics/claude-code · ⭐125529 · NLPM 88/100 · 本地 audit · [案例](2026-05/2026-05-22-anthropics-claude-code.md)
+- [x] taishi-i/awesome-japanese-nlp-resources · ⭐962 · NLPM 79/100 · 本地 audit · [案例](2026-05/2026-05-22-taishi-i-awesome-japanese-nlp-resources.md)
 
 ### 2026-05-20 (5 篇)
-- [x] nexu-io/html-anything · ⭐3378 · NLPM 80/100 · 本地 audit · [案例](2026-05/2026-05-20-nexu-io-html-anything.md)
-- [x] AgriciDaniel/claude-blog · ⭐562 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-20-AgriciDaniel-claude-blog.md)
-- [x] AgriciDaniel/claude-ads · ⭐2377 · NLPM 99/100 · upstream · [案例](2026-05/2026-05-20-AgriciDaniel-claude-ads.md)
-- [x] 777genius/claude-notifications-go · ⭐528 · NLPM 63/100 · upstream · [案例](2026-05/2026-05-20-777genius-claude-notifications-go.md)
 - [x] 0xfurai/claude-code-subagents · ⭐859 · NLPM 74/100 · upstream · [案例](2026-05/2026-05-20-0xfurai-claude-code-subagents.md)
+- [x] 777genius/claude-notifications-go · ⭐528 · NLPM 63/100 · upstream · [案例](2026-05/2026-05-20-777genius-claude-notifications-go.md)
+- [x] AgriciDaniel/claude-ads · ⭐2377 · NLPM 99/100 · upstream · [案例](2026-05/2026-05-20-AgriciDaniel-claude-ads.md)
+- [x] AgriciDaniel/claude-blog · ⭐562 · NLPM 92/100 · upstream · [案例](2026-05/2026-05-20-AgriciDaniel-claude-blog.md)
+- [x] nexu-io/html-anything · ⭐3378 · NLPM 80/100 · 本地 audit · [案例](2026-05/2026-05-20-nexu-io-html-anything.md)
 
 ---
 
-## 📋 待处理（按 audit 时间升序，共 83 个）
+## 📋 待处理（按 stars 降序，共 63 个 upstream ≥500 stars）
 
-> 由于全部 audit 文件时间戳相同（2026-05-17 统一导入），以下按字母顺序排列，仅展示前 40 个
+> 优先级高（≥3000 stars）：
 
-- [ ] disler/claude-code-hooks-mastery · ⭐3566 · upstream
-- [x] evo-hq/evo · ✅ 已完成 (2026-06-04)
-- [x] expo/skills · ✅ 已完成 (2026-06-04)
-- [x] eyaltoledano/claude-task-master · ✅ 已完成 (2026-06-04)
-- [x] fcakyon/claude-codex-settings · ✅ 已完成 (2026-06-04)
-- [x] feiskyer/claude-code-settings · ✅ 已完成 (2026-06-06)
-- [x] firetiger-oss/claude-plugin · ✅ 已完成 (2026-06-06)
-- [x] glitternetwork/pinme · ✅ 已完成 (2026-06-06)
-- [x] gmickel/flow-next · ✅ 已完成 (2026-06-06)
-- [x] github/awesome-copilot · ✅ 已完成 (2026-06-05)
-- [x] google-labs-code/stitch-skills · ⭐4860 · upstream · ✅ 已完成 (2026-06-11)
-- [x] googleworkspace/cli · ✅ 已完成 (2026-06-07)
-- [x] gotalab/cc-sdd · ⭐3099 · upstream · ✅ 已完成 (2026-06-12)
-- [x] guanyang/antigravity-skills · ⭐653 · upstream · ✅ 已完成 (2026-06-12)
-- [x] hamelsmu/claude-review-loop · ⭐655 · upstream · ✅ 已完成 (2026-06-12)
-- [x] hellowind777/hello2cc · ⭐651 · upstream · ✅ 已完成 (2026-06-12)
-- [ ] hashicorp/agent-skills · ⭐1500 · upstream
-- [x] hesreallyhim/awesome-claude-code · ✅ 已完成 (2026-06-05)
-- [ ] iannuttall/claude-agents · ⭐512 · upstream
-- [ ] itsmostafa/aws-agent-skills · ⭐674 · upstream
-- [x] jarrodwatts/claude-hud · ✅ 已完成 (2026-06-05)
-- [ ] jeremylongshore/claude-code-plugins-plus-skills · ⭐1830 · upstream
-- [x] jnMetaCode/superpowers-zh · ⭐1001 · upstream · ✅ 已完成 (2026-06-17)
-- [ ] jnuyens/gsd-plugin · ⭐2289 · upstream
-- [ ] josstei/maestro-orchestrate · ⭐2066 · upstream
-- [x] kbwo/ccmanager · ⭐1031 · upstream · ✅ 已完成 (2026-06-17)
-- [x] kepano/obsidian-skills · ✅ 已完成 (2026-06-07)
-- [x] kubesphere/kubesphere · ⭐16912 · upstream · ✅ 已完成 (2026-06-17)
-- [x] lackeyjb/playwright-skill · ⭐2607 · upstream · ✅ 已完成 (2026-06-20)
-- [ ] leowux/pony · ⭐1073 · upstream
-- [x] lijigang/ljg-skills · ⭐4860 · upstream · ✅ 已完成 (2026-06-20)
-- [ ] mattpocock/skills · ⭐35578 · upstream
-- [x] mem0ai/mem0 · ✅ 已完成 (2026-06-07)
-- [ ] memvid/claude-brain · ⭐3800 · upstream
-- [ ] mikeyobrien/ralph-orchestrator · ⭐1200 · upstream
-- [x] musistudio/claude-code-router · ⭐32875 · upstream · ✅ 已完成 (2026-06-22)
-- [ ] navapbc/digital-service-orchestra · ⭐505 · upstream
-- [ ] obra/superpowers · ✅ 已完成
+- [ ] wasp-lang/open-saas · ⭐14349 · upstream
+- [ ] ykdojo/claude-code-tips · ⭐7505 · upstream
+- [ ] wanshuiyin/Auto-claude-code-research-in-sleep · ⭐6387 · upstream
+- [ ] zubair-trabzada/geo-seo-claude · ⭐5411 · upstream
+- [ ] zebbern/claude-code-guide · ⭐3921 · upstream
+- [ ] twostraws/SwiftUI-Agent-Skill · ⭐3806 · upstream
+- [ ] uditgoenka/autoresearch · ⭐3612 · upstream
+- [ ] zhukunpenglinyutong/jetbrains-cc-gui · ⭐3355 · upstream
+- [ ] tw93/Waza · ✅ 已完成 (2026-07-02)
+- [ ] timescale/pg-aiguide · ✅ 已完成 (2026-07-02)
 
-...（剩余 47 个，将随每日生成批次逐步标记完成）
+> 中等优先级（500-3000 stars）：
+
+- [ ] wuji-labs/nopua · ⭐1229 · upstream
+- [ ] timescale/pg-aiguide · ✅ 已完成 (2026-07-02)
+- [ ] tirth8205/code-review-graph · ✅ 已完成 (2026-07-02)
+- [ ] team-attention/plugins-for-claude-natives · ✅ 已完成 (2026-07-02)
+- [ ] vstorm-co/pydantic-deepagents · ⭐687 · upstream
+- [ ] zhsama/claude-sub-agent · ⭐576 · upstream
+- [ ] wecode-ai/Wegent · ⭐521 · upstream
+- [ ] josstei/maestro-orchestrate · ⭐370 · upstream（<500，低优先）
+
+...（其余 48 个 <500 stars 或 N/A，视情况处理）
 
 ---
 
 ## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 68 个）
 
-- ~~AgriciDaniel/claude-seo · ⭐N/A~~
-- ~~ChrisWiles/claude-code-showcase · ⭐N/A~~
-- ~~CloudAI-X/claude-workflow-v2 · ⭐N/A~~
-- ~~ComposioHQ/awesome-claude-plugins · ⭐N/A~~
-- ~~Donchitos/Claude-Code-Game-Studios · ⭐N/A~~
-- ~~EveryInc/compound-engineering-plugin · ⭐N/A~~
-- ~~Ibrahim-3d/orchestrator-supaconductor · ⭐336~~
-- ~~Imbad0202/academic-research-skills · ⭐N/A~~
 - ~~LerianStudio/ring · ⭐174~~
+- ~~aaronmaturen/claude-plugin · ⭐1~~
+- ~~agent-sh/agentsys · ⭐N/A~~
+- ~~agent-sh/agnix · ⭐207~~
+- ~~agent-sh/enhance · ⭐3~~
+- ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
+- ~~alirezarezvani/claude-skills · ⭐N/A~~
+- ~~c0x12c/ai-toolkit · ⭐61~~
+- ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
+- ~~jnuyens/gsd-plugin · ⭐9~~
+- ~~kangraemin/claude-inspector · ⭐115~~
+- ~~kazukinagata/shinkoku · ⭐335~~
+- ~~krodak/clickup-cli · ⭐57~~
+- ~~leowux/pony · ⭐1~~
+- ~~levnikolaevich/claude-code-skills · ⭐423~~
 
-...（其余 56 个均为 registry 显示 N/A 或 stars < 500，已全部纳入跳过名单）
+...（其余 53 个同理）

@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| tw93/Waza | ⭐3301 | 79/100 | xiaolai upstream（SECURITY BLOCKED→REVIEW） | 2026-07-02 | [2026-07/2026-07-02-tw93-Waza.md](2026-07/2026-07-02-tw93-Waza.md) |
+| tirth8205/code-review-graph | ⭐12954 | 95/100 | xiaolai upstream | 2026-07-02 | [2026-07/2026-07-02-tirth8205-code-review-graph.md](2026-07/2026-07-02-tirth8205-code-review-graph.md) |
+| timescale/pg-aiguide | ⭐1680 | 94/100 | xiaolai upstream（SECURITY REVIEW） | 2026-07-02 | [2026-07/2026-07-02-timescale-pg-aiguide.md](2026-07/2026-07-02-timescale-pg-aiguide.md) |
+| team-attention/plugins-for-claude-natives | ⭐729 | 92/100 | xiaolai upstream | 2026-07-02 | [2026-07/2026-07-02-team-attention-plugins-for-claude-natives.md](2026-07/2026-07-02-team-attention-plugins-for-claude-natives.md) |
 | vectorize-io/hindsight | ⭐10609 | 94/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-vectorize-io-hindsight.md](2026-06/2026-06-27-vectorize-io-hindsight.md) |
 | rohitg00/awesome-claude-code-toolkit | ⭐1214 | 46/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md](2026-06/2026-06-27-rohitg00-awesome-claude-code-toolkit.md) |
 | stablyai/orca | ⭐1130 | 96/100 | xiaolai upstream | 2026-06-27 | [2026-06/2026-06-27-stablyai-orca.md](2026-06/2026-06-27-stablyai-orca.md) |
