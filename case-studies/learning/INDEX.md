@@ -169,3 +169,7 @@
 | softaworks/agent-toolkit | ⭐1629 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-softaworks-agent-toolkit.md](2026-07/2026-07-01-softaworks-agent-toolkit.md) |
 | superset-sh/superset | ⭐9749 | 64/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-01 | [2026-07/2026-07-01-superset-sh-superset.md](2026-07/2026-07-01-superset-sh-superset.md) |
 | tanweai/pua | ⭐16701 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-tanweai-pua.md](2026-07/2026-07-01-tanweai-pua.md) |
+| twostraws/SwiftUI-Agent-Skill | ⭐3806 | 89/100 | xiaolai upstream | 2026-07-03 | [2026-07/2026-07-03-twostraws-SwiftUI-Agent-Skill.md](2026-07/2026-07-03-twostraws-SwiftUI-Agent-Skill.md) |
+| uditgoenka/autoresearch | ⭐3612 | 88/100 | xiaolai upstream | 2026-07-03 | [2026-07/2026-07-03-uditgoenka-autoresearch.md](2026-07/2026-07-03-uditgoenka-autoresearch.md) |
+| vstorm-co/pydantic-deepagents | ⭐687 | 93/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-03 | [2026-07/2026-07-03-vstorm-co-pydantic-deepagents.md](2026-07/2026-07-03-vstorm-co-pydantic-deepagents.md) |
+| wanshuiyin/Auto-claude-code-research-in-sleep | ⭐6387 | 81/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-03 | [2026-07/2026-07-03-wanshuiyin-Auto-claude-code-research-in-sleep.md](2026-07/2026-07-03-wanshuiyin-Auto-claude-code-research-in-sleep.md) |
