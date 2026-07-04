@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| wanshuiyin/Auto-claude-code-research-in-sleep | ⭐6387 | 81/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-04 | [2026-07/2026-07-04-wanshuiyin-Auto-claude-code-research-in-sleep.md](2026-07/2026-07-04-wanshuiyin-Auto-claude-code-research-in-sleep.md) |
+| vstorm-co/pydantic-deepagents | ⭐687 | 93/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-04 | [2026-07/2026-07-04-vstorm-co-pydantic-deepagents.md](2026-07/2026-07-04-vstorm-co-pydantic-deepagents.md) |
+| uditgoenka/autoresearch | ⭐3612 | 88/100 | xiaolai upstream | 2026-07-04 | [2026-07/2026-07-04-uditgoenka-autoresearch.md](2026-07/2026-07-04-uditgoenka-autoresearch.md) |
+| twostraws/SwiftUI-Agent-Skill | ⭐3806 | 89/100 | xiaolai upstream | 2026-07-04 | [2026-07/2026-07-04-twostraws-SwiftUI-Agent-Skill.md](2026-07/2026-07-04-twostraws-SwiftUI-Agent-Skill.md) |
 | tw93/Waza | ⭐3301 | 79/100 | xiaolai upstream（SECURITY BLOCKED→REVIEW） | 2026-07-02 | [2026-07/2026-07-02-tw93-Waza.md](2026-07/2026-07-02-tw93-Waza.md) |
 | tirth8205/code-review-graph | ⭐12954 | 95/100 | xiaolai upstream | 2026-07-02 | [2026-07/2026-07-02-tirth8205-code-review-graph.md](2026-07/2026-07-02-tirth8205-code-review-graph.md) |
 | timescale/pg-aiguide | ⭐1680 | 94/100 | xiaolai upstream（SECURITY REVIEW） | 2026-07-02 | [2026-07/2026-07-02-timescale-pg-aiguide.md](2026-07/2026-07-02-timescale-pg-aiguide.md) |

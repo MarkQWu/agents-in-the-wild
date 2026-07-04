@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：147（截至 2026-07-02）
+**已学**：151（截至 2026-07-04）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：63 个 upstream（≥500 stars 的 67 个中扣除今日 4 个）
-**最后更新**：2026-07-02
+**待处理**：59 个 upstream（≥500 stars 的 63 个中扣除今日 4 个）
+**最后更新**：2026-07-04
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-04 (4 篇)
+- [x] wanshuiyin/Auto-claude-code-research-in-sleep · ⭐6387 · NLPM 81/100 · upstream（SECURITY BLOCKED） · [案例](2026-07/2026-07-04-wanshuiyin-Auto-claude-code-research-in-sleep.md)
+- [x] vstorm-co/pydantic-deepagents · ⭐687 · NLPM 93/100 · upstream（SECURITY BLOCKED） · [案例](2026-07/2026-07-04-vstorm-co-pydantic-deepagents.md)
+- [x] uditgoenka/autoresearch · ⭐3612 · NLPM 88/100 · upstream（SECURITY CLEAR） · [案例](2026-07/2026-07-04-uditgoenka-autoresearch.md)
+- [x] twostraws/SwiftUI-Agent-Skill · ⭐3806 · NLPM 89/100 · upstream（SECURITY CLEAR） · [案例](2026-07/2026-07-04-twostraws-SwiftUI-Agent-Skill.md)
 
 ### 2026-07-02 (4 篇)
 - [x] tw93/Waza · ⭐3301 · NLPM 79/100 · upstream（SECURITY BLOCKED→已部分修复） · [案例](2026-07/2026-07-02-tw93-Waza.md)
@@ -237,11 +243,11 @@
 
 - [ ] wasp-lang/open-saas · ⭐14349 · upstream
 - [ ] ykdojo/claude-code-tips · ⭐7505 · upstream
-- [ ] wanshuiyin/Auto-claude-code-research-in-sleep · ⭐6387 · upstream
+- [ ] wanshuiyin/Auto-claude-code-research-in-sleep · ✅ 已完成 (2026-07-04)
 - [ ] zubair-trabzada/geo-seo-claude · ⭐5411 · upstream
 - [ ] zebbern/claude-code-guide · ⭐3921 · upstream
-- [ ] twostraws/SwiftUI-Agent-Skill · ⭐3806 · upstream
-- [ ] uditgoenka/autoresearch · ⭐3612 · upstream
+- [ ] twostraws/SwiftUI-Agent-Skill · ✅ 已完成 (2026-07-04)
+- [ ] uditgoenka/autoresearch · ✅ 已完成 (2026-07-04)
 - [ ] zhukunpenglinyutong/jetbrains-cc-gui · ⭐3355 · upstream
 - [ ] tw93/Waza · ✅ 已完成 (2026-07-02)
 - [ ] timescale/pg-aiguide · ✅ 已完成 (2026-07-02)
@@ -252,7 +258,7 @@
 - [ ] timescale/pg-aiguide · ✅ 已完成 (2026-07-02)
 - [ ] tirth8205/code-review-graph · ✅ 已完成 (2026-07-02)
 - [ ] team-attention/plugins-for-claude-natives · ✅ 已完成 (2026-07-02)
-- [ ] vstorm-co/pydantic-deepagents · ⭐687 · upstream
+- [ ] vstorm-co/pydantic-deepagents · ✅ 已完成 (2026-07-04)
 - [ ] zhsama/claude-sub-agent · ⭐576 · upstream
 - [ ] wecode-ai/Wegent · ⭐521 · upstream
 - [ ] josstei/maestro-orchestrate · ⭐370 · upstream（<500，低优先）
