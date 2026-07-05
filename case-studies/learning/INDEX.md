@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| ykdojo/claude-code-tips | ⭐7505 | 93/100 | upstream（SECURITY REVIEW→HIGH已修） | 2026-07-05 | [2026-07/2026-07-05-ykdojo-claude-code-tips.md](2026-07/2026-07-05-ykdojo-claude-code-tips.md) |
+| wuji-labs/nopua | ⭐1229 | 80/100 | upstream（SECURITY CLEAR，全部bug已修） | 2026-07-05 | [2026-07/2026-07-05-wuji-labs-nopua.md](2026-07/2026-07-05-wuji-labs-nopua.md) |
+| wecode-ai/Wegent | ⭐521 | 81/100 | upstream（SECURITY BLOCKED） | 2026-07-05 | [2026-07/2026-07-05-wecode-ai-Wegent.md](2026-07/2026-07-05-wecode-ai-Wegent.md) |
+| wasp-lang/open-saas | ⭐14349 | 87/100 | upstream（SECURITY CLEAR） | 2026-07-05 | [2026-07/2026-07-05-wasp-lang-open-saas.md](2026-07/2026-07-05-wasp-lang-open-saas.md) |
 | wanshuiyin/Auto-claude-code-research-in-sleep | ⭐6387 | 81/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-04 | [2026-07/2026-07-04-wanshuiyin-Auto-claude-code-research-in-sleep.md](2026-07/2026-07-04-wanshuiyin-Auto-claude-code-research-in-sleep.md) |
 | vstorm-co/pydantic-deepagents | ⭐687 | 93/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-04 | [2026-07/2026-07-04-vstorm-co-pydantic-deepagents.md](2026-07/2026-07-04-vstorm-co-pydantic-deepagents.md) |
 | uditgoenka/autoresearch | ⭐3612 | 88/100 | xiaolai upstream | 2026-07-04 | [2026-07/2026-07-04-uditgoenka-autoresearch.md](2026-07/2026-07-04-uditgoenka-autoresearch.md) |
