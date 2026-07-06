@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 207,
+    "total_discovered": 209,
     "total_contributed": 6,
-    "last_discovery": "2026-06-29T10:58:39Z",
+    "last_discovery": "2026-07-06T10:20:15Z",
     "total_audited": 12
   },
   "repos": {
@@ -7845,6 +7845,26 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 16,
+      "prs": []
+    },
+    "0xNyk/council-of-high-intelligence": {
+      "discovered": "2026-07-06T10:20:15Z",
+      "stars": 3345,
+      "artifacts": 20,
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Structured multi-round deliberation, confidence-weighted verdicts, genuine model diversity. Install as a Claude Code plugin — one command: /council",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 18,
+      "prs": []
+    },
+    "Graphify-Labs/graphify": {
+      "discovered": "2026-07-06T10:20:15Z",
+      "stars": 78385,
+      "artifacts": 25,
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 19,
       "prs": []
     }
   }
