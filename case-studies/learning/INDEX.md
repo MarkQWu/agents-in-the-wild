@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| zubair-trabzada/geo-seo-claude | ⭐5411 | 88/100 | upstream（SECURITY CLEAR，全部bug已修） | 2026-07-06 | [2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md](2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md) |
+| zhukunpenglinyutong/jetbrains-cc-gui | ⭐3355 | 98/100 | upstream（SECURITY BLOCKED，高危未修） | 2026-07-06 | [2026-07/2026-07-06-zhukunpenglinyutong-jetbrains-cc-gui.md](2026-07/2026-07-06-zhukunpenglinyutong-jetbrains-cc-gui.md) |
+| zebbern/claude-code-guide | ⭐3921 | 86/100 | upstream（SECURITY CLEAR） | 2026-07-06 | [2026-07/2026-07-06-zebbern-claude-code-guide.md](2026-07/2026-07-06-zebbern-claude-code-guide.md) |
+| zhsama/claude-sub-agent | ⭐576 | 72/100 | upstream（SECURITY CLEAR，核心bug未修） | 2026-07-06 | [2026-07/2026-07-06-zhsama-claude-sub-agent.md](2026-07/2026-07-06-zhsama-claude-sub-agent.md) |
 | ykdojo/claude-code-tips | ⭐7505 | 93/100 | upstream（SECURITY REVIEW→HIGH已修） | 2026-07-05 | [2026-07/2026-07-05-ykdojo-claude-code-tips.md](2026-07/2026-07-05-ykdojo-claude-code-tips.md) |
 | wuji-labs/nopua | ⭐1229 | 80/100 | upstream（SECURITY CLEAR，全部bug已修） | 2026-07-05 | [2026-07/2026-07-05-wuji-labs-nopua.md](2026-07/2026-07-05-wuji-labs-nopua.md) |
 | wecode-ai/Wegent | ⭐521 | 81/100 | upstream（SECURITY BLOCKED） | 2026-07-05 | [2026-07/2026-07-05-wecode-ai-Wegent.md](2026-07/2026-07-05-wecode-ai-Wegent.md) |
