@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| mattpocock/skills | ⭐69816 | 98/100 | upstream（SECURITY CLEAR，bug未修） | 2026-07-07 | [2026-07/2026-07-07-mattpocock-skills.md](2026-07/2026-07-07-mattpocock-skills.md) |
+| hashicorp/agent-skills | ⭐未收录 | 98/100 | upstream（SECURITY CLEAR，bug已修） | 2026-07-07 | [2026-07/2026-07-07-hashicorp-agent-skills.md](2026-07/2026-07-07-hashicorp-agent-skills.md) |
+| trailofbits/skills | ⭐未收录 | 95/100 | upstream（SECURITY BLOCKED，bugs未修） | 2026-07-07 | [2026-07/2026-07-07-trailofbits-skills.md](2026-07/2026-07-07-trailofbits-skills.md) |
+| tech-leads-club/agent-skills | ⭐未收录 | 93/100 | upstream（SECURITY CLEAR，bug未修） | 2026-07-07 | [2026-07/2026-07-07-tech-leads-club-agent-skills.md](2026-07/2026-07-07-tech-leads-club-agent-skills.md) |
 | zubair-trabzada/geo-seo-claude | ⭐5411 | 88/100 | upstream（SECURITY CLEAR，全部bug已修） | 2026-07-06 | [2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md](2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md) |
 | zhukunpenglinyutong/jetbrains-cc-gui | ⭐3355 | 98/100 | upstream（SECURITY BLOCKED，高危未修） | 2026-07-06 | [2026-07/2026-07-06-zhukunpenglinyutong-jetbrains-cc-gui.md](2026-07/2026-07-06-zhukunpenglinyutong-jetbrains-cc-gui.md) |
 | zebbern/claude-code-guide | ⭐3921 | 86/100 | upstream（SECURITY CLEAR） | 2026-07-06 | [2026-07/2026-07-06-zebbern-claude-code-guide.md](2026-07/2026-07-06-zebbern-claude-code-guide.md) |

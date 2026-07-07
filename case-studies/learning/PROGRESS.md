@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：159（截至 2026-07-06）
+**已学**：163（截至 2026-07-07）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
 **待处理**：0 个 upstream（≥500 stars 的待处理）
-**最后更新**：2026-07-06
+**最后更新**：2026-07-07
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-07 (4 篇)
+- [x] mattpocock/skills · ⭐69816 · NLPM 98/100 · upstream（SECURITY CLEAR，manifest bug未修） · [案例](2026-07/2026-07-07-mattpocock-skills.md)
+- [x] hashicorp/agent-skills · ⭐未收录 · NLPM 98/100 · upstream（SECURITY CLEAR，bug已修） · [案例](2026-07/2026-07-07-hashicorp-agent-skills.md)
+- [x] trailofbits/skills · ⭐未收录 · NLPM 95/100 · upstream（SECURITY BLOCKED，HIGH安全未修） · [案例](2026-07/2026-07-07-trailofbits-skills.md)
+- [x] tech-leads-club/agent-skills · ⭐未收录 · NLPM 93/100 · upstream（SECURITY CLEAR，version bug未修） · [案例](2026-07/2026-07-07-tech-leads-club-agent-skills.md)
 
 ### 2026-07-06 (4 篇)
 - [x] zubair-trabzada/geo-seo-claude · ⭐5411 · NLPM 88/100 · upstream（SECURITY CLEAR，全部bug已修） · [案例](2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md)
