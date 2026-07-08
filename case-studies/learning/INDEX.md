@@ -181,3 +181,8 @@
 | softaworks/agent-toolkit | ⭐1629 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-softaworks-agent-toolkit.md](2026-07/2026-07-01-softaworks-agent-toolkit.md) |
 | superset-sh/superset | ⭐9749 | 64/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-01 | [2026-07/2026-07-01-superset-sh-superset.md](2026-07/2026-07-01-superset-sh-superset.md) |
 | tanweai/pua | ⭐16701 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-tanweai-pua.md](2026-07/2026-07-01-tanweai-pua.md) |
+
+| anthropics/claude-plugins-official | ⭐31759 | 96/100 | xiaolai upstream（SECURITY REVIEW） | 2026-07-08 | [2026-07/2026-07-08-anthropics-claude-plugins-official.md](2026-07/2026-07-08-anthropics-claude-plugins-official.md) |
+| hashicorp/agent-skills | ⭐702 | 98/100 | xiaolai upstream（SECURITY CLEAR） | 2026-07-08 | [2026-07/2026-07-08-hashicorp-agent-skills.md](2026-07/2026-07-08-hashicorp-agent-skills.md) |
+| trailofbits/skills | ⭐6020 | 95/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-08 | [2026-07/2026-07-08-trailofbits-skills.md](2026-07/2026-07-08-trailofbits-skills.md) |
+| mattpocock/skills | ⭐69816 | 98/100 | xiaolai upstream | 2026-07-08 | [2026-07/2026-07-08-mattpocock-skills.md](2026-07/2026-07-08-mattpocock-skills.md) |

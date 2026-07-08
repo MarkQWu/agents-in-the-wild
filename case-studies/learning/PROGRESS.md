@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：159（截至 2026-07-06）
+**已学**：163（截至 2026-07-08）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：0 个 upstream（≥500 stars 的待处理）
-**最后更新**：2026-07-06
+**待处理**：47 个 upstream（≥500 stars；2026-07-08 新批次发现 51 个待处理，本次完成 4 个）
+**最后更新**：2026-07-08
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-08 (4 篇)
+- [x] anthropics/claude-plugins-official · ⭐31759 · NLPM 96/100 · upstream（SECURITY REVIEW，bun install 未修；skill-creator agents frontmatter bug 持续） · [案例](2026-07/2026-07-08-anthropics-claude-plugins-official.md)
+- [x] hashicorp/agent-skills · ⭐702 · NLPM 98/100 · upstream（SECURITY CLEAR，主要 bug list_resources.sh 已修；TFE_TOKEN pinning 仍未修） · [案例](2026-07/2026-07-08-hashicorp-agent-skills.md)
+- [x] trailofbits/skills · ⭐6020 · NLPM 95/100 · upstream（SECURITY BLOCKED，HIGH 高危 3 个均未修，bypassPermissions 甚至被当功能宣传） · [案例](2026-07/2026-07-08-trailofbits-skills.md)
+- [x] mattpocock/skills · ⭐69816 · NLPM 98/100 · upstream（SECURITY CLEAR，4 个 misc skill manifest bug 持续；plugin.json 大幅重构） · [案例](2026-07/2026-07-08-mattpocock-skills.md)
 
 ### 2026-07-06 (4 篇)
 - [x] zubair-trabzada/geo-seo-claude · ⭐5411 · NLPM 88/100 · upstream（SECURITY CLEAR，全部bug已修） · [案例](2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md)
