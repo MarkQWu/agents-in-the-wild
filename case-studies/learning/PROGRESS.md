@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：163（截至 2026-07-08）
+**已学**：167（截至 2026-07-09）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：47 个 upstream（≥500 stars；2026-07-08 新批次发现 51 个待处理，本次完成 4 个）
-**最后更新**：2026-07-08
+**待处理**：43 个 upstream（≥500 stars 或 exemplar_published；2026-07-09 批次完成 4 个 exemplar_published 仓库）
+**最后更新**：2026-07-09
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-09 (4 篇)
+- [x] coreyhaines31/marketingskills · ⭐0 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，Output Format 缺陷从 13 扩大至 23 个，product-marketing-context 前置模式值得借鉴） · [案例](2026-07/2026-07-09-coreyhaines31-marketingskills.md)
+- [x] agenticnotetaking/arscontexta · ⭐0 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，8/9 model 声明 BUG 持续未修，allowed-tools 缺失 bug 持续） · [案例](2026-07/2026-07-09-agenticnotetaking-arscontexta.md)
+- [x] 2389-research/simmer · ⭐4 · NLPM 93/100 · upstream（exemplar_published，SECURITY CLEAR，CLAUDE.md 三项 -20 分持续未修，orchestrator 550 行超限未修） · [案例](2026-07/2026-07-09-2389-research-simmer.md)
+- [x] 2389-research/review-squad · ⭐1 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，CLAUDE.md 无 frontmatter/无示例持续，"relevant" 模糊量词持续） · [案例](2026-07/2026-07-09-2389-research-review-squad.md)
 
 ### 2026-07-08 (4 篇)
 - [x] anthropics/claude-plugins-official · ⭐31759 · NLPM 96/100 · upstream（SECURITY REVIEW，bun install 未修；skill-creator agents frontmatter bug 持续） · [案例](2026-07/2026-07-08-anthropics-claude-plugins-official.md)

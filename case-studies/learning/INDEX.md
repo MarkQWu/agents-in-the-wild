@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| coreyhaines31/marketingskills | ⭐0 | 96/100 | upstream（exemplar_published，SECURITY CLEAR，Output Format 缺陷从13扩至23） | 2026-07-09 | [2026-07/2026-07-09-coreyhaines31-marketingskills.md](2026-07/2026-07-09-coreyhaines31-marketingskills.md) |
+| agenticnotetaking/arscontexta | ⭐0 | 96/100 | upstream（exemplar_published，SECURITY CLEAR，8/9 model bug 持续未修） | 2026-07-09 | [2026-07/2026-07-09-agenticnotetaking-arscontexta.md](2026-07/2026-07-09-agenticnotetaking-arscontexta.md) |
+| 2389-research/simmer | ⭐4 | 93/100 | upstream（exemplar_published，SECURITY CLEAR，CLAUDE.md -20分持续未修） | 2026-07-09 | [2026-07/2026-07-09-2389-research-simmer.md](2026-07/2026-07-09-2389-research-simmer.md) |
+| 2389-research/review-squad | ⭐1 | 96/100 | upstream（exemplar_published，SECURITY CLEAR，全部缺陷持续） | 2026-07-09 | [2026-07/2026-07-09-2389-research-review-squad.md](2026-07/2026-07-09-2389-research-review-squad.md) |
 | zubair-trabzada/geo-seo-claude | ⭐5411 | 88/100 | upstream（SECURITY CLEAR，全部bug已修） | 2026-07-06 | [2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md](2026-07/2026-07-06-zubair-trabzada-geo-seo-claude.md) |
 | zhukunpenglinyutong/jetbrains-cc-gui | ⭐3355 | 98/100 | upstream（SECURITY BLOCKED，高危未修） | 2026-07-06 | [2026-07/2026-07-06-zhukunpenglinyutong-jetbrains-cc-gui.md](2026-07/2026-07-06-zhukunpenglinyutong-jetbrains-cc-gui.md) |
 | zebbern/claude-code-guide | ⭐3921 | 86/100 | upstream（SECURITY CLEAR） | 2026-07-06 | [2026-07/2026-07-06-zebbern-claude-code-guide.md](2026-07/2026-07-06-zebbern-claude-code-guide.md) |
