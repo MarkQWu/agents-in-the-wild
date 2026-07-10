@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：167（截至 2026-07-09）
+**已学**：171（截至 2026-07-10）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：43 个 upstream（≥500 stars 或 exemplar_published；2026-07-09 批次完成 4 个 exemplar_published 仓库）
-**最后更新**：2026-07-09
+**待处理**：39 个 upstream（≥500 stars 或 exemplar_published；2026-07-10 批次完成 4 个 stars N/A 仓库：slavingia/skills、openai/codex-plugin-cc、xiaolai/codex-toolkit-for-claude、xiaolai/grill-for-claude）
+**最后更新**：2026-07-10
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-10 (4 篇)
+- [x] slavingia/skills · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，plugin.json skills 字段 3 月仍未修，线性 skill 链极简架构） · [案例](2026-07/2026-07-10-slavingia-skills.md)
+- [x] openai/codex-plugin-cc · ⭐N/A · NLPM 93/100 · upstream（SECURITY REVIEW→已修，xiaolai案例存在，$ARGUMENTS 已 merge，新增 transfer.md） · [案例](2026-07/2026-07-10-openai-codex-plugin-cc.md)
+- [x] xiaolai/codex-toolkit-for-claude · ⭐N/A · NLPM 96/100 · upstream（SECURITY CLEAR，status.md $ARGUMENTS 已修，无 allowed-tools 持续，shared partial 架构） · [案例](2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md)
+- [x] xiaolai/grill-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，3 agent 缺 Output Format 持续，版本 drift 持续，新增 codex/ 双运行时支持） · [案例](2026-07/2026-07-10-xiaolai-grill-for-claude.md)
 
 ### 2026-07-09 (4 篇)
 - [x] coreyhaines31/marketingskills · ⭐0 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，Output Format 缺陷从 13 扩大至 23 个，product-marketing-context 前置模式值得借鉴） · [案例](2026-07/2026-07-09-coreyhaines31-marketingskills.md)

@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| xiaolai/grill-for-claude | ⭐N/A | 97/100 | upstream（SECURITY CLEAR，3 agent 缺 Output Format 未修，版本 drift 持续，新增 codex/ 双运行时支持） | 2026-07-10 | [2026-07/2026-07-10-xiaolai-grill-for-claude.md](2026-07/2026-07-10-xiaolai-grill-for-claude.md) |
+| xiaolai/codex-toolkit-for-claude | ⭐N/A | 96/100 | upstream（SECURITY CLEAR，status.md $ARGUMENTS 已修，系统性无 allowed-tools 持续） | 2026-07-10 | [2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md](2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md) |
+| openai/codex-plugin-cc | ⭐N/A | 93/100 | upstream（SECURITY REVIEW→已修，xiaolai案例存在，新增 transfer.md 命令） | 2026-07-10 | [2026-07/2026-07-10-openai-codex-plugin-cc.md](2026-07/2026-07-10-openai-codex-plugin-cc.md) |
+| slavingia/skills | ⭐N/A | 97/100 | upstream（SECURITY CLEAR，plugin.json skills 字段 3 个月仍未修，模糊量词持续） | 2026-07-10 | [2026-07/2026-07-10-slavingia-skills.md](2026-07/2026-07-10-slavingia-skills.md) |
 | coreyhaines31/marketingskills | ⭐0 | 96/100 | upstream（exemplar_published，SECURITY CLEAR，Output Format 缺陷从13扩至23） | 2026-07-09 | [2026-07/2026-07-09-coreyhaines31-marketingskills.md](2026-07/2026-07-09-coreyhaines31-marketingskills.md) |
 | agenticnotetaking/arscontexta | ⭐0 | 96/100 | upstream（exemplar_published，SECURITY CLEAR，8/9 model bug 持续未修） | 2026-07-09 | [2026-07/2026-07-09-agenticnotetaking-arscontexta.md](2026-07/2026-07-09-agenticnotetaking-arscontexta.md) |
 | 2389-research/simmer | ⭐4 | 93/100 | upstream（exemplar_published，SECURITY CLEAR，CLAUDE.md -20分持续未修） | 2026-07-09 | [2026-07/2026-07-09-2389-research-simmer.md](2026-07/2026-07-09-2389-research-simmer.md) |
