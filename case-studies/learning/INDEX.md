@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| dontbesilent2025/dbskill | ⭐N/A | 90/100 | 本地 audit（exemplar_published+case_study_candidate，SECURITY REVIEW，高危升级技能已删除，技能库扩展 12→26，路由器+专科集群架构） | 2026-07-11 | [2026-07/2026-07-11-dontbesilent2025-dbskill.md](2026-07/2026-07-11-dontbesilent2025-dbskill.md) |
+| deanpeters/Product-Manager-Skills | ⭐N/A | 89/100 | 本地 audit（case_study_candidate，SECURITY CLEAR，命令 allowed-tools 持续缺失，教学式 PM 技能库，uses:/outputs: 新模式） | 2026-07-11 | [2026-07/2026-07-11-deanpeters-Product-Manager-Skills.md](2026-07/2026-07-11-deanpeters-Product-Manager-Skills.md) |
+| czlonkowski/n8n-skills | ⭐N/A | 93/100 | 本地 audit（exemplar_published，SECURITY CLEAR，模糊量词持续，伴生知识库模式，技能库扩展 7→15+hooks） | 2026-07-11 | [2026-07/2026-07-11-czlonkowski-n8n-skills.md](2026-07/2026-07-11-czlonkowski-n8n-skills.md) |
+| agent-sh/agentsys | ⭐755 | 91/100 | 本地 audit（case_study_candidate，SECURITY CLEAR，硬编码路径已修，js-yaml 部分修复，12 个 perf-* 缺示例，双平台架构） | 2026-07-11 | [2026-07/2026-07-11-agent-sh-agentsys.md](2026-07/2026-07-11-agent-sh-agentsys.md) |
 | xiaolai/grill-for-claude | ⭐N/A | 97/100 | upstream（SECURITY CLEAR，3 agent 缺 Output Format 未修，版本 drift 持续，新增 codex/ 双运行时支持） | 2026-07-10 | [2026-07/2026-07-10-xiaolai-grill-for-claude.md](2026-07/2026-07-10-xiaolai-grill-for-claude.md) |
 | xiaolai/codex-toolkit-for-claude | ⭐N/A | 96/100 | upstream（SECURITY CLEAR，status.md $ARGUMENTS 已修，系统性无 allowed-tools 持续） | 2026-07-10 | [2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md](2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md) |
 | openai/codex-plugin-cc | ⭐N/A | 93/100 | upstream（SECURITY REVIEW→已修，xiaolai案例存在，新增 transfer.md 命令） | 2026-07-10 | [2026-07/2026-07-10-openai-codex-plugin-cc.md](2026-07/2026-07-10-openai-codex-plugin-cc.md) |
