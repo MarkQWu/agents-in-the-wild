@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：171（截至 2026-07-10）
+**已学**：175（截至 2026-07-11）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：39 个 upstream（≥500 stars 或 exemplar_published；2026-07-10 批次完成 4 个 stars N/A 仓库：slavingia/skills、openai/codex-plugin-cc、xiaolai/codex-toolkit-for-claude、xiaolai/grill-for-claude）
-**最后更新**：2026-07-10
+**待处理**：35 个 upstream（≥500 stars 或 exemplar_published/case_study_candidate；2026-07-11 批次完成 4 个本地 audit：agent-sh/agentsys、czlonkowski/n8n-skills、deanpeters/Product-Manager-Skills、dontbesilent2025/dbskill）
+**最后更新**：2026-07-11
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-11 (4 篇)
+- [x] agent-sh/agentsys · ⭐755 · NLPM 91/100 · 本地 audit（case_study_candidate，SECURITY CLEAR，硬编码路径已修，js-yaml 部分修复，12 个 perf-* 缺示例，双平台 .claude-plugin+.kiro 架构） · [案例](2026-07/2026-07-11-agent-sh-agentsys.md)
+- [x] czlonkowski/n8n-skills · ⭐N/A · NLPM 93/100 · 本地 audit（exemplar_published，SECURITY CLEAR，模糊量词持续，伴生知识库模式，技能库扩展 7→15） · [案例](2026-07/2026-07-11-czlonkowski-n8n-skills.md)
+- [x] deanpeters/Product-Manager-Skills · ⭐N/A · NLPM 89/100 · 本地 audit（case_study_candidate，SECURITY CLEAR，命令 allowed-tools 持续缺失，教学嵌入式技能模式，skills 扩展 47→56） · [案例](2026-07/2026-07-11-deanpeters-Product-Manager-Skills.md)
+- [x] dontbesilent2025/dbskill · ⭐N/A · NLPM 90/100 · 本地 audit（exemplar_published+case_study_candidate，SECURITY REVIEW，高危 dbskill-upgrade 已删除，/文风分析 死引用已修，技能库扩展 12→26） · [案例](2026-07/2026-07-11-dontbesilent2025-dbskill.md)
 
 ### 2026-07-10 (4 篇)
 - [x] slavingia/skills · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，plugin.json skills 字段 3 月仍未修，线性 skill 链极简架构） · [案例](2026-07/2026-07-10-slavingia-skills.md)
@@ -301,7 +307,7 @@
 
 - ~~LerianStudio/ring · ⭐174~~
 - ~~aaronmaturen/claude-plugin · ⭐1~~
-- ~~agent-sh/agentsys · ⭐N/A~~
+- ~~agent-sh/agentsys · ⭐N/A~~ → ✅ 已处理（case_study_candidate=True，2026-07-11）
 - ~~agent-sh/agnix · ⭐207~~
 - ~~agent-sh/enhance · ⭐3~~
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
