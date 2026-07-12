@@ -190,6 +190,10 @@
 | superset-sh/superset | ⭐9749 | 64/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-01 | [2026-07/2026-07-01-superset-sh-superset.md](2026-07/2026-07-01-superset-sh-superset.md) |
 | tanweai/pua | ⭐16701 | 90/100 | xiaolai upstream | 2026-07-01 | [2026-07/2026-07-01-tanweai-pua.md](2026-07/2026-07-01-tanweai-pua.md) |
 
+| alirezarezvani/claude-skills | ⭐N/A | 92/100 | upstream（SECURITY BLOCKED，curl-pipe-bash CRITICAL 持续，wiki agents Write/Edit 权限越界持续，playwright-pro frontmatter 部分已修） | 2026-07-12 | [2026-07/2026-07-12-alirezarezvani-claude-skills.md](2026-07/2026-07-12-alirezarezvani-claude-skills.md) |
+| ananddtyagi/cc-marketplace | ⭐N/A | 73/100 | upstream（SECURITY CLEAR，5 agents 无 frontmatter 持续，36/45 commands 缺 name 持续，b2b-project-shipper name 不匹配持续） | 2026-07-12 | [2026-07/2026-07-12-ananddtyagi-cc-marketplace.md](2026-07/2026-07-12-ananddtyagi-cc-marketplace.md) |
+| agent-sh/agentsys | ⭐N/A | 91/100 | upstream（SECURITY CLEAR，硬编码路径已修，prepare→setup-hooks 已修，perf-* skills 迁移为 JS 测试） | 2026-07-12 | [2026-07/2026-07-12-agent-sh-agentsys.md](2026-07/2026-07-12-agent-sh-agentsys.md) |
+| affaan-m/everything-claude-code | ⭐N/A | 84/100 | upstream（SECURITY BLOCKED，npx 供应链风险已修，94/94 commands 缺 allowed-tools 持续，zh-TW opus 模型不匹配持续） | 2026-07-12 | [2026-07/2026-07-12-affaan-m-everything-claude-code.md](2026-07/2026-07-12-affaan-m-everything-claude-code.md) |
 | anthropics/claude-plugins-official | ⭐31759 | 96/100 | xiaolai upstream（SECURITY REVIEW） | 2026-07-08 | [2026-07/2026-07-08-anthropics-claude-plugins-official.md](2026-07/2026-07-08-anthropics-claude-plugins-official.md) |
 | hashicorp/agent-skills | ⭐702 | 98/100 | xiaolai upstream（SECURITY CLEAR） | 2026-07-08 | [2026-07/2026-07-08-hashicorp-agent-skills.md](2026-07/2026-07-08-hashicorp-agent-skills.md) |
 | trailofbits/skills | ⭐6020 | 95/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-08 | [2026-07/2026-07-08-trailofbits-skills.md](2026-07/2026-07-08-trailofbits-skills.md) |
