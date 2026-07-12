@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：171（截至 2026-07-10）
-**<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：39 个 upstream（≥500 stars 或 exemplar_published；2026-07-10 批次完成 4 个 stars N/A 仓库：slavingia/skills、openai/codex-plugin-cc、xiaolai/codex-toolkit-for-claude、xiaolai/grill-for-claude）
-**最后更新**：2026-07-10
+**已学**：175（截至 2026-07-12）
+**<500 星跳过**：66（注：agent-sh/agentsys 和 alirezarezvani/claude-skills 虽显示 N/A stars，但因经由 ≥500 stars 发现流程进入 registry，重新分类为可学习，从跳过移至已完成）
+**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-12 批次完成 4 个仓库：affaan-m/everything-claude-code、agent-sh/agentsys、ananddtyagi/cc-marketplace、alirezarezvani/claude-skills）
+**最后更新**：2026-07-12
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-12 (4 篇)
+- [x] affaan-m/everything-claude-code · ⭐N/A · NLPM 84/100 · upstream（SECURITY BLOCKED，npx 供应链风险已修，94/94 commands 缺 allowed-tools 持续，zh-TW opus 模型高于 sonnet 5倍成本持续，本地化 drift 1 bug × 14 复制） · [案例](2026-07/2026-07-12-affaan-m-everything-claude-code.md)
+- [x] agent-sh/agentsys · ⭐N/A · NLPM 91/100 · upstream（SECURITY CLEAR，硬编码路径已修，prepare→setup-hooks 已修，perf-* skills 迁移为 JS 测试，单职责认知技能模式） · [案例](2026-07/2026-07-12-agent-sh-agentsys.md)
+- [x] ananddtyagi/cc-marketplace · ⭐N/A · NLPM 73/100 · upstream（SECURITY CLEAR，5 agents 无 frontmatter 持续，growth-hacker PERSISTS，b2b-project-shipper name 不匹配 PERSISTS，36/45 commands 缺 name） · [案例](2026-07/2026-07-12-ananddtyagi-cc-marketplace.md)
+- [x] alirezarezvani/claude-skills · ⭐N/A · NLPM 92/100 · upstream（SECURITY BLOCKED，curl-pipe-bash CRITICAL 持续，wiki agents Write/Edit 越权持续，playwright-pro frontmatter 已修，ra-qm-team 6/14 满分子系统值得借鉴） · [案例](2026-07/2026-07-12-alirezarezvani-claude-skills.md)
 
 ### 2026-07-10 (4 篇)
 - [x] slavingia/skills · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，plugin.json skills 字段 3 月仍未修，线性 skill 链极简架构） · [案例](2026-07/2026-07-10-slavingia-skills.md)
@@ -301,11 +307,9 @@
 
 - ~~LerianStudio/ring · ⭐174~~
 - ~~aaronmaturen/claude-plugin · ⭐1~~
-- ~~agent-sh/agentsys · ⭐N/A~~
 - ~~agent-sh/agnix · ⭐207~~
 - ~~agent-sh/enhance · ⭐3~~
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
-- ~~alirezarezvani/claude-skills · ⭐N/A~~
 - ~~c0x12c/ai-toolkit · ⭐61~~
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
 - ~~jnuyens/gsd-plugin · ⭐9~~
