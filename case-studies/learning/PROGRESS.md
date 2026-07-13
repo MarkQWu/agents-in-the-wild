@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：171（截至 2026-07-10）
+**已学**：175（截至 2026-07-13）
 **<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：39 个 upstream（≥500 stars 或 exemplar_published；2026-07-10 批次完成 4 个 stars N/A 仓库：slavingia/skills、openai/codex-plugin-cc、xiaolai/codex-toolkit-for-claude、xiaolai/grill-for-claude）
-**最后更新**：2026-07-10
+**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-13 批次完成 4 个 exemplar_published 仓库：czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli）
+**最后更新**：2026-07-13
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-13 (4 篇)
+- [x] czlonkowski/n8n-skills · ⭐N/A · NLPM 93/100 · upstream（exemplar: R04/R06/R07/R08；9→15 skills；新增 hooks 执法层；vague words 持续；hooks post-tool-use 路由值得借鉴） · [案例](2026-07/2026-07-13-czlonkowski-n8n-skills.md)
+- [x] dontbesilent2025/dbskill · ⭐N/A · NLPM 90/100 · upstream（exemplar: R04/R05/R07/R08；12→27 skills；dbskill-upgrade HIGH 安全已移除；/文风分析 死引用已修；record-demo.sh sed 注入已修；新增 scaffold-as-a-skill 模式） · [案例](2026-07/2026-07-13-dontbesilent2025-dbskill.md)
+- [x] kazukinagata/shinkoku · ⭐335 · NLPM 94/100 · upstream（exemplar: R01/R04/R06/R07/R08；整数公式精度设计；setup unpinned git URL 持续；妥当か 持续；新增 e-tax/research/ 逐屏研究文档） · [案例](2026-07/2026-07-13-kazukinagata-shinkoku.md)
+- [x] krodak/clickup-cli · ⭐57 · NLPM 95/100 · upstream（exemplar: R01/R02/R04/R05/R06/R08；NL+CLI 混合架构；30 触发短语；plugin.json 无 skills 数组持续；caret 依赖持续；新增 docs/superpowers/ + AGENTS.md） · [案例](2026-07/2026-07-13-krodak-clickup-cli.md)
 
 ### 2026-07-10 (4 篇)
 - [x] slavingia/skills · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，plugin.json skills 字段 3 月仍未修，线性 skill 链极简架构） · [案例](2026-07/2026-07-10-slavingia-skills.md)
@@ -310,8 +316,8 @@
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
 - ~~jnuyens/gsd-plugin · ⭐9~~
 - ~~kangraemin/claude-inspector · ⭐115~~
-- ~~kazukinagata/shinkoku · ⭐335~~
-- ~~krodak/clickup-cli · ⭐57~~
+- ~~kazukinagata/shinkoku · ⭐335~~ ✅ 已完成（2026-07-13，exemplar_published=true）
+- ~~krodak/clickup-cli · ⭐57~~ ✅ 已完成（2026-07-13，exemplar_published=true）
 - ~~leowux/pony · ⭐1~~
 - ~~levnikolaevich/claude-code-skills · ⭐423~~
 

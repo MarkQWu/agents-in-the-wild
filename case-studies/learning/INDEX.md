@@ -194,3 +194,7 @@
 | hashicorp/agent-skills | ⭐702 | 98/100 | xiaolai upstream（SECURITY CLEAR） | 2026-07-08 | [2026-07/2026-07-08-hashicorp-agent-skills.md](2026-07/2026-07-08-hashicorp-agent-skills.md) |
 | trailofbits/skills | ⭐6020 | 95/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-08 | [2026-07/2026-07-08-trailofbits-skills.md](2026-07/2026-07-08-trailofbits-skills.md) |
 | mattpocock/skills | ⭐69816 | 98/100 | xiaolai upstream | 2026-07-08 | [2026-07/2026-07-08-mattpocock-skills.md](2026-07/2026-07-08-mattpocock-skills.md) |
+| czlonkowski/n8n-skills | ⭐N/A | 93/100 | upstream（exemplar: R04/R06/R07/R08，15 skills，新增 hooks 执法层） | 2026-07-13 | [2026-07/2026-07-13-czlonkowski-n8n-skills.md](2026-07/2026-07-13-czlonkowski-n8n-skills.md) |
+| dontbesilent2025/dbskill | ⭐N/A | 90/100 | upstream（exemplar: R04/R05/R07/R08，12→27 skills，dbskill-upgrade HIGH 安全已移除） | 2026-07-13 | [2026-07/2026-07-13-dontbesilent2025-dbskill.md](2026-07/2026-07-13-dontbesilent2025-dbskill.md) |
+| kazukinagata/shinkoku | ⭐335 | 94/100 | upstream（exemplar: R01/R04/R06/R07/R08，日本税务申报，整数公式精度设计） | 2026-07-13 | [2026-07/2026-07-13-kazukinagata-shinkoku.md](2026-07/2026-07-13-kazukinagata-shinkoku.md) |
+| krodak/clickup-cli | ⭐57 | 95/100 | upstream（exemplar: R01/R02/R04/R05/R06/R08，NL 表皮+CLI 核心，30 触发短语） | 2026-07-13 | [2026-07/2026-07-13-krodak-clickup-cli.md](2026-07/2026-07-13-krodak-clickup-cli.md) |
