@@ -2153,3 +2153,4 @@
 {"timestamp":"2026-06-22T11:54:02Z","workflow":"discover","event":"search_complete","run_id":"27950639754","run_number":8,"data":{"candidates":96,"new":26,"worthy":0,"oversized":9}}
 {"timestamp":"2026-06-29T10:58:45Z","workflow":"discover","event":"search_complete","run_id":"28367072349","run_number":9,"data":{"candidates":96,"new":28,"worthy":2,"oversized":9}}
 {"timestamp":"2026-07-06T10:20:21Z","workflow":"discover","event":"search_complete","run_id":"28784511592","run_number":10,"data":{"candidates":96,"new":29,"worthy":2,"oversized":9}}
+{"timestamp":"2026-07-13T09:25:24Z","workflow":"discover","event":"search_complete","run_id":"29238967804","run_number":11,"data":{"candidates":96,"new":31,"worthy":1,"oversized":18}}
