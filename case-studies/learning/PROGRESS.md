@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：171（截至 2026-07-10）
-**<500 星跳过**：68（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例）
-**待处理**：39 个 upstream（≥500 stars 或 exemplar_published；2026-07-10 批次完成 4 个 stars N/A 仓库：slavingia/skills、openai/codex-plugin-cc、xiaolai/codex-toolkit-for-claude、xiaolai/grill-for-claude）
-**最后更新**：2026-07-10
+**已学**：175（截至 2026-07-14）
+**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
+**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
+**最后更新**：2026-07-14
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-14 (4 篇)
+- [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
+- [x] openai/symphony · ⭐25,947 · NLPM 89/100 · upstream（SECURITY CLEAR，commit/SKILL.md 100 分参考实现，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失持续，模糊量词持续；参考实现锚定式架构） · [案例](2026-07/2026-07-14-openai-symphony.md)
+- [x] ccplugins/awesome-claude-code-plugins · ⭐878 · NLPM 78/100 · upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续，97 质量问题持续；共享基础设施聚合式架构） · [案例](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md)
+- [x] agent-sh/agentsys · ⭐892 · NLPM 91/100 · upstream（SECURITY CLEAR，hardcoded /Users/avifen/ paths 已修/删除，prepare script git hooks 已修，12 perf skills 缺 examples 持续；契约驱动平铺扩展式架构） · [案例](2026-07/2026-07-14-agent-sh-agentsys.md)
 
 ### 2026-07-10 (4 篇)
 - [x] slavingia/skills · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，plugin.json skills 字段 3 月仍未修，线性 skill 链极简架构） · [案例](2026-07/2026-07-10-slavingia-skills.md)
@@ -297,11 +303,12 @@
 
 ---
 
-## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 68 个）
+## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 64 个）
+
+> 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。
 
 - ~~LerianStudio/ring · ⭐174~~
 - ~~aaronmaturen/claude-plugin · ⭐1~~
-- ~~agent-sh/agentsys · ⭐N/A~~
 - ~~agent-sh/agnix · ⭐207~~
 - ~~agent-sh/enhance · ⭐3~~
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~

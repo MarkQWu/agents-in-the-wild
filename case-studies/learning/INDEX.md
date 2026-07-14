@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| pbakaus/impeccable | ⭐46,376 | 93/100 | upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md 引用已修，命令计数不一致持续） | 2026-07-14 | [2026-07/2026-07-14-pbakaus-impeccable.md](2026-07/2026-07-14-pbakaus-impeccable.md) |
+| openai/symphony | ⭐25,947 | 89/100 | upstream（SECURITY CLEAR，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失，模糊量词 judgment/brief/minimal/complex 持续） | 2026-07-14 | [2026-07/2026-07-14-openai-symphony.md](2026-07/2026-07-14-openai-symphony.md) |
+| ccplugins/awesome-claude-code-plugins | ⭐878 | 78/100 | upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续） | 2026-07-14 | [2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md) |
+| agent-sh/agentsys | ⭐892 | 91/100 | upstream（SECURITY CLEAR，hardcoded /Users/avifen/ paths 已修/删除，12 perf skills 缺 examples 持续） | 2026-07-14 | [2026-07/2026-07-14-agent-sh-agentsys.md](2026-07/2026-07-14-agent-sh-agentsys.md) |
 | xiaolai/grill-for-claude | ⭐N/A | 97/100 | upstream（SECURITY CLEAR，3 agent 缺 Output Format 未修，版本 drift 持续，新增 codex/ 双运行时支持） | 2026-07-10 | [2026-07/2026-07-10-xiaolai-grill-for-claude.md](2026-07/2026-07-10-xiaolai-grill-for-claude.md) |
 | xiaolai/codex-toolkit-for-claude | ⭐N/A | 96/100 | upstream（SECURITY CLEAR，status.md $ARGUMENTS 已修，系统性无 allowed-tools 持续） | 2026-07-10 | [2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md](2026-07/2026-07-10-xiaolai-codex-toolkit-for-claude.md) |
 | openai/codex-plugin-cc | ⭐N/A | 93/100 | upstream（SECURITY REVIEW→已修，xiaolai案例存在，新增 transfer.md 命令） | 2026-07-10 | [2026-07/2026-07-10-openai-codex-plugin-cc.md](2026-07/2026-07-10-openai-codex-plugin-cc.md) |
