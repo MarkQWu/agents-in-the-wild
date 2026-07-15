@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：175（截至 2026-07-14）
-**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
-**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
-**最后更新**：2026-07-14
+**已学**：179（截至 2026-07-15）
+**<500 星跳过**：61（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池；2026-07-15 将 LerianStudio/ring ⭐174、aaronmaturen/claude-plugin ⭐1、levnikolaevich/claude-code-skills ⭐423 从跳过池移出并生成案例，三者虽 <500 stars 但具有突出教育价值，affaan-m/everything-claude-code ⭐N/A 从待处理池完成）
+**待处理**：34 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-15
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-15 (4 篇)
+- [x] LerianStudio/ring · ⭐174 · NLPM 87/100 · upstream（SECURITY REVIEW，B3文件重命名已修，Q1 0/42 agents 缺model持续；AGENTS.md symlink SSOT架构，Anti-Rationalization表格，Rolling Standards供应链安全警示） · [案例](2026-07/2026-07-15-LerianStudio-ring.md)
+- [x] affaan-m/everything-claude-code · ⭐N/A · NLPM 84/100 · upstream（SECURITY BLOCKED，934→2495文件+167%，94/94命令新增description frontmatter已修，SOUL.md AI人格设计模式） · [案例](2026-07/2026-07-15-affaan-m-everything-claude-code.md)
+- [x] aaronmaturen/claude-plugin · ⭐1 · NLPM 36/100 · upstream（SECURITY REVIEW，26命令仍零frontmatter，系统性模糊量词avg 7+/file，NLPM PR贡献后无改进；反面案例：'written but not written well'差距） · [案例](2026-07/2026-07-15-aaronmaturen-claude-plugin.md)
+- [x] levnikolaevich/claude-code-skills · ⭐423 · NLPM 77/100 · upstream（SECURITY BLOCKED→实质CLEAR，288制品→18 SKILL.md架构重构-94%，Tool Routing Table 4列新模式，README："Modern Claude works better with concise procedural guidance"） · [案例](2026-07/2026-07-15-levnikolaevich-claude-code-skills.md)
 
 ### 2026-07-14 (4 篇)
 - [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
@@ -303,12 +309,9 @@
 
 ---
 
-## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 64 个）
+## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 61 个）
 
-> 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。
-
-- ~~LerianStudio/ring · ⭐174~~
-- ~~aaronmaturen/claude-plugin · ⭐1~~
+> 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。2026-07-15 将 LerianStudio/ring、aaronmaturen/claude-plugin、levnikolaevich/claude-code-skills 从跳过池移出（教育价值酌情处理）。
 - ~~agent-sh/agnix · ⭐207~~
 - ~~agent-sh/enhance · ⭐3~~
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
@@ -320,6 +323,5 @@
 - ~~kazukinagata/shinkoku · ⭐335~~
 - ~~krodak/clickup-cli · ⭐57~~
 - ~~leowux/pony · ⭐1~~
-- ~~levnikolaevich/claude-code-skills · ⭐423~~
 
 ...（其余 53 个同理）

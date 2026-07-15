@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| LerianStudio/ring | ⭐174 | 87/100 | upstream（SECURITY REVIEW，B3文件重命名已修，Q1 0/42 agents 缺 model 持续；AGENTS.md symlink 架构 + Anti-Rationalization 表格 + ZERO PANIC POLICY） | 2026-07-15 | [2026-07/2026-07-15-LerianStudio-ring.md](2026-07/2026-07-15-LerianStudio-ring.md) |
+| affaan-m/everything-claude-code | ⭐N/A | 84/100 | upstream（SECURITY BLOCKED，934→2495 文件 +167%，94/94 命令新增 description frontmatter 已修，SOUL.md AI人格设计模式） | 2026-07-15 | [2026-07/2026-07-15-affaan-m-everything-claude-code.md](2026-07/2026-07-15-affaan-m-everything-claude-code.md) |
+| aaronmaturen/claude-plugin | ⭐1 | 36/100 | upstream（SECURITY REVIEW，26 命令仍零 frontmatter，系统性模糊量词持续，NLPM 贡献 PR 未采纳；反面案例） | 2026-07-15 | [2026-07/2026-07-15-aaronmaturen-claude-plugin.md](2026-07/2026-07-15-aaronmaturen-claude-plugin.md) |
+| levnikolaevich/claude-code-skills | ⭐423 | 77/100 | upstream（SECURITY BLOCKED→实质 CLEAR 无脚本，288 制品→18 SKILL.md 架构重构 -94%，Tool Routing Table 新模式，README: "Modern Claude works better with concise procedural guidance"） | 2026-07-15 | [2026-07/2026-07-15-levnikolaevich-claude-code-skills.md](2026-07/2026-07-15-levnikolaevich-claude-code-skills.md) |
 | pbakaus/impeccable | ⭐46,376 | 93/100 | upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md 引用已修，命令计数不一致持续） | 2026-07-14 | [2026-07/2026-07-14-pbakaus-impeccable.md](2026-07/2026-07-14-pbakaus-impeccable.md) |
 | openai/symphony | ⭐25,947 | 89/100 | upstream（SECURITY CLEAR，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失，模糊量词 judgment/brief/minimal/complex 持续） | 2026-07-14 | [2026-07/2026-07-14-openai-symphony.md](2026-07/2026-07-14-openai-symphony.md) |
 | ccplugins/awesome-claude-code-plugins | ⭐878 | 78/100 | upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续） | 2026-07-14 | [2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md) |
