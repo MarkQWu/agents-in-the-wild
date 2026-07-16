@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：175（截至 2026-07-14）
+**已学**：179（截至 2026-07-16）
 **<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
-**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
-**最后更新**：2026-07-14
+**待处理**：31 个 upstream（exemplar_published；2026-07-16 批次完成 4 个：czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli）
+**最后更新**：2026-07-16
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-16 (4 篇)
+- [x] krodak/clickup-cli · ⭐57 · NLPM 95/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 skills 枚举持续，semver caret 范围持续，name drift 持续；NL 表皮+原生二进制核心架构，DELETE SAFETY 专节值得借鉴） · [案例](2026-07/2026-07-16-krodak-clickup-cli.md)
+- [x] kazukinagata/shinkoku · ⭐335 · NLPM 94/100 · upstream（exemplar_published，SECURITY CLEAR，git install 无版本 pin 持续，4处模糊量词持续，e-tax 1481行超长持续；流程阶段分解+上下文 skill 注入架构） · [案例](2026-07/2026-07-16-kazukinagata-shinkoku.md)
+- [x] dontbesilent2025/dbskill · ⭐N/A · NLPM 90/100 · upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 整体删除，死引用 /文风分析 已修，12→28 skills 重大扩张，单路由+知识原子二层架构） · [案例](2026-07/2026-07-16-dontbesilent2025-dbskill.md)
+- [x] czlonkowski/n8n-skills · ⭐N/A · NLPM 93/100 · upstream（exemplar_published，SECURITY CLEAR，7→15 skills v1.4.0→v1.24.1 大幅扩张，vague quantifier 持续，npm stale 路径持续；领域知识库卫星式架构） · [案例](2026-07/2026-07-16-czlonkowski-n8n-skills.md)
 
 ### 2026-07-14 (4 篇)
 - [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
