@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：175（截至 2026-07-14）
-**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
-**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
-**最后更新**：2026-07-14
+**已学**：179（截至 2026-07-17）
+**<500 星跳过**：62（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池；2026-07-17 将 kazukinagata/shinkoku ⭐335、krodak/clickup-cli ⭐57 移出跳过池——exemplar_published=true 优先于 <500 stars 过滤）
+**待处理**：31 个 upstream（≥500 stars 或 exemplar_published；2026-07-17 批次完成 4 个 exemplar 仓库：czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli）
+**最后更新**：2026-07-17
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-17 (4 篇)
+- [x] czlonkowski/n8n-skills · ⭐N/A · NLPM 93/100 · upstream（exemplar，SECURITY CLEAR，vague quantifiers 持续，版本 1.4.0→1.25.0，9→15 技能，新增元技能 using-n8n-mcp-skills；MCP 数据层 + NL 编排层双层解耦架构） · [案例](2026-07/2026-07-17-czlonkowski-n8n-skills.md)
+- [x] dontbesilent2025/dbskill · ⭐N/A · NLPM 90/100 · upstream（exemplar，SECURITY REVIEW→已修，dbskill-upgrade 整体删除，/文风分析死链已修，vague quantifiers 持续，12→29 技能；路由器 + 专科诊断平铺扩展式架构） · [案例](2026-07/2026-07-17-dontbesilent2025-dbskill.md)
+- [x] kazukinagata/shinkoku · ⭐335 · NLPM 94/100 · upstream（exemplar，SECURITY CLEAR，5 项缺陷全部持续未修，v0.6.5 未变，低频维护状态；领域深度纵向 skill 包 + Python 工具链混合架构） · [案例](2026-07/2026-07-17-kazukinagata-shinkoku.md)
+- [x] krodak/clickup-cli · ⭐57 · NLPM 95/100 · upstream（exemplar，SECURITY CLEAR，plugin.json 无 entries 持续，deps 仍^，v1.25.2→v1.39.0，新增 using-clickup-cli 技能；CLI 工具三层技能拆分架构） · [案例](2026-07/2026-07-17-krodak-clickup-cli.md)
 
 ### 2026-07-14 (4 篇)
 - [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
@@ -303,9 +309,10 @@
 
 ---
 
-## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 64 个）
+## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 62 个）
 
 > 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。
+> 注：2026-07-17 将 kazukinagata/shinkoku（⭐335）、krodak/clickup-cli（⭐57）从跳过池移出——两者 exemplar_published=true，exemplar 优先级高于 <500 stars 过滤条件。
 
 - ~~LerianStudio/ring · ⭐174~~
 - ~~aaronmaturen/claude-plugin · ⭐1~~
@@ -317,8 +324,8 @@
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
 - ~~jnuyens/gsd-plugin · ⭐9~~
 - ~~kangraemin/claude-inspector · ⭐115~~
-- ~~kazukinagata/shinkoku · ⭐335~~
-- ~~krodak/clickup-cli · ⭐57~~
+- ~~kazukinagata/shinkoku · ⭐335~~ → 已移出，exemplar_published=true，已完成 (2026-07-17)
+- ~~krodak/clickup-cli · ⭐57~~ → 已移出，exemplar_published=true，已完成 (2026-07-17)
 - ~~leowux/pony · ⭐1~~
 - ~~levnikolaevich/claude-code-skills · ⭐423~~
 

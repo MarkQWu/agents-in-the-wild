@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| czlonkowski/n8n-skills | ⭐N/A | 93/100 | upstream（exemplar，SECURITY CLEAR，vague quantifiers 持续，版本 1.4.0→1.25.0，9→15 技能，新增元技能 using-n8n-mcp-skills） | 2026-07-17 | [2026-07/2026-07-17-czlonkowski-n8n-skills.md](2026-07/2026-07-17-czlonkowski-n8n-skills.md) |
+| dontbesilent2025/dbskill | ⭐N/A | 90/100 | upstream（exemplar，SECURITY REVIEW→已修，dbskill-upgrade 整体删除，/文风分析死链已修，vague quantifiers 持续，12→29 技能） | 2026-07-17 | [2026-07/2026-07-17-dontbesilent2025-dbskill.md](2026-07/2026-07-17-dontbesilent2025-dbskill.md) |
+| kazukinagata/shinkoku | ⭐335 | 94/100 | upstream（exemplar，SECURITY CLEAR，5 项缺陷全部持续未修，v0.6.5 未变，低频维护状态） | 2026-07-17 | [2026-07/2026-07-17-kazukinagata-shinkoku.md](2026-07/2026-07-17-kazukinagata-shinkoku.md) |
+| krodak/clickup-cli | ⭐57 | 95/100 | upstream（exemplar，SECURITY CLEAR，plugin.json 无 entries 持续，deps 仍^，v1.25.2→v1.39.0，新增 using-clickup-cli 技能） | 2026-07-17 | [2026-07/2026-07-17-krodak-clickup-cli.md](2026-07/2026-07-17-krodak-clickup-cli.md) |
 | pbakaus/impeccable | ⭐46,376 | 93/100 | upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md 引用已修，命令计数不一致持续） | 2026-07-14 | [2026-07/2026-07-14-pbakaus-impeccable.md](2026-07/2026-07-14-pbakaus-impeccable.md) |
 | openai/symphony | ⭐25,947 | 89/100 | upstream（SECURITY CLEAR，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失，模糊量词 judgment/brief/minimal/complex 持续） | 2026-07-14 | [2026-07/2026-07-14-openai-symphony.md](2026-07/2026-07-14-openai-symphony.md) |
 | ccplugins/awesome-claude-code-plugins | ⭐878 | 78/100 | upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续） | 2026-07-14 | [2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md) |
