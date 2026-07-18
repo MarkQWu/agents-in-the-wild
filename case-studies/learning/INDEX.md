@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| affaan-m/everything-claude-code | ⭐N/A（badge 211.9K+） | 84/100 | upstream（SECURITY BLOCKED→v2.0 已修，glm-extract.js 已移除，postinstall 已移除，前端 CI 验证完整）| 2026-07-18 | [2026-07/2026-07-18-affaan-m-everything-claude-code.md](2026-07/2026-07-18-affaan-m-everything-claude-code.md) |
+| agent-sh/agnix | ⭐207 | 64/100 | upstream（SECURITY REVIEW，版本漂移已修→0.40.0，规则数已更新至 437，plugin skill 与 root skill 字段不对等持续）| 2026-07-18 | [2026-07/2026-07-18-agent-sh-agnix.md](2026-07/2026-07-18-agent-sh-agnix.md) |
+| agent-sh/enhance | ⭐3 | 86/100 | upstream（SECURITY CLEAR，版本漂移持续 5.1.0 vs 1.0.0，allowed-tools 缺失持续，agent write-capability gap）| 2026-07-18 | [2026-07/2026-07-18-agent-sh-enhance.md](2026-07/2026-07-18-agent-sh-enhance.md) |
+| aaronmaturen/claude-plugin | ⭐1 | 36/100 | upstream（SECURITY REVIEW，26/26 命令无 frontmatter 持续，MCP pin 未固定持续，裸命令堆叠反模式）| 2026-07-18 | [2026-07/2026-07-18-aaronmaturen-claude-plugin.md](2026-07/2026-07-18-aaronmaturen-claude-plugin.md) |
 | pbakaus/impeccable | ⭐46,376 | 93/100 | upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md 引用已修，命令计数不一致持续） | 2026-07-14 | [2026-07/2026-07-14-pbakaus-impeccable.md](2026-07/2026-07-14-pbakaus-impeccable.md) |
 | openai/symphony | ⭐25,947 | 89/100 | upstream（SECURITY CLEAR，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失，模糊量词 judgment/brief/minimal/complex 持续） | 2026-07-14 | [2026-07/2026-07-14-openai-symphony.md](2026-07/2026-07-14-openai-symphony.md) |
 | ccplugins/awesome-claude-code-plugins | ⭐878 | 78/100 | upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续） | 2026-07-14 | [2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md) |

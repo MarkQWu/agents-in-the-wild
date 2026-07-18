@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：175（截至 2026-07-14）
-**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
-**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
-**最后更新**：2026-07-14
+**已学**：179（截至 2026-07-18）
+**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池；2026-07-18 为 aaronmaturen/claude-plugin⭐1、agent-sh/agnix⭐207、agent-sh/enhance⭐3 生成案例（<500 stars upstream 批次，有学习价值））
+**待处理**：31 个 upstream（≥500 stars 或 exemplar_published；2026-07-18 批次完成 4 个）
+**最后更新**：2026-07-18
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-18 (4 篇)
+- [x] affaan-m/everything-claude-code · ⭐N/A · NLPM 84/100 · upstream（SECURITY BLOCKED→v2.0 已修，glm-extract.js 移除，postinstall 移除；CI 供应链扫描；平台级 NL 生态架构）· [案例](2026-07/2026-07-18-affaan-m-everything-claude-code.md)
+- [x] agent-sh/agnix · ⭐207 · NLPM 64/100（测试夹具占~80%）· upstream（SECURITY REVIEW，version drift 已修→v0.40.0，rule 计数已修→437，allowed-tools split 持续；NL 表皮+Rust 原生二进制核心架构）· [案例](2026-07/2026-07-18-agent-sh-agnix.md)
+- [x] agent-sh/enhance · ⭐3 · NLPM 86/100 · upstream（SECURITY CLEAR，version drift 持续 5.1.0 vs 1.0.0，allowed-tools 持续缺失，agent write-capability gap 持续；1 command+N agents+N skills 架构）· [案例](2026-07/2026-07-18-agent-sh-enhance.md)
+- [x] aaronmaturen/claude-plugin · ⭐1 · NLPM 36/100 · upstream（SECURITY REVIEW，26/26 命令无 frontmatter 持续，MCP unpinned 持续；manifest-discipline 反例）· [案例](2026-07/2026-07-18-aaronmaturen-claude-plugin.md)
 
 ### 2026-07-14 (4 篇)
 - [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
@@ -306,11 +312,12 @@
 ## ⏭️ 永久跳过（<500 stars 或 registry 无记录，共 64 个）
 
 > 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。
+> 注：2026-07-18 为 aaronmaturen/claude-plugin（⭐1）、agent-sh/agnix（⭐207）、agent-sh/enhance（⭐3）生成了案例（upstream 批次，<500 stars 但有学习价值，已移至 已完成）。
 
 - ~~LerianStudio/ring · ⭐174~~
-- ~~aaronmaturen/claude-plugin · ⭐1~~
-- ~~agent-sh/agnix · ⭐207~~
-- ~~agent-sh/enhance · ⭐3~~
+- ~~aaronmaturen/claude-plugin · ⭐1~~ → ✅ 已完成 (2026-07-18)
+- ~~agent-sh/agnix · ⭐207~~ → ✅ 已完成 (2026-07-18)
+- ~~agent-sh/enhance · ⭐3~~ → ✅ 已完成 (2026-07-18)
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
 - ~~alirezarezvani/claude-skills · ⭐N/A~~
 - ~~c0x12c/ai-toolkit · ⭐61~~
