@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：175（截至 2026-07-14）
-**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
-**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
-**最后更新**：2026-07-14
+**已学**：179（截至 2026-07-19）
+**<500 星跳过**：60（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛）
+**待处理**：31 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-19
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-19 (4 篇)
+- [x] krodak/clickup-cli · ⭐57 · NLPM 95/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源；版本 v1.25.2→v1.39.0） · [案例](2026-07/2026-07-19-krodak-clickup-cli.md)
+- [x] kazukinagata/shinkoku · ⭐335 · NLPM 94/100 · upstream（exemplar_published，SECURITY CLEAR，setup/SKILL.md @version 缺失持续，NL 协调+Python CLI 混合架构；新增 SECURITY.md + PR 模板） · [案例](2026-07/2026-07-19-kazukinagata-shinkoku.md)
+- [x] dontbesilent2025/dbskill · ⭐0 · NLPM 90/100 · upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 删除+/文风分析 引用已修，三模路由+技能链架构；29 skills 已大幅扩张） · [案例](2026-07/2026-07-19-dontbesilent2025-dbskill.md)
+- [x] czlonkowski/n8n-skills · ⭐null · NLPM 93/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，模糊量词持续；三层架构 MCP+skill+hook；15 skills 扩张+evaluations/） · [案例](2026-07/2026-07-19-czlonkowski-n8n-skills.md)
 
 ### 2026-07-14 (4 篇)
 - [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
@@ -317,8 +323,8 @@
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
 - ~~jnuyens/gsd-plugin · ⭐9~~
 - ~~kangraemin/claude-inspector · ⭐115~~
-- ~~kazukinagata/shinkoku · ⭐335~~
-- ~~krodak/clickup-cli · ⭐57~~
+- ~~kazukinagata/shinkoku · ⭐335~~ → 已完成（2026-07-19，exemplar_published=true）
+- ~~krodak/clickup-cli · ⭐57~~ → 已完成（2026-07-19，exemplar_published=true）
 - ~~leowux/pony · ⭐1~~
 - ~~levnikolaevich/claude-code-skills · ⭐423~~
 

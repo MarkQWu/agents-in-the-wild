@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| krodak/clickup-cli | ⭐57 | 95/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源架构） | 2026-07-19 | [2026-07/2026-07-19-krodak-clickup-cli.md](2026-07/2026-07-19-krodak-clickup-cli.md) |
+| kazukinagata/shinkoku | ⭐335 | 94/100 | upstream（exemplar_published，SECURITY CLEAR，setup/SKILL.md @version 固定缺失持续，NL 协调+Python CLI 混合架构） | 2026-07-19 | [2026-07/2026-07-19-kazukinagata-shinkoku.md](2026-07/2026-07-19-kazukinagata-shinkoku.md) |
+| dontbesilent2025/dbskill | ⭐0 | 90/100 | upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 删除已修，/文风分析 引用已修，三模路由+技能链架构） | 2026-07-19 | [2026-07/2026-07-19-dontbesilent2025-dbskill.md](2026-07/2026-07-19-dontbesilent2025-dbskill.md) |
+| czlonkowski/n8n-skills | ⭐null | 93/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，模糊量词持续，三层架构：MCP数据+技能引导+钩子强制） | 2026-07-19 | [2026-07/2026-07-19-czlonkowski-n8n-skills.md](2026-07/2026-07-19-czlonkowski-n8n-skills.md) |
 | pbakaus/impeccable | ⭐46,376 | 93/100 | upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md 引用已修，命令计数不一致持续） | 2026-07-14 | [2026-07/2026-07-14-pbakaus-impeccable.md](2026-07/2026-07-14-pbakaus-impeccable.md) |
 | openai/symphony | ⭐25,947 | 89/100 | upstream（SECURITY CLEAR，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失，模糊量词 judgment/brief/minimal/complex 持续） | 2026-07-14 | [2026-07/2026-07-14-openai-symphony.md](2026-07/2026-07-14-openai-symphony.md) |
 | ccplugins/awesome-claude-code-plugins | ⭐878 | 78/100 | upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续） | 2026-07-14 | [2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md) |
