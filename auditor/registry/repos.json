@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 210,
+    "total_discovered": 213,
     "total_contributed": 6,
-    "last_discovery": "2026-07-13T09:25:21Z",
+    "last_discovery": "2026-07-20T08:57:06Z",
     "total_audited": 12
   },
   "repos": {
@@ -7875,6 +7875,36 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 24,
+      "prs": []
+    },
+    "KKKKhazix/khazix-skills": {
+      "discovered": "2026-07-20T08:57:06Z",
+      "stars": 17465,
+      "artifacts": 5,
+      "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: neat-freak 洁癖 (docs/memory closeout), hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 29,
+      "prs": []
+    },
+    "gemini-cli-extensions/conductor": {
+      "discovered": "2026-07-20T08:57:06Z",
+      "stars": 3657,
+      "artifacts": 6,
+      "description": "A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 30,
+      "prs": []
+    },
+    "laolaoshiren/claude-code-skills-zh": {
+      "discovered": "2026-07-20T08:57:06Z",
+      "stars": 655,
+      "artifacts": 20,
+      "description": "面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 31,
       "prs": []
     }
   }
