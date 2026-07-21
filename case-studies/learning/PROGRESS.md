@@ -1,14 +1,26 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：175（截至 2026-07-14）
-**<500 星跳过**：64（注：0xmariowu/Autosearch 等低星仓库在 upstream 池中，已生成案例；SukinShetty/Nemp-memory、Xquik-dev/x-twitter-scraper 因 exemplar_published=true 加入案例；2026-07-14 将 4 个 registry null-star 仓库重新核验：pbakaus/impeccable ⭐46376、openai/symphony ⭐25947、agent-sh/agentsys ⭐892、ccplugins/awesome-claude-code-plugins ⭐878，均≥500，移出跳过池）
-**待处理**：35 个 upstream（≥500 stars 或 exemplar_published；2026-07-14 批次完成 4 个 registry null-star 仓库实际有效：pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins）
-**最后更新**：2026-07-14
+**已学**：183（截至 2026-07-21）
+**<500 星跳过**：60（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出，同样原因）
+**待处理**：27 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-21
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-21 (4 篇)
+- [x] shinpr/claude-code-workflows · ⭐320 · NLPM 91/100 · upstream（exemplar_published，SECURITY CLEAR，24 agents 无 model 声明持续，technical-designer Grep bug 持续，架构重组：扁平→4个子包 monorepo，recipe-agent 二层编排架构） · [案例](2026-07/2026-07-21-shinpr-claude-code-workflows.md)
+- [x] tech-leads-club/agent-skills · ⭐N/A · NLPM 93/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 version 字段持续，模糊量词系统性问题持续，78→84 skills，MCP 分发层，域分桶大型 skill 目录架构） · [案例](2026-07/2026-07-21-tech-leads-club-agent-skills.md)
+- [x] leowux/pony · ⭐1 · NLPM 91/100 · upstream（exemplar_published，SECURITY CLEAR，run.md Agent 工具未声明 bug 持续，4 agents 零示例持续，.orphaned_at 标记已废弃，NL表皮+原生二进制核心架构） · [案例](2026-07/2026-07-21-leowux-pony.md)
+- [x] pe-menezes/fin-claude-plugin · ⭐0 · NLPM 94/100 · upstream（exemplar_published，SECURITY CLEAR，零示例+无 model 声明持续，.mcp.json 版本未固定持续，1 agent+6 skills 财务编排架构，v0.5.0 新增 marketplace.json） · [案例](2026-07/2026-07-21-pe-menezes-fin-claude-plugin.md)
+
+### 2026-07-19 (4 篇)
+- [x] krodak/clickup-cli · ⭐57 · NLPM 95/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源；版本 v1.25.2→v1.39.0） · [案例](2026-07/2026-07-19-krodak-clickup-cli.md)
+- [x] kazukinagata/shinkoku · ⭐335 · NLPM 94/100 · upstream（exemplar_published，SECURITY CLEAR，setup/SKILL.md @version 缺失持续，NL 协调+Python CLI 混合架构；新增 SECURITY.md + PR 模板） · [案例](2026-07/2026-07-19-kazukinagata-shinkoku.md)
+- [x] dontbesilent2025/dbskill · ⭐0 · NLPM 90/100 · upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 删除+/文风分析 引用已修，三模路由+技能链架构；29 skills 已大幅扩张） · [案例](2026-07/2026-07-19-dontbesilent2025-dbskill.md)
+- [x] czlonkowski/n8n-skills · ⭐null · NLPM 93/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，模糊量词持续；三层架构 MCP+skill+hook；15 skills 扩张+evaluations/） · [案例](2026-07/2026-07-19-czlonkowski-n8n-skills.md)
 
 ### 2026-07-14 (4 篇)
 - [x] pbakaus/impeccable · ⭐46,376 · NLPM 93/100 · upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md evals/AGENT.md 引用已修，命令计数不一致持续；NL表皮+原生代码核心架构） · [案例](2026-07/2026-07-14-pbakaus-impeccable.md)
@@ -317,8 +329,8 @@
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
 - ~~jnuyens/gsd-plugin · ⭐9~~
 - ~~kangraemin/claude-inspector · ⭐115~~
-- ~~kazukinagata/shinkoku · ⭐335~~
-- ~~krodak/clickup-cli · ⭐57~~
+- ~~kazukinagata/shinkoku · ⭐335~~ → 已完成（2026-07-19，exemplar_published=true）
+- ~~krodak/clickup-cli · ⭐57~~ → 已完成（2026-07-19，exemplar_published=true）
 - ~~leowux/pony · ⭐1~~
 - ~~levnikolaevich/claude-code-skills · ⭐423~~
 

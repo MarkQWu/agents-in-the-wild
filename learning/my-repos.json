@@ -7,7 +7,7 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-07-13",
+  "last_refreshed": "2026-07-20",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
@@ -89,17 +89,6 @@
       "url": "https://github.com/MarkQWu/drama-workshop-skills",
       "priority": "medium",
       "has_nl_artifacts": false
-    },
-    {
-      "description": null,
-      "full_name": "MarkQWu/shiji-kb",
-      "language": null,
-      "private": false,
-      "pushed_at": "2026-05-14T15:30:27Z",
-      "stars": 0,
-      "url": "https://github.com/MarkQWu/shiji-kb",
-      "priority": "medium",
-      "has_nl_artifacts": true
     }
   ]
 }

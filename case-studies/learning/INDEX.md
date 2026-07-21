@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| krodak/clickup-cli | ⭐57 | 95/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源架构） | 2026-07-19 | [2026-07/2026-07-19-krodak-clickup-cli.md](2026-07/2026-07-19-krodak-clickup-cli.md) |
+| kazukinagata/shinkoku | ⭐335 | 94/100 | upstream（exemplar_published，SECURITY CLEAR，setup/SKILL.md @version 固定缺失持续，NL 协调+Python CLI 混合架构） | 2026-07-19 | [2026-07/2026-07-19-kazukinagata-shinkoku.md](2026-07/2026-07-19-kazukinagata-shinkoku.md) |
+| dontbesilent2025/dbskill | ⭐0 | 90/100 | upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 删除已修，/文风分析 引用已修，三模路由+技能链架构） | 2026-07-19 | [2026-07/2026-07-19-dontbesilent2025-dbskill.md](2026-07/2026-07-19-dontbesilent2025-dbskill.md) |
+| czlonkowski/n8n-skills | ⭐null | 93/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，模糊量词持续，三层架构：MCP数据+技能引导+钩子强制） | 2026-07-19 | [2026-07/2026-07-19-czlonkowski-n8n-skills.md](2026-07/2026-07-19-czlonkowski-n8n-skills.md) |
 | pbakaus/impeccable | ⭐46,376 | 93/100 | upstream（SECURITY REVIEW→已修，new Function() 已修，stale CLAUDE.md 引用已修，命令计数不一致持续） | 2026-07-14 | [2026-07/2026-07-14-pbakaus-impeccable.md](2026-07/2026-07-14-pbakaus-impeccable.md) |
 | openai/symphony | ⭐25,947 | 89/100 | upstream（SECURITY CLEAR，5 skills 缺 ## Output 持续，AGENTS.md path 前缀缺失，模糊量词 judgment/brief/minimal/complex 持续） | 2026-07-14 | [2026-07/2026-07-14-openai-symphony.md](2026-07/2026-07-14-openai-symphony.md) |
 | ccplugins/awesome-claude-code-plugins | ⭐878 | 78/100 | upstream（SECURITY CLEAR，10 个命名错误 bug 持续，~30 truncated description 持续，agent-in-wrong-dir 持续） | 2026-07-14 | [2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md](2026-07/2026-07-14-ccplugins-awesome-claude-code-plugins.md) |
@@ -198,3 +202,7 @@
 | hashicorp/agent-skills | ⭐702 | 98/100 | xiaolai upstream（SECURITY CLEAR） | 2026-07-08 | [2026-07/2026-07-08-hashicorp-agent-skills.md](2026-07/2026-07-08-hashicorp-agent-skills.md) |
 | trailofbits/skills | ⭐6020 | 95/100 | xiaolai upstream（SECURITY BLOCKED） | 2026-07-08 | [2026-07/2026-07-08-trailofbits-skills.md](2026-07/2026-07-08-trailofbits-skills.md) |
 | mattpocock/skills | ⭐69816 | 98/100 | xiaolai upstream | 2026-07-08 | [2026-07/2026-07-08-mattpocock-skills.md](2026-07/2026-07-08-mattpocock-skills.md) |
+| pe-menezes/fin-claude-plugin | ⭐0（exemplar_published） | 94/100 | upstream（exemplar_published，SECURITY CLEAR，零示例+无 model 声明持续，.mcp.json 版本未固定持续，1 agent+6 skills 财务编排架构，v0.5.0 新增 marketplace.json） | 2026-07-21 | [2026-07/2026-07-21-pe-menezes-fin-claude-plugin.md](2026-07/2026-07-21-pe-menezes-fin-claude-plugin.md) |
+| leowux/pony | ⭐1（exemplar_published） | 91/100 | upstream（exemplar_published，SECURITY CLEAR，run.md Agent 工具未声明 bug 持续，4 agents 零示例持续，.orphaned_at 标记已废弃，NL表皮+原生二进制核心架构） | 2026-07-21 | [2026-07/2026-07-21-leowux-pony.md](2026-07/2026-07-21-leowux-pony.md) |
+| tech-leads-club/agent-skills | ⭐N/A（exemplar_published） | 93/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 version 字段持续，模糊量词系统性问题持续，78→84 skills，MCP 分发层，域分桶大型 skill 目录架构） | 2026-07-21 | [2026-07/2026-07-21-tech-leads-club-agent-skills.md](2026-07/2026-07-21-tech-leads-club-agent-skills.md) |
+| shinpr/claude-code-workflows | ⭐320（exemplar_published） | 91/100 | upstream（exemplar_published，SECURITY CLEAR，24 agents 无 model 声明持续，technical-designer Grep bug 持续，架构重组：扁平→4个子包 monorepo，recipe-agent 二层编排架构） | 2026-07-21 | [2026-07/2026-07-21-shinpr-claude-code-workflows.md](2026-07/2026-07-21-shinpr-claude-code-workflows.md) |
