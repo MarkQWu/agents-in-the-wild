@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：179（截至 2026-07-19）
-**<500 星跳过**：60（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛）
-**待处理**：31 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-19
+**已学**：183（截至 2026-07-21）
+**<500 星跳过**：60（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出，同样原因）
+**待处理**：27 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-21
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-21 (4 篇)
+- [x] shinpr/claude-code-workflows · ⭐320 · NLPM 91/100 · upstream（exemplar_published，SECURITY CLEAR，24 agents 无 model 声明持续，technical-designer Grep bug 持续，架构重组：扁平→4个子包 monorepo，recipe-agent 二层编排架构） · [案例](2026-07/2026-07-21-shinpr-claude-code-workflows.md)
+- [x] tech-leads-club/agent-skills · ⭐N/A · NLPM 93/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 version 字段持续，模糊量词系统性问题持续，78→84 skills，MCP 分发层，域分桶大型 skill 目录架构） · [案例](2026-07/2026-07-21-tech-leads-club-agent-skills.md)
+- [x] leowux/pony · ⭐1 · NLPM 91/100 · upstream（exemplar_published，SECURITY CLEAR，run.md Agent 工具未声明 bug 持续，4 agents 零示例持续，.orphaned_at 标记已废弃，NL表皮+原生二进制核心架构） · [案例](2026-07/2026-07-21-leowux-pony.md)
+- [x] pe-menezes/fin-claude-plugin · ⭐0 · NLPM 94/100 · upstream（exemplar_published，SECURITY CLEAR，零示例+无 model 声明持续，.mcp.json 版本未固定持续，1 agent+6 skills 财务编排架构，v0.5.0 新增 marketplace.json） · [案例](2026-07/2026-07-21-pe-menezes-fin-claude-plugin.md)
 
 ### 2026-07-19 (4 篇)
 - [x] krodak/clickup-cli · ⭐57 · NLPM 95/100 · upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源；版本 v1.25.2→v1.39.0） · [案例](2026-07/2026-07-19-krodak-clickup-cli.md)
