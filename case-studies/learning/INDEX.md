@@ -16,6 +16,9 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| vladikk/modularity | ⭐337 | 98/100 | upstream（exemplar_published，SECURITY CLEAR，零 bug，3 个措辞质量问题全部持续，公开入口+私有知识注入架构） | 2026-07-22 | [2026-07/2026-07-22-vladikk-modularity.md](2026-07/2026-07-22-vladikk-modularity.md) |
+| uppinote20/claude-dashboard | ⭐404 | 99/100 | upstream（exemplar_published，SECURITY REVIEW→High/$ARGUMENTS 注入持续，CLAUDE.md 结构树缺 2 命令持续，v1.30.0 多 CLI 监控） | 2026-07-22 | [2026-07/2026-07-22-uppinote20-claude-dashboard.md](2026-07/2026-07-22-uppinote20-claude-dashboard.md) |
+| ooiyeefei/ccc | ⭐405 | 96/100 | upstream（exemplar_published，SECURITY CLEAR，deckling-pptx 已修，版本漂移+pm:review 持续，21 skills 大幅扩张） | 2026-07-22 | [2026-07/2026-07-22-ooiyeefei-ccc.md](2026-07/2026-07-22-ooiyeefei-ccc.md) |
 | krodak/clickup-cli | ⭐57 | 95/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源架构） | 2026-07-19 | [2026-07/2026-07-19-krodak-clickup-cli.md](2026-07/2026-07-19-krodak-clickup-cli.md) |
 | kazukinagata/shinkoku | ⭐335 | 94/100 | upstream（exemplar_published，SECURITY CLEAR，setup/SKILL.md @version 固定缺失持续，NL 协调+Python CLI 混合架构） | 2026-07-19 | [2026-07/2026-07-19-kazukinagata-shinkoku.md](2026-07/2026-07-19-kazukinagata-shinkoku.md) |
 | dontbesilent2025/dbskill | ⭐0 | 90/100 | upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 删除已修，/文风分析 引用已修，三模路由+技能链架构） | 2026-07-19 | [2026-07/2026-07-19-dontbesilent2025-dbskill.md](2026-07/2026-07-19-dontbesilent2025-dbskill.md) |
