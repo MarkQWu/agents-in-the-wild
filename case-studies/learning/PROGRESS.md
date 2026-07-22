@@ -1,14 +1,21 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：183（截至 2026-07-21）
-**<500 星跳过**：60（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出，同样原因）
-**待处理**：27 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-21
+**已学**：186（截至 2026-07-22）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出，同样原因；2026-07-22 将 ooiyeefei/ccc、uppinote20/claude-dashboard、vladikk/modularity 从跳过池移出，同样原因）
+**待处理**：0 个 upstream（≥500 stars 或 exemplar_published 全部已处理）
+**剩余永久跳过**：20 个 upstream（<500 stars 且无 exemplar_published）
+**预计完成日**：全部 exemplar_published 已处理；新案例待新 audit 或 exemplar 产出
+**最后更新**：2026-07-22
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-22 (3 篇)
+- [x] vladikk/modularity · ⭐337 · NLPM 98/100 · upstream（exemplar_published，SECURITY CLEAR，零 bug，3 措辞质量问题全持续，公开入口+私有知识注入模式，v1.5.0 stable） · [案例](2026-07/2026-07-22-vladikk-modularity.md)
+- [x] uppinote20/claude-dashboard · ⭐404 · NLPM 99/100 · upstream（exemplar_published，SECURITY REVIEW→High $ARGUMENTS 注入持续，CLAUDE.md 结构漂移持续，v1.30.0 多 CLI 监控） · [案例](2026-07/2026-07-22-uppinote20-claude-dashboard.md)
+- [x] ooiyeefei/ccc · ⭐405 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，deckling-pptx 已修，版本漂移+pm:review 持续，21 skills 扩张+references 子目录标准化） · [案例](2026-07/2026-07-22-ooiyeefei-ccc.md)
 
 ### 2026-07-21 (4 篇)
 - [x] shinpr/claude-code-workflows · ⭐320 · NLPM 91/100 · upstream（exemplar_published，SECURITY CLEAR，24 agents 无 model 声明持续，technical-designer Grep bug 持续，架构重组：扁平→4个子包 monorepo，recipe-agent 二层编排架构） · [案例](2026-07/2026-07-21-shinpr-claude-code-workflows.md)
