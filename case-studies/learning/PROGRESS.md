@@ -1,14 +1,19 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：183（截至 2026-07-21）
-**<500 星跳过**：60（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出，同样原因）
-**待处理**：27 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-21
+**已学**：186（截至 2026-07-23）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因）
+**待处理**：24 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-23
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-23 (3 篇)
+- [x] ooiyeefei/ccc · ⭐405 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，Bug #1 deckling-pptx 已修复，/pm:review 缺失+streak allowed-tools 缺失持续，skills 扩展至 18+references 子目录全面落地） · [案例](2026-07/2026-07-23-ooiyeefei-ccc.md)
+- [x] uppinote20/claude-dashboard · ⭐404 · NLPM 99/100 · upstream（exemplar_published，SECURITY REVIEW，$ARGUMENTS 注入漏洞持续，CLAUDE.md 结构树遗漏 2 个命令持续，Widget 扩展至 30+） · [案例](2026-07/2026-07-23-uppinote20-claude-dashboard.md)
+- [x] vladikk/modularity · ⭐337 · NLPM 98/100 · upstream（exemplar_published，SECURITY CLEAR，无 bug，model: 声明缺失+模糊量词持续，参考注入架构，4 skills 无架构变化） · [案例](2026-07/2026-07-23-vladikk-modularity.md)
 
 ### 2026-07-21 (4 篇)
 - [x] shinpr/claude-code-workflows · ⭐320 · NLPM 91/100 · upstream（exemplar_published，SECURITY CLEAR，24 agents 无 model 声明持续，technical-designer Grep bug 持续，架构重组：扁平→4个子包 monorepo，recipe-agent 二层编排架构） · [案例](2026-07/2026-07-21-shinpr-claude-code-workflows.md)

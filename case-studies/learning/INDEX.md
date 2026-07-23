@@ -16,6 +16,9 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| ooiyeefei/ccc | ⭐405（exemplar_published） | 96/100 | upstream（exemplar_published，SECURITY CLEAR，Bug #1 deckling-pptx 已修复，/pm:review 缺失持续，streak 命令 allowed-tools 缺失持续，skills 扩展至 18 个+references 子目录全面落地） | 2026-07-23 | [2026-07/2026-07-23-ooiyeefei-ccc.md](2026-07/2026-07-23-ooiyeefei-ccc.md) |
+| uppinote20/claude-dashboard | ⭐404（exemplar_published） | 99/100 | upstream（exemplar_published，SECURITY REVIEW，$ARGUMENTS 注入漏洞持续，CLAUDE.md 结构树遗漏 2 个命令持续，Widget 扩展至 30+，双语文档网站新增） | 2026-07-23 | [2026-07/2026-07-23-uppinote20-claude-dashboard.md](2026-07/2026-07-23-uppinote20-claude-dashboard.md) |
+| vladikk/modularity | ⭐337（exemplar_published） | 98/100 | upstream（exemplar_published，SECURITY CLEAR，无 bug，model: 声明缺失持续，模糊量词持续，参考注入架构+布尔公式压缩领域规则） | 2026-07-23 | [2026-07/2026-07-23-vladikk-modularity.md](2026-07/2026-07-23-vladikk-modularity.md) |
 | krodak/clickup-cli | ⭐57 | 95/100 | upstream（exemplar_published，SECURITY CLEAR，plugin.json 缺 entries 持续，内外 skill 分层+符号链接单一真实来源架构） | 2026-07-19 | [2026-07/2026-07-19-krodak-clickup-cli.md](2026-07/2026-07-19-krodak-clickup-cli.md) |
 | kazukinagata/shinkoku | ⭐335 | 94/100 | upstream（exemplar_published，SECURITY CLEAR，setup/SKILL.md @version 固定缺失持续，NL 协调+Python CLI 混合架构） | 2026-07-19 | [2026-07/2026-07-19-kazukinagata-shinkoku.md](2026-07/2026-07-19-kazukinagata-shinkoku.md) |
 | dontbesilent2025/dbskill | ⭐0 | 90/100 | upstream（exemplar_published，SECURITY REVIEW→dbskill-upgrade 删除已修，/文风分析 引用已修，三模路由+技能链架构） | 2026-07-19 | [2026-07/2026-07-19-dontbesilent2025-dbskill.md](2026-07/2026-07-19-dontbesilent2025-dbskill.md) |
