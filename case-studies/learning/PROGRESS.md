@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：186（截至 2026-07-23）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因）
-**待处理**：24 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-23
+**已学**：190（截至 2026-07-24）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽）
+**待处理**：20 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-24
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-24 (4 篇)
+- [x] memvid/claude-brain · ⭐465 · NLPM 96/100 · upstream（SECURITY BLOCKED，HIGH shell injection，全部 3 bug 持续，hooks 生命周期架构，NL 表皮+JS 核心模式） · [案例](2026-07/2026-07-24-memvid-claude-brain.md)
+- [x] levnikolaevich/claude-code-skills · ⭐423 · NLPM 77/100 · upstream（SECURITY BLOCKED，CRITICAL eval，288→21 MD 架构大重组，skills-catalog 全删，独立插件套件演进） · [案例](2026-07/2026-07-24-levnikolaevich-claude-code-skills.md)
+- [x] josstei/maestro-orchestrate · ⭐370 · NLPM 87/100 · upstream（SECURITY BLOCKED，prepare 已修，Output Contract 模糊词扩散，25 存根 score 75，多运行时适配器架构） · [案例](2026-07/2026-07-24-josstei-maestro-orchestrate.md)
+- [x] peterfei/ai-agent-team · ⭐336 · NLPM 82/100 · upstream（SECURITY BLOCKED，CRITICAL curl|bash+HIGH SQL注入，3 bug 全持续，v2.1.0 新增 fullstack，中文量词问题） · [案例](2026-07/2026-07-24-peterfei-ai-agent-team.md)
 
 ### 2026-07-23 (3 篇)
 - [x] ooiyeefei/ccc · ⭐405 · NLPM 96/100 · upstream（exemplar_published，SECURITY CLEAR，Bug #1 deckling-pptx 已修复，/pm:review 缺失+streak allowed-tools 缺失持续，skills 扩展至 18+references 子目录全面落地） · [案例](2026-07/2026-07-23-ooiyeefei-ccc.md)
@@ -314,7 +320,7 @@
 - [ ] vstorm-co/pydantic-deepagents · ✅ 已完成 (2026-07-04)
 - [ ] zhsama/claude-sub-agent · ⭐576 · upstream
 - [ ] wecode-ai/Wegent · ⭐521 · upstream
-- [ ] josstei/maestro-orchestrate · ⭐370 · upstream（<500，低优先）
+- [x] josstei/maestro-orchestrate · ⭐370 · ✅ 已完成 (2026-07-24)
 
 ...（其余 48 个 <500 stars 或 N/A，视情况处理）
 
@@ -337,6 +343,6 @@
 - ~~kazukinagata/shinkoku · ⭐335~~ → 已完成（2026-07-19，exemplar_published=true）
 - ~~krodak/clickup-cli · ⭐57~~ → 已完成（2026-07-19，exemplar_published=true）
 - ~~leowux/pony · ⭐1~~
-- ~~levnikolaevich/claude-code-skills · ⭐423~~
+- ~~levnikolaevich/claude-code-skills · ⭐423~~ → 已完成（2026-07-24，<500 但≥500池耗尽后最接近门槛）
 
 ...（其余 53 个同理）
