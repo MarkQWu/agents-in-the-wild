@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| mbruhler/claude-orchestration | ⭐215 | 82/100 | upstream（SECURITY CLEAR，Write 工具未声明+文档死链持续，命名空间 ring: 风格已加，安全审计员新 agent 已加，hardcoded 路径已修） | 2026-07-25 | [2026-07/2026-07-25-mbruhler-claude-orchestration.md](2026-07/2026-07-25-mbruhler-claude-orchestration.md) |
+| agent-sh/agnix | ⭐207 | 64/100 | upstream（SECURITY REVIEW，curl\|bash 系测试夹具误判；ALL 5 production bugs 已全修；v0.40.0 增至 437 rules；NL 表皮+原生二进制核心架构） | 2026-07-25 | [2026-07/2026-07-25-agent-sh-agnix.md](2026-07/2026-07-25-agent-sh-agnix.md) |
+| webdevtodayjason/sub-agents | ⭐189 | 78/100 | upstream（SECURITY REVIEW→shell:true 已修，name: 已修，model: 已修，Bash tool 已修；新增 ElevenLabs MCP 语音通知；v1.5.5） | 2026-07-25 | [2026-07/2026-07-25-webdevtodayjason-sub-agents.md](2026-07/2026-07-25-webdevtodayjason-sub-agents.md) |
+| LerianStudio/ring | ⭐174 | 87/100 | upstream（SECURITY APPROVE WITH REQUIRED FIXES，PyYAML 未固定持续，model: 100% 缺失持续；.archive/ 整个删除；法典驱动多团队评审委员会架构；CLAUDE.md 93/100 范例） | 2026-07-25 | [2026-07/2026-07-25-LerianStudio-ring.md](2026-07/2026-07-25-LerianStudio-ring.md) |
 | ooiyeefei/ccc | ⭐405（exemplar_published） | 96/100 | upstream（exemplar_published，SECURITY CLEAR，Bug #1 deckling-pptx 已修复，/pm:review 缺失持续，streak 命令 allowed-tools 缺失持续，skills 扩展至 18 个+references 子目录全面落地） | 2026-07-23 | [2026-07/2026-07-23-ooiyeefei-ccc.md](2026-07/2026-07-23-ooiyeefei-ccc.md) |
 | uppinote20/claude-dashboard | ⭐404（exemplar_published） | 99/100 | upstream（exemplar_published，SECURITY REVIEW，$ARGUMENTS 注入漏洞持续，CLAUDE.md 结构树遗漏 2 个命令持续，Widget 扩展至 30+，双语文档网站新增） | 2026-07-23 | [2026-07/2026-07-23-uppinote20-claude-dashboard.md](2026-07/2026-07-23-uppinote20-claude-dashboard.md) |
 | vladikk/modularity | ⭐337（exemplar_published） | 98/100 | upstream（exemplar_published，SECURITY CLEAR，无 bug，model: 声明缺失持续，模糊量词持续，参考注入架构+布尔公式压缩领域规则） | 2026-07-23 | [2026-07/2026-07-23-vladikk-modularity.md](2026-07/2026-07-23-vladikk-modularity.md) |

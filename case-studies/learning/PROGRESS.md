@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：190（截至 2026-07-24）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽）
-**待处理**：20 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-24
+**已学**：194（截至 2026-07-25）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上，≥500 池持续耗尽）
+**待处理**：16 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-25
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-25 (4 篇)
+- [x] mbruhler/claude-orchestration · ⭐215 · NLPM 82/100 · upstream（SECURITY CLEAR，Write 工具未声明+文档死链+examples/ 目录 3 个 bug 持续，namespace 已加，hardcoded 路径已修，security-auditor 新 agent 已加；Socratic 工作流架构） · [案例](2026-07/2026-07-25-mbruhler-claude-orchestration.md)
+- [x] agent-sh/agnix · ⭐207 · NLPM 64/100 · upstream（SECURITY REVIEW→curl|bash 系夹具误判，ALL 5 production bugs 已全修，v0.40.0 增至 437 rules，Neovim/Zed 编辑器支持新增；NL 表皮+原生二进制核心架构） · [案例](2026-07/2026-07-25-agent-sh-agnix.md)
+- [x] webdevtodayjason/sub-agents · ⭐189 · NLPM 78/100 · upstream（SECURITY REVIEW→shell:true 已修，name:/model:/Bash 已全修，ElevenLabs MCP 语音通知新增，work-completion-summary agent 新增；v1.5.5 命令路由+岗位专家分层架构） · [案例](2026-07/2026-07-25-webdevtodayjason-sub-agents.md)
+- [x] LerianStudio/ring · ⭐174 · NLPM 87/100 · upstream（SECURITY APPROVE WITH REQUIRED FIXES→PyYAML 未固定+model: 100% 缺失持续；.archive/ 整个删除；CLAUDE.md 法典 93/100；法典驱动多团队评审委员会+反理性化表架构） · [案例](2026-07/2026-07-25-LerianStudio-ring.md)
 
 ### 2026-07-24 (4 篇)
 - [x] memvid/claude-brain · ⭐465 · NLPM 96/100 · upstream（SECURITY BLOCKED，HIGH shell injection，全部 3 bug 持续，hooks 生命周期架构，NL 表皮+JS 核心模式） · [案例](2026-07/2026-07-24-memvid-claude-brain.md)
@@ -330,9 +336,9 @@
 
 > 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。
 
-- ~~LerianStudio/ring · ⭐174~~
+- ~~LerianStudio/ring · ⭐174~~ → 已完成（2026-07-25，<500 但≥500池耗尽后最接近门槛）
 - ~~aaronmaturen/claude-plugin · ⭐1~~
-- ~~agent-sh/agnix · ⭐207~~
+- ~~agent-sh/agnix · ⭐207~~ → 已完成（2026-07-25，<500 但≥500池耗尽后最接近门槛）
 - ~~agent-sh/enhance · ⭐3~~
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
 - ~~alirezarezvani/claude-skills · ⭐N/A~~
