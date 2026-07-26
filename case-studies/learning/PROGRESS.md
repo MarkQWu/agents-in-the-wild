@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：194（截至 2026-07-25）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上，≥500 池持续耗尽）
-**待处理**：16 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-25
+**已学**：198（截至 2026-07-26）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
+**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-26
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-26 (4 篇)
+- [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
+- [x] deanpeters/Product-Manager-Skills · ⭐N/A · NLPM 89/100 · upstream（SECURITY CLEAR，best_for/scenarios 全部 70 skills 已修，allowed-tools+empty-input 持续，PR #8 安全修复已合并；链式 skills+稳定可差分 schema 架构） · [案例](2026-07/2026-07-26-deanpeters-Product-Manager-Skills.md)
+- [x] ananddtyagi/cc-marketplace · ⭐N/A · NLPM 73/100 · upstream（SECURITY CLEAR，5 个 PR #44-#48 全部仍开放，5 个 bug 全部持续；多贡献者目录型仓库架构；PR 无响应本身是维护信号） · [案例](2026-07/2026-07-26-ananddtyagi-cc-marketplace.md)
+- [x] yonatangross/orchestkit · ⭐149 · NLPM 84/100 · upstream（SECURITY CRITICAL，eval/webhook/MCP矛盾/TaskGet全部持续，examplePrompts 从 0/15→36/36 全补，agents 从 15→36，artifacts 从 103→265+） · [案例](2026-07/2026-07-26-yonatangross-orchestkit.md)
 
 ### 2026-07-25 (4 篇)
 - [x] mbruhler/claude-orchestration · ⭐215 · NLPM 82/100 · upstream（SECURITY CLEAR，Write 工具未声明+文档死链+examples/ 目录 3 个 bug 持续，namespace 已加，hardcoded 路径已修，security-auditor 新 agent 已加；Socratic 工作流架构） · [案例](2026-07/2026-07-25-mbruhler-claude-orchestration.md)

@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| yonatangross/orchestkit | ⭐149 | 84/100 | upstream（SECURITY CRITICAL，eval stamp-counts.sh:30 持续，webhook 全量 27 事件持续，component-curator MCP 矛盾持续，TaskGet 未声明持续；examplePrompts 从 0/15→36/36 全补；agents 从 15 增到 36，artifacts 从 103 增到 265+） | 2026-07-26 | [2026-07/2026-07-26-yonatangross-orchestkit.md](2026-07/2026-07-26-yonatangross-orchestkit.md) |
+| ananddtyagi/cc-marketplace | ⭐N/A | 73/100 | upstream（SECURITY CLEAR，5 个 PR #44-#48 全部仍开放，5 个 bug 全部持续：frontmatter 缺失/YAML 格式错误/name 不匹配/描述占位符；多贡献者目录型仓库架构；PR 无响应本身是维护信号） | 2026-07-26 | [2026-07/2026-07-26-ananddtyagi-cc-marketplace.md](2026-07/2026-07-26-ananddtyagi-cc-marketplace.md) |
+| deanpeters/Product-Manager-Skills | ⭐N/A | 89/100 | upstream（SECURITY CLEAR，case_study_candidate；best_for/scenarios 全部 70 skills 已修，allowed-tools+empty-input 持续，PR #8 安全修复已合并，PR #7 未合并；链式 skills+稳定可差分 schema+YAML catalog 架构） | 2026-07-26 | [2026-07/2026-07-26-deanpeters-Product-Manager-Skills.md](2026-07/2026-07-26-deanpeters-Product-Manager-Skills.md) |
+| xiaolai/loc-guardian-for-claude | ⭐N/A | 97/100 | upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构；经典参考实现） | 2026-07-26 | [2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md) |
 | mbruhler/claude-orchestration | ⭐215 | 82/100 | upstream（SECURITY CLEAR，Write 工具未声明+文档死链持续，命名空间 ring: 风格已加，安全审计员新 agent 已加，hardcoded 路径已修） | 2026-07-25 | [2026-07/2026-07-25-mbruhler-claude-orchestration.md](2026-07/2026-07-25-mbruhler-claude-orchestration.md) |
 | agent-sh/agnix | ⭐207 | 64/100 | upstream（SECURITY REVIEW，curl\|bash 系测试夹具误判；ALL 5 production bugs 已全修；v0.40.0 增至 437 rules；NL 表皮+原生二进制核心架构） | 2026-07-25 | [2026-07/2026-07-25-agent-sh-agnix.md](2026-07/2026-07-25-agent-sh-agnix.md) |
 | webdevtodayjason/sub-agents | ⭐189 | 78/100 | upstream（SECURITY REVIEW→shell:true 已修，name: 已修，model: 已修，Bash tool 已修；新增 ElevenLabs MCP 语音通知；v1.5.5） | 2026-07-25 | [2026-07/2026-07-25-webdevtodayjason-sub-agents.md](2026-07/2026-07-25-webdevtodayjason-sub-agents.md) |
