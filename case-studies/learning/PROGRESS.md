@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：198（截至 2026-07-26）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
-**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-26
+**已学**：202（截至 2026-07-27）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-07-27 处理 agiletec-inc-airis-mcp-gateway（151★）、kangraemin-claude-inspector（115★）、c0x12c-ai-toolkit（61★）、jnuyens-gsd-plugin（9★）——同上，≥500 池持续耗尽，选取星数最高的 4 个剩余 upstream）
+**待处理**：10 个 upstream（均 <500★ 且无 exemplar_published）
+**最后更新**：2026-07-27
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-27 (4 篇)
+- [x] agiletec-inc/airis-mcp-gateway · ⭐151 · NLPM 90/100 · upstream（SECURITY BLOCKED→CRITICAL curl|bash×3+HIGH shell injection 全部持续；4 skills 零 examples 持续；routing-table.json 外部化+COLD_TOOLS_IN_LIST降级模式新增；MCP 路由网关+NL 配置复印架构） · [案例](2026-07/2026-07-27-agiletec-inc-airis-mcp-gateway.md)
+- [x] kangraemin/claude-inspector · ⭐115 · NLPM 76/100 · upstream（SECURITY REVIEW→Medium 2 个，3 agents 全无 name 字段持续，reviewer 孤引用~/.claude/rules/review-rules.md 持续；Homebrew Cask 分发+截图国际化新增；NL 表皮+Electron 原生核心架构） · [案例](2026-07/2026-07-27-kangraemin-claude-inspector.md)
+- [x] c0x12c/ai-toolkit · ⭐61 · NLPM 96/100 · upstream（SECURITY REVIEW→Medium 3 个，66 commands 全无 allowed-tools 系统性持续，BUG-1 phase-reviewer 无 Bash 持续；v1.22.1→v1.27.0，bridges/telegram 新增，命令从 25→69；Spartan 纪律+命令路由+专家 Agent 架构） · [案例](2026-07/2026-07-27-c0x12c-ai-toolkit.md)
+- [x] jnuyens/gsd-plugin · ⭐9 · NLPM 90.3/100 · upstream（SECURITY CLEAR，0/33 agents 零 model 声明持续，vague quantifiers 系统性；v2.38.8→v4.4.0，schema/handoff-v1.json+worktree-path-safety 新增；MCP 状态机+三层编排+references/共享知识层架构） · [案例](2026-07/2026-07-27-jnuyens-gsd-plugin.md)
 
 ### 2026-07-26 (4 篇)
 - [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
