@@ -7,12 +7,23 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-07-20",
+  "last_refreshed": "2026-07-27",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
   ],
   "repos": [
+    {
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "full_name": "MarkQWu/-",
+      "language": null,
+      "private": false,
+      "pushed_at": "2026-07-21T22:39:56Z",
+      "stars": 0,
+      "url": "https://github.com/MarkQWu/-",
+      "priority": "high",
+      "has_nl_artifacts": true
+    },
     {
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "full_name": "MarkQWu/gstack",
