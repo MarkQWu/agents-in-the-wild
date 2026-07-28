@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：198（截至 2026-07-26）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
-**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-26
+**已学**：202（截至 2026-07-28）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-07-28 处理 agiletec-inc-airis-mcp-gateway（151★）、affaan-m-everything-claude-code（0★）、agent-sh-enhance（3★）、aaronmaturen-claude-plugin（1★）——≥500 池持续耗尽，选取余量中最具安全与工程对比价值的 4 个案例）
+**待处理**：8 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-28
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-28 (4 篇)
+- [x] agiletec-inc/airis-mcp-gateway · ⭐151 · NLPM 90/100 · upstream（SECURITY BLOCKED—3×Critical curl|bash+shell injection，90/100 NL 高分但安全红线；4 skill 全无 examples；install.sh curl|bash 持续，VERSION=latest 持续；routing-table.json config 驱动新增） · [案例](2026-07/2026-07-28-agiletec-inc-airis-mcp-gateway.md)
+- [x] affaan-m/everything-claude-code · ⭐0 · NLPM 84/100 · upstream（SECURITY BLOCKED，934 个工件迄今最大，install.sh 已重写为 Node.js 委托，the-security-guide.md 新增，前 94 个 command 已补 frontmatter；GAN 式自进化架构） · [案例](2026-07/2026-07-28-affaan-m-everything-claude-code.md)
+- [x] agent-sh/enhance · ⭐3 · NLPM 86/100 · upstream（SECURITY CLEAR，NL+原生二进制核心架构，enhance.md frontmatter 已修，version 漂移 5.1.0 vs 1.0.0 持续，8 个 agent 零 examples 持续） · [案例](2026-07/2026-07-28-agent-sh-enhance.md)
+- [x] aaronmaturen/claude-plugin · ⭐1 · NLPM 36/100 · upstream（SECURITY REVIEW，26 个 command 全部缺 frontmatter—3 个月后仍未修，Context7 MCP npx -y 未固定，JIRA 集成+$REPORT_BASE 约定有价值） · [案例](2026-07/2026-07-28-aaronmaturen-claude-plugin.md)
 
 ### 2026-07-26 (4 篇)
 - [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
@@ -343,10 +349,10 @@
 > 注：2026-07-14 将 pbakaus/impeccable、openai/symphony、agent-sh/agentsys、ccplugins/awesome-claude-code-plugins 从跳过池移出（registry null-star 数据陈旧，实际均≥500 stars）。
 
 - ~~LerianStudio/ring · ⭐174~~ → 已完成（2026-07-25，<500 但≥500池耗尽后最接近门槛）
-- ~~aaronmaturen/claude-plugin · ⭐1~~
+- ~~aaronmaturen/claude-plugin · ⭐1~~ → 已完成（2026-07-28，<500 但≥500池耗尽后最具工程对比价值）
 - ~~agent-sh/agnix · ⭐207~~ → 已完成（2026-07-25，<500 但≥500池耗尽后最接近门槛）
-- ~~agent-sh/enhance · ⭐3~~
-- ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
+- ~~agent-sh/enhance · ⭐3~~ → 已完成（2026-07-28，<500 但≥500池耗尽后最具工程对比价值）
+- ~~agiletec-inc/airis-mcp-gateway · ⭐151~~ → 已完成（2026-07-28，<500 但≥500池耗尽后最具工程对比价值）
 - ~~alirezarezvani/claude-skills · ⭐N/A~~
 - ~~c0x12c/ai-toolkit · ⭐61~~
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
