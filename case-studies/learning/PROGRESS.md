@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：198（截至 2026-07-26）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
-**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-26
+**已学**：202（截至 2026-07-29）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-07-29 处理 agiletec-inc-airis-mcp-gateway（151★）、kangraemin-claude-inspector（115★）、c0x12c-ai-toolkit（61★）、navapbc-digital-service-orchestra（3★）——≥500 池持续耗尽，按星数降序选取剩余 upstream 中学习价值最高的 4 个）
+**待处理**：8 个 upstream（均 <10 stars，≥500 池已完全耗尽）
+**最后更新**：2026-07-29
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-29 (4 篇)
+- [x] agiletec-inc/airis-mcp-gateway · ⭐151 · NLPM 90/100 · upstream（SECURITY BLOCKED，curl|bash 3 处 Critical 持续，shell 注入 Medium 持续，4 个 skill 零示例持续；scripts/airis-gateway→airis-mcp-gateway 改名；MCP 按需启动架构；CLAUDE.md 禁止区模式） · [案例](2026-07/2026-07-29-agiletec-inc-airis-mcp-gateway.md)
+- [x] kangraemin/claude-inspector · ⭐115 · NLPM 76/100 · upstream（SECURITY REVIEW，3 个 agent 全部缺 name 字段持续导致无法注册，review-rules.md 外部引用持续；3 个 skill 100/100 完美；静默失效陷阱案例；无架构演进） · [案例](2026-07/2026-07-29-kangraemin-claude-inspector.md)
+- [x] c0x12c/ai-toolkit · ⭐61 · NLPM 96/100 · upstream（SECURITY REVIEW，allowed-tools 全 69 命令缺失持续，phase-reviewer Bash 未声明持续，guard 无空值处理持续；v1.22.1→v1.27.0 +5版本活跃迭代，bridges/telegram 新增；Spartan GSD 路由器+角色化 agent 架构） · [案例](2026-07/2026-07-29-c0x12c-ai-toolkit.md)
+- [x] navapbc/digital-service-orchestra · ⭐3 · NLPM 84.8/100 · upstream（SECURITY PASS，bot-psychologist taxonomy 17→16 不一致持续；agents 从 31 暴增到 63；skills 从 25→39；DSO v1.16.11 双渠道发布；Router+agent 矩阵+JSON schema 通信架构；drift injection 测试模式） · [案例](2026-07/2026-07-29-navapbc-digital-service-orchestra.md)
 
 ### 2026-07-26 (4 篇)
 - [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
@@ -308,33 +314,21 @@
 
 ---
 
-## 📋 待处理（按 stars 降序，共 63 个 upstream ≥500 stars）
+## 📋 待处理（共 8 个 upstream，均 <10 stars——≥500 池已完全耗尽）
 
-> 优先级高（≥3000 stars）：
+> ⚠️ 2026-07-29 起，所有 ≥10 stars 的 upstream audit 已全部完成。以下为剩余极低星数案例，学习价值有限，仅在无新 audit 时处理：
 
-- [ ] wasp-lang/open-saas · ⭐14349 · upstream
-- [ ] ykdojo/claude-code-tips · ⭐7505 · upstream
-- [ ] wanshuiyin/Auto-claude-code-research-in-sleep · ✅ 已完成 (2026-07-04)
-- [ ] zubair-trabzada/geo-seo-claude · ⭐5411 · upstream
-- [ ] zebbern/claude-code-guide · ⭐3921 · upstream
-- [ ] twostraws/SwiftUI-Agent-Skill · ✅ 已完成 (2026-07-04)
-- [ ] uditgoenka/autoresearch · ✅ 已完成 (2026-07-04)
-- [ ] zhukunpenglinyutong/jetbrains-cc-gui · ⭐3355 · upstream
-- [ ] tw93/Waza · ✅ 已完成 (2026-07-02)
-- [ ] timescale/pg-aiguide · ✅ 已完成 (2026-07-02)
-
-> 中等优先级（500-3000 stars）：
-
-- [ ] wuji-labs/nopua · ⭐1229 · upstream
-- [ ] timescale/pg-aiguide · ✅ 已完成 (2026-07-02)
-- [ ] tirth8205/code-review-graph · ✅ 已完成 (2026-07-02)
-- [ ] team-attention/plugins-for-claude-natives · ✅ 已完成 (2026-07-02)
-- [ ] vstorm-co/pydantic-deepagents · ✅ 已完成 (2026-07-04)
-- [ ] zhsama/claude-sub-agent · ⭐576 · upstream
-- [ ] wecode-ai/Wegent · ⭐521 · upstream
-- [x] josstei/maestro-orchestrate · ⭐370 · ✅ 已完成 (2026-07-24)
-
-...（其余 48 个 <500 stars 或 N/A，视情况处理）
+- [ ] jnuyens/gsd-plugin · ⭐9 · upstream
+- [ ] navapbc/digital-service-orchestra · ✅ 已完成 (2026-07-29)（3★）
+- [ ] agent-sh/enhance · ⭐3 · upstream
+- [ ] aaronmaturen/claude-plugin · ⭐1 · upstream
+- [ ] thedotmack/claude-mem · ⭐0 · upstream
+- [ ] gadievron/raptor · ⭐0 · upstream
+- [ ] eroslifestyle/Claude-Orchestrator-Plugin · ⭐0 · upstream
+- [ ] diet103/claude-code-infrastructure-showcase · ⭐0 · upstream
+- [ ] davepoon/buildwithclaude · ⭐0 · upstream
+- [ ] alirezarezvani/claude-skills · ⭐N/A · upstream
+- [ ] affaan-m/everything-claude-code · ⭐N/A · upstream
 
 ---
 
