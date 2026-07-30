@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：198（截至 2026-07-26）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
-**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-26
+**已学**：202（截至 2026-07-30）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-07-30 处理 aaronmaturen-claude-plugin（1★）、affaan-m-everything-claude-code（N/A★）、agent-sh-enhance（3★）、agiletec-inc-airis-mcp-gateway（151★）——同上）
+**待处理**：10 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-07-30
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-07-30 (4 篇)
+- [x] aaronmaturen/claude-plugin · ⭐1 · NLPM 36/100 · upstream（SECURITY REVIEW，contributed，14/26 commands 已补 frontmatter，context7 pin 未修；任务矩阵+双 skill 模式，bureau commands 缺 name+allowed-tools 同类问题） · [案例](2026-07/2026-07-30-aaronmaturen-claude-plugin.md)
+- [x] affaan-m/everything-claude-code · ⭐N/A · NLPM 84/100 · upstream（SECURITY BLOCKED→hooks CRITICAL 已修，learn.md frontmatter 已修；934 工件，281 skills，67 agents；超级插件+多运行时适配器+本地化镜像架构） · [案例](2026-07/2026-07-30-affaan-m-everything-claude-code.md)
+- [x] agent-sh/enhance · ⭐3 · NLPM 86/100 · upstream（SECURITY CLEAR，enhance.md allowed-tools 已修，version mismatch 5.1.0 vs 1.0.0 未修，8 agents 零示例持续；单入口+并行专家 agent+知识下沉 skill 模式，agent-knowledge/ 跨会话学习） · [案例](2026-07/2026-07-30-agent-sh-enhance.md)
+- [x] agiletec-inc/airis-mcp-gateway · ⭐151 · NLPM 90/100 · upstream（SECURITY BLOCKED，3 Critical curl|bash 未修，4 skills 零示例，AIRIS_VERSION=latest 未修；Bash(task *) 权限最小化+capability-router 路由模式，配置契约测试新增） · [案例](2026-07/2026-07-30-agiletec-inc-airis-mcp-gateway.md)
 
 ### 2026-07-26 (4 篇)
 - [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
