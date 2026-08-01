@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：198（截至 2026-07-26）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
-**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-26
+**已学**：202（截至 2026-08-01）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-08-01 处理 agiletec-inc-airis-mcp-gateway（151★）、kangraemin-claude-inspector（115★）、c0x12c-ai-toolkit（61★）、jnuyens-gsd-plugin（9★）——≥500 池已耗尽，按星数降序选取剩余 upstream 案例中学习价值最高的 4 个）
+**待处理**：8 个 upstream（均 <500 stars，按星数降序：agent-sh-enhance 3★、navapbc-digital-service-orchestra 3★、aaronmaturen-claude-plugin 1★、affaan-m-everything-claude-code 0★、alirezarezvani-claude-skills 0★、davepoon-buildwithclaude 0★、diet103-claude-code-infrastructure-showcase 0★、eroslifestyle-Claude-Orchestrator-Plugin 0★、gadievron-raptor 0★、thedotmack-claude-mem 0★）
+**最后更新**：2026-08-01
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-08-01 (4 篇)
+- [x] agiletec-inc/airis-mcp-gateway · ⭐151 · NLPM 90/100 · upstream（SECURITY BLOCKED，3 CRITICAL curl|bash+shell injection 持续；skills/ 包架构整体移除；日文 CLAUDE.md 边界清单模式；NL薄皮+Shell厚核架构） · [案例](2026-08/2026-08-01-agiletec-inc-airis-mcp-gateway.md)
+- [x] kangraemin/claude-inspector · ⭐115 · NLPM 76/100 · upstream（SECURITY REVIEW，3 agents 全部缺 name 字段持续，review-rules.md 孤儿引用持续；skills 100/100 vs agents 47.7/100 极端分化；韩文 Electron 桌面调试工具） · [案例](2026-08/2026-08-01-kangraemin-claude-inspector.md)
+- [x] c0x12c/ai-toolkit · ⭐61 · NLPM 96/100 · upstream（SECURITY CLEAR，phase-reviewer 新增 model:sonnet+examples，62 commands 仍缺 allowed-tools，terraform-best-practices 仍缺 allowed_tools；双目录镜像 Spartan/GSD 架构） · [案例](2026-08/2026-08-01-c0x12c-ai-toolkit.md)
+- [x] jnuyens/gsd-plugin · ⭐9 · NLPM 90/100 · upstream（SECURITY CLEAR，33/33 agents 无 model 声明持续，9 个薄 skill 持续；115 NL 文件全过阈值；多 agent 流水线+文件驱动状态架构；调试三层分离值得借鉴） · [案例](2026-08/2026-08-01-jnuyens-gsd-plugin.md)
 
 ### 2026-07-26 (4 篇)
 - [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
