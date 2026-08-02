@@ -16,6 +16,10 @@
 
 | 仓库 | Stars | NLPM | 来源 | 生成日期 | 案例 |
 |---|---|---|---|---|---|
+| agiletec-inc/airis-mcp-gateway | ⭐151 | 90/100 | upstream（SECURITY BLOCKED，curl\|bash Critical 3个持续，skills子包已删除，troubleshoot.md/$ARGUMENTS/airis-research-first.md持续；MCP接入层+严格边界护城河架构） | 2026-08-02 | [2026-08/2026-08-02-agiletec-inc-airis-mcp-gateway.md](2026-08/2026-08-02-agiletec-inc-airis-mcp-gateway.md) |
+| kangraemin/claude-inspector | ⭐115 | 76/100 | upstream（SECURITY REVIEW，3个agent全部缺name: bug持续，review-rules.md孤儿引用持续；Electron应用+最小NL辅助开发层架构） | 2026-08-02 | [2026-08/2026-08-02-kangraemin-claude-inspector.md](2026-08/2026-08-02-kangraemin-claude-inspector.md) |
+| c0x12c/ai-toolkit | ⭐61 | 96/100 | upstream（SECURITY REVIEW，BUG-1 phase-reviewer已修，BUG-2 terraform-best-practices持续，61个命令仍无allowed-tools；单仓双入口编译分发架构；v1.27.0） | 2026-08-02 | [2026-08/2026-08-02-c0x12c-ai-toolkit.md](2026-08/2026-08-02-c0x12c-ai-toolkit.md) |
+| jnuyens/gsd-plugin | ⭐9 | 90/100 | upstream（SECURITY CLEAR，0/33 agents有model: 持续，零示例3个agent持续，PostToolUse hook过宽持续；v4.5.2发布于今日；全覆盖钩子+文件状态机架构） | 2026-08-02 | [2026-08/2026-08-02-jnuyens-gsd-plugin.md](2026-08/2026-08-02-jnuyens-gsd-plugin.md) |
 | yonatangross/orchestkit | ⭐149 | 84/100 | upstream（SECURITY CRITICAL，eval stamp-counts.sh:30 持续，webhook 全量 27 事件持续，component-curator MCP 矛盾持续，TaskGet 未声明持续；examplePrompts 从 0/15→36/36 全补；agents 从 15 增到 36，artifacts 从 103 增到 265+） | 2026-07-26 | [2026-07/2026-07-26-yonatangross-orchestkit.md](2026-07/2026-07-26-yonatangross-orchestkit.md) |
 | ananddtyagi/cc-marketplace | ⭐N/A | 73/100 | upstream（SECURITY CLEAR，5 个 PR #44-#48 全部仍开放，5 个 bug 全部持续：frontmatter 缺失/YAML 格式错误/name 不匹配/描述占位符；多贡献者目录型仓库架构；PR 无响应本身是维护信号） | 2026-07-26 | [2026-07/2026-07-26-ananddtyagi-cc-marketplace.md](2026-07/2026-07-26-ananddtyagi-cc-marketplace.md) |
 | deanpeters/Product-Manager-Skills | ⭐N/A | 89/100 | upstream（SECURITY CLEAR，case_study_candidate；best_for/scenarios 全部 70 skills 已修，allowed-tools+empty-input 持续，PR #8 安全修复已合并，PR #7 未合并；链式 skills+稳定可差分 schema+YAML catalog 架构） | 2026-07-26 | [2026-07/2026-07-26-deanpeters-Product-Manager-Skills.md](2026-07/2026-07-26-deanpeters-Product-Manager-Skills.md) |
