@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：198（截至 2026-07-26）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例）
-**待处理**：12 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-07-26
+**已学**：202（截至 2026-08-03）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-08-03 处理 navapbc-digital-service-orchestra（3★）、alirezarezvani-claude-skills（N/A★）、davepoon-buildwithclaude（N/A★）、affaan-m-everything-claude-code（N/A★）——≥500 池持续耗尽，按分发垫片架构/域隔离套件/副本漂移反模式/多平台多语言工具集学习价值选取）
+**待处理**：8 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-08-03
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-08-03 (4 篇)
+- [x] navapbc/digital-service-orchestra · ⭐3 · NLPM 84.8/100 · upstream（≥500池耗尽，安全 PASS，分发垫片架构，BUG-001 部分修复，BUG-002→17点分类法，Q004 持续） · [案例](2026-08/2026-08-03-navapbc-digital-service-orchestra.md)
+- [x] alirezarezvani/claude-skills · ⭐N/A · NLPM 92/100 · upstream（≥500池耗尽，SECURITY BLOCKED→curl|bash持续，playwright frontmatter 2个已修，SKILL-AUTHORING-STANDARD 新增，wiki agents 审计误报） · [案例](2026-08/2026-08-03-alirezarezvani-claude-skills.md)
+- [x] davepoon/buildwithclaude · ⭐N/A · NLPM 77/100 · upstream（≥500池耗尽，SECURITY BLOCKED→budgetclaw curl|sh echo持续，scheduler frontmatter 已修，all-commands name 字段全部持续，副本漂移反模式） · [案例](2026-08/2026-08-03-davepoon-buildwithclaude.md)
+- [x] affaan-m/everything-claude-code · ⭐N/A · NLPM 84/100 · upstream（≥500池耗尽，SECURITY BLOCKED→npx CRITICAL 已修为本地bootstrap，test-coverage/gan-build name 持续，12+ 语言，GAN 循环，Kiro IDE 支持） · [案例](2026-08/2026-08-03-affaan-m-everything-claude-code.md)
 
 ### 2026-07-26 (4 篇)
 - [x] xiaolai/loc-guardian-for-claude · ⭐N/A · NLPM 97/100 · upstream（SECURITY CLEAR，example 已从 1 增到 2，allowed-tools/concise/obvious 持续；双 agent 管线+结构化数据契约+最小 skill 访问架构） · [案例](2026-07/2026-07-26-xiaolai-loc-guardian-for-claude.md)
@@ -347,7 +353,10 @@
 - ~~agent-sh/agnix · ⭐207~~ → 已完成（2026-07-25，<500 但≥500池耗尽后最接近门槛）
 - ~~agent-sh/enhance · ⭐3~~
 - ~~agiletec-inc/airis-mcp-gateway · ⭐151~~
-- ~~alirezarezvani/claude-skills · ⭐N/A~~
+- ~~affaan-m/everything-claude-code · ⭐N/A~~ → 已完成（2026-08-03，≥500池耗尽后按学习价值补选）
+- ~~alirezarezvani/claude-skills · ⭐N/A~~ → 已完成（2026-08-03，≥500池耗尽后按学习价值补选）
+- ~~davepoon/buildwithclaude · ⭐N/A~~ → 已完成（2026-08-03，≥500池耗尽后按学习价值补选）
+- ~~navapbc/digital-service-orchestra · ⭐3~~ → 已完成（2026-08-03，≥500池耗尽后按学习价值补选）
 - ~~c0x12c/ai-toolkit · ⭐61~~
 - ~~eroslifestyle/Claude-Orchestrator-Plugin · ⭐0~~
 - ~~jnuyens/gsd-plugin · ⭐9~~
