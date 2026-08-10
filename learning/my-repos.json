@@ -7,7 +7,7 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-08-03",
+  "last_refreshed": "2026-08-10",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
@@ -21,7 +21,7 @@
       "pushed_at": "2026-07-21T22:39:56Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/-",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": true
     },
     {
