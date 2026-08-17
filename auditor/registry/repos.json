@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 213,
+    "total_discovered": 214,
     "total_contributed": 6,
-    "last_discovery": "2026-07-20T08:57:06Z",
+    "last_discovery": "2026-08-17T06:53:15Z",
     "total_audited": 12
   },
   "repos": {
@@ -7905,6 +7905,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 31,
+      "prs": []
+    },
+    "ccch1mneyyy/dsh-TUI": {
+      "discovered": "2026-08-17T06:53:15Z",
+      "stars": 1686,
+      "artifacts": 7,
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 42,
       "prs": []
     }
   }
