@@ -7,7 +7,7 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-08-17",
+  "last_refreshed": "2026-08-24",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
@@ -32,28 +32,6 @@
       "pushed_at": "2026-07-21T22:39:56Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/-",
-      "priority": "medium",
-      "has_nl_artifacts": true
-    },
-    {
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "full_name": "MarkQWu/gstack",
-      "language": null,
-      "private": false,
-      "pushed_at": "2026-06-21T14:00:30Z",
-      "stars": 0,
-      "url": "https://github.com/MarkQWu/gstack",
-      "priority": "medium",
-      "has_nl_artifacts": true
-    },
-    {
-      "description": "Turn AI sessions into a maintained, human-reviewed knowledge base: capture → compile → review → query, gated by trust tiers, rendered by a bundled dashboard. Claude Code plugin.",
-      "full_name": "MarkQWu/bureau",
-      "language": null,
-      "private": false,
-      "pushed_at": "2026-06-21T01:20:59Z",
-      "stars": 0,
-      "url": "https://github.com/MarkQWu/bureau",
       "priority": "medium",
       "has_nl_artifacts": true
     }
