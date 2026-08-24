@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 214,
+    "total_discovered": 215,
     "total_contributed": 6,
-    "last_discovery": "2026-08-17T06:53:15Z",
+    "last_discovery": "2026-08-24T06:56:22Z",
     "total_audited": 12
   },
   "repos": {
@@ -7915,6 +7915,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 42,
+      "prs": []
+    },
+    "anthropics/claude-plugins-community": {
+      "discovered": "2026-08-24T06:56:22Z",
+      "stars": 1092,
+      "artifacts": 35,
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 43,
       "prs": []
     }
   }

@@ -2159,3 +2159,4 @@
 {"timestamp":"2026-08-03T09:42:44Z","workflow":"discover","event":"search_complete","run_id":"30802501841","run_number":14,"data":{"candidates":97,"new":29,"worthy":0,"oversized":18}}
 {"timestamp":"2026-08-10T07:39:27Z","workflow":"discover","event":"search_complete","run_id":"31366678160","run_number":15,"data":{"candidates":96,"new":29,"worthy":0,"oversized":9}}
 {"timestamp":"2026-08-17T06:53:18Z","workflow":"discover","event":"search_complete","run_id":"32003369252","run_number":16,"data":{"candidates":96,"new":31,"worthy":1,"oversized":18}}
+{"timestamp":"2026-08-24T06:56:26Z","workflow":"discover","event":"search_complete","run_id":"32699277506","run_number":17,"data":{"candidates":96,"new":31,"worthy":1,"oversized":18}}
