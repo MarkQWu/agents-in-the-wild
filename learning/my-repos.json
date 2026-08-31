@@ -7,7 +7,7 @@
     "require_nl_artifacts": false,
     "include_private": false
   },
-  "last_refreshed": "2026-08-24",
+  "last_refreshed": "2026-08-31",
   "pinned": [],
   "excluded": [
     "MarkQWu/agents-in-the-wild"
@@ -21,7 +21,7 @@
       "pushed_at": "2026-08-11T00:56:09Z",
       "stars": 0,
       "url": "https://github.com/MarkQWu/baoyu-skills",
-      "priority": "high",
+      "priority": "medium",
       "has_nl_artifacts": true
     },
     {
