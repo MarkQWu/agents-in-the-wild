@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 215,
+    "total_discovered": 216,
     "total_contributed": 6,
-    "last_discovery": "2026-08-24T06:56:22Z",
+    "last_discovery": "2026-08-31T12:48:16Z",
     "total_audited": 12
   },
   "repos": {
@@ -7925,6 +7925,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 43,
+      "prs": []
+    },
+    "Nanako0129/sepia": {
+      "discovered": "2026-08-31T12:48:16Z",
+      "stars": 1127,
+      "artifacts": 7,
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 44,
       "prs": []
     }
   }
