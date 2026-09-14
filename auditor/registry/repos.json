@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 216,
+    "total_discovered": 219,
     "total_contributed": 6,
-    "last_discovery": "2026-08-31T12:48:16Z",
+    "last_discovery": "2026-09-14T11:54:42Z",
     "total_audited": 12
   },
   "repos": {
@@ -7935,6 +7935,36 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 44,
+      "prs": []
+    },
+    "fivetaku/gptaku_plugins": {
+      "discovered": "2026-09-14T11:54:42Z",
+      "stars": 1136,
+      "artifacts": 5,
+      "description": "A Claude Code plugin marketplace for people who want to become AI Native",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 45,
+      "prs": []
+    },
+    "plugin87/ux-ui-agent-skills": {
+      "discovered": "2026-09-14T11:54:42Z",
+      "stars": 1272,
+      "artifacts": 27,
+      "description": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 46,
+      "prs": []
+    },
+    "zenstory-ai/oh-story-claudecode": {
+      "discovered": "2026-09-14T11:54:42Z",
+      "stars": 6862,
+      "artifacts": 57,
+      "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 | 13 skills for novel writing and long-form fiction with file-based continuity tracking. MIT.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 47,
       "prs": []
     }
   }
