@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 222,
+    "total_discovered": 223,
     "total_contributed": 6,
-    "last_discovery": "2026-09-28T13:00:43Z",
+    "last_discovery": "2026-10-05T13:42:31Z",
     "total_audited": 12
   },
   "repos": {
@@ -7995,6 +7995,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 50,
+      "prs": []
+    },
+    "tigerless-labs/autoharness": {
+      "discovered": "2026-10-05T13:42:31Z",
+      "stars": 7924,
+      "artifacts": 6,
+      "description": "Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 51,
       "prs": []
     }
   }
