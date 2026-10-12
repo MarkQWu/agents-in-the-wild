@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 223,
+    "total_discovered": 224,
     "total_contributed": 6,
-    "last_discovery": "2026-10-05T13:42:31Z",
+    "last_discovery": "2026-10-12T14:31:32Z",
     "total_audited": 12
   },
   "repos": {
@@ -8005,6 +8005,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 51,
+      "prs": []
+    },
+    "EpicGames/unreal-engine-skills-for-claude-code-plugin": {
+      "discovered": "2026-10-12T14:31:32Z",
+      "stars": 522,
+      "artifacts": 5,
+      "description": "",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 52,
       "prs": []
     }
   }
