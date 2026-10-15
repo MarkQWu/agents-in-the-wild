@@ -1,14 +1,20 @@
 # 学习进度
 
 **总量**：210 audit reports（207 upstream + 3 local）
-**已学**：202（截至 2026-08-04）
-**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-08-04 处理 c0x12c-ai-toolkit（61★）、thedotmack-claude-mem（N/A★）、jnuyens-gsd-plugin（9★）、gadievron-raptor（N/A★）——≥500 池持续耗尽，以得分多样性（96/97/90/93）和架构模式多样性选取）
-**待处理**：8 个 upstream（≥500 stars 或 exemplar_published）
-**最后更新**：2026-08-04
+**已学**：206（截至 2026-08-06）
+**<500 星跳过**：57（注：2026-07-19 将 czlonkowski/n8n-skills、dontbesilent2025/dbskill、kazukinagata/shinkoku、krodak/clickup-cli 从跳过池移出，原因：exemplar_published=true 覆盖星数门槛；2026-07-21 将 pe-menezes-fin-claude-plugin、leowux-pony、tech-leads-club-agent-skills、shinpr-claude-code-workflows 从跳过池移出；2026-07-23 将 ooiyeefei-ccc、uppinote20-claude-dashboard、vladikk-modularity 从跳过池移出，同样原因；2026-07-24 处理 memvid-claude-brain（465★）、levnikolaevich-claude-code-skills（423★）、josstei-maestro-orchestrate（370★）、peterfei-ai-agent-team（336★）——均 <500 但为现存最接近门槛的未处理 upstream audit，≥500 池已连续耗尽；2026-07-25 处理 mbruhler-claude-orchestration（215★）、agent-sh-agnix（207★）、webdevtodayjason-sub-agents（189★）、LerianStudio-ring（174★）——同上；2026-07-26 处理 xiaolai-loc-guardian-for-claude（N/A★）、deanpeters-Product-Manager-Skills（N/A★）、ananddtyagi-cc-marketplace（N/A★）、yonatangross-orchestkit（149★）——≥500 池持续耗尽，选取 NLPM 学习价值最高的 4 个案例；2026-08-04 处理 c0x12c-ai-toolkit（61★）、thedotmack-claude-mem（N/A★）、jnuyens-gsd-plugin（9★）、gadievron-raptor（N/A★）——≥500 池持续耗尽，以得分多样性（96/97/90/93）和架构模式多样性选取；2026-08-06 处理 aaronmaturen-claude-plugin（1★）、agiletec-inc-airis-mcp-gateway（151★）、navapbc-digital-service-orchestra（3★）、alirezarezvani-claude-skills（N/A★）——≥500 池持续耗尽，以得分多样性（36/90/84.8/92）和架构模式多样性选取）
+**待处理**：4 个 upstream（≥500 stars 或 exemplar_published）
+**最后更新**：2026-08-06
 
 ---
 
 ## ✅ 已完成（按生成日期降序）
+
+### 2026-08-06 (4 篇)
+- [x] aaronmaturen/claude-plugin · ⭐1 · NLPM 36/100 · upstream（SECURITY REVIEW，26/26 commands 缺 frontmatter 已部分修复→12 个仍缺，Context7 MCP 版本未固定持续，/atm-scaffold 调用格式漂移持续；专业命令平铺集架构，Angular/Django 全栈工具箱） · [案例](2026-08/2026-08-06-aaronmaturen-claude-plugin.md)
+- [x] agiletec-inc/airis-mcp-gateway · ⭐151 · NLPM 90/100 · upstream（SECURITY BLOCKED，3 CRITICAL curl\|bash 持续，shell injection 持续；4 MCP skill 零示例持续，troubleshoot.md ARGUMENTS 空值保护持续；NL 表皮+原生代码核心架构，MCP 网关统一入口） · [案例](2026-08/2026-08-06-agiletec-inc-airis-mcp-gateway.md)
+- [x] navapbc/digital-service-orchestra · ⭐3 · NLPM 84.8/100 · upstream（SECURITY PASS，dispatch shim 23→0 全部删除，agents 31→53，skills 32→38；commit.md/review.md 零 frontmatter 持续，skill model 声明 2/38；专家 Agent 网格+仲裁层架构，v1.17.149） · [案例](2026-08/2026-08-06-navapbc-digital-service-orchestra.md)
+- [x] alirezarezvani/claude-skills · ⭐N/A · NLPM 92/100 · upstream（SECURITY BLOCKED，openclaw curl\|bash 持续，5 HIGH subprocess shell=True 持续；playwright-pro 子 skill frontmatter 7/7 持续，wiki agents Write/Edit 权限 3/3 持续；多域 Skill 聚合库架构，431 工件） · [案例](2026-08/2026-08-06-alirezarezvani-claude-skills.md)
 
 ### 2026-08-04 (4 篇)
 - [x] c0x12c/ai-toolkit · ⭐61 · NLPM 96/100 · upstream（SECURITY CLEAR，BUG-1 shell commands without Bash 持续，BUG-2 terraform allowed_tools 持续，Q-1 commands allowed-tools 5/70 部分修复；compiled mirror 架构 toolkit/→.codex/；commands 25→70，VERSION 1.22.1→1.27.0） · [案例](2026-08/2026-08-04-c0x12c-ai-toolkit.md)
