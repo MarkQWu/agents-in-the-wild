@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 224,
+    "total_discovered": 226,
     "total_contributed": 6,
-    "last_discovery": "2026-10-12T14:31:32Z",
+    "last_discovery": "2026-10-19T12:14:32Z",
     "total_audited": 12
   },
   "repos": {
@@ -8015,6 +8015,26 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 52,
+      "prs": []
+    },
+    "rehan-remade/universal-modder": {
+      "discovered": "2026-10-19T12:14:32Z",
+      "stars": 8402,
+      "artifacts": 64,
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 53,
+      "prs": []
+    },
+    "tt-a1i/archify": {
+      "discovered": "2026-10-19T12:14:32Z",
+      "stars": 85660,
+      "artifacts": 18,
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 54,
       "prs": []
     }
   }
