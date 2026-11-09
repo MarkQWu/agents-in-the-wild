@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 229,
+    "total_discovered": 230,
     "total_contributed": 6,
-    "last_discovery": "2026-11-02T14:51:38Z",
+    "last_discovery": "2026-11-09T15:17:29Z",
     "total_audited": 12
   },
   "repos": {
@@ -8065,6 +8065,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 57,
+      "prs": []
+    },
+    "gamedev-skills/awesome-gamedev-agent-skills": {
+      "discovered": "2026-11-09T15:17:29Z",
+      "stars": 7970,
+      "artifacts": 78,
+      "description": "77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 58,
       "prs": []
     }
   }
