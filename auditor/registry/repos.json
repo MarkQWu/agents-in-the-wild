@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 230,
+    "total_discovered": 231,
     "total_contributed": 6,
-    "last_discovery": "2026-11-09T15:17:29Z",
+    "last_discovery": "2026-11-16T14:53:26Z",
     "total_audited": 12
   },
   "repos": {
@@ -8075,6 +8075,16 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 58,
+      "prs": []
+    },
+    "irinabuht12-oss/marketing-skills": {
+      "discovered": "2026-11-16T14:53:26Z",
+      "stars": 7960,
+      "artifacts": 50,
+      "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 59,
       "prs": []
     }
   }
