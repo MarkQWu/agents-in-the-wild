@@ -2172,3 +2172,4 @@
 {"timestamp":"2026-11-02T14:51:46Z","workflow":"discover","event":"search_complete","run_id":"41465762911","run_number":27,"data":{"candidates":96,"new":35,"worthy":2,"oversized":18}}
 {"timestamp":"2026-11-09T15:17:33Z","workflow":"discover","event":"search_complete","run_id":"42642972329","run_number":28,"data":{"candidates":97,"new":35,"worthy":1,"oversized":27}}
 {"timestamp":"2026-11-16T14:53:30Z","workflow":"discover","event":"search_complete","run_id":"43890312631","run_number":29,"data":{"candidates":96,"new":35,"worthy":1,"oversized":18}}
+{"timestamp":"2026-11-23T17:29:25Z","workflow":"discover","event":"search_complete","run_id":"45227961614","run_number":30,"data":{"candidates":97,"new":36,"worthy":2,"oversized":27}}

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_discovered": 231,
+    "total_discovered": 233,
     "total_contributed": 6,
-    "last_discovery": "2026-11-16T14:53:26Z",
+    "last_discovery": "2026-11-23T17:29:18Z",
     "total_audited": 12
   },
   "repos": {
@@ -8085,6 +8085,26 @@
       "status": "discovered",
       "score": null,
       "audit_issue": 59,
+      "prs": []
+    },
+    "elementalsouls/Claude-BugHunter": {
+      "discovered": "2026-11-23T17:29:18Z",
+      "stars": 19285,
+      "artifacts": 99,
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 60,
+      "prs": []
+    },
+    "kajisho5/ffmpeg-skill": {
+      "discovered": "2026-11-23T17:29:18Z",
+      "stars": 10121,
+      "artifacts": 20,
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "status": "discovered",
+      "score": null,
+      "audit_issue": 61,
       "prs": []
     }
   }
